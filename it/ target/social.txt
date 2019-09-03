@@ -1372,7 +1372,7 @@
 1371	Aquarius Star Field
 1372	Cancer Star Field
 1373	Leo Star Field
-1374	Sanctuary
+1374	Sanctuari
 1375	Flores Sea Star
 1376	Timor Sea Star Field
 1377	Coral Starfish Field
