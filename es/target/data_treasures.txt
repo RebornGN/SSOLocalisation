@@ -176,7 +176,7 @@
 175	Recoge una cierta cantidad para canjear el Equipao adecuado.
 176	Luz de Determinación de Metis
 177	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
-178	Regalo de Aries II (Excelente)
+178	Regalo de Géminis (Excelente)
 179	Una ola de valor por dinero que se limita a un uso por persona.
 180	Puño de la Justicia
 181	Camiseta casual, diseño moderno, acabado fino
@@ -634,7 +634,7 @@
 633	Disfraces temáticos Paraiso Magico.
 634	Botas Americanas (F)
 635	Disfraces temáticos Paraiso Magico.
-636	Regalo de Aries II (Excelente)
+636	Regalo de Géminis (Excelente)
 637	Una ola de valor por dinero que se limita a un uso por persona.
 638	Alma de la Reliquia
 639	Puede elegir usar el valor de potencia de artefacto mejorado.
@@ -786,75 +786,95 @@
 785	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 786	Luz de Determinación de Metis
 787	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
-788	Ben.Diosa☆Acuario
+788	Ben.Diosa☆Aries
 789	...
-790	Ben.Diosa☆Acuario(II)
+790	Ben.Diosa☆Escorpio
 791	...
-792	Paquete de regalo de devolución de los puntos de Acuario
+792	Ben.Diosa☆Sagitario
 793	...
-794	Regalo de Acuario II (Excelente)
+794	Ben.Diosa☆Acuario
 795	...
-796	Regalo de Acuario II (Supremo)
+796	Ben.Diosa☆Piscis
 797	...
-798	Paquete de regalo de devolución de los puntos de Acuario
-799	
-800	Regalo de Acuario II (Excelente)
+798	Ben.Diosa☆Tauro
+799	...
+800	Ben.Diosa☆Géminis
 801	...
-802	Regalo de Acuario II (Supremo)
+802	Ben.Diosa☆Cáncer
 803	...
-804	Memento de Anima*1
-805	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-806	Memento de Anima*20
-807	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-808	Meteorito Condensado*1
-809	Busca los consumibles necesarios para las estrellas.
-810	Autorización de Armadura[Bronce]
-811	A cambio del certificado obtendras  la armadura sagrada de bronce de grado superior.
-812	Meteorito Condensado*20
-813	Busca los consumibles necesarios para las estrellas.
-814	Susurro de Jápeto
-815	Restablece el valor del despertar astral después de su uso.
-816	Memento de Anima*1
-817	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-818	Memento de Anima*20
-819	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-820	Meteorito Condensado*1
-821	Busca los consumibles necesarios para las estrellas.
-822	Meteorito Condensado*20
-823	Busca los consumibles necesarios para las estrellas.
-824	Susurro de Jápeto
-825	Restablece el valor del despertar astral después de su uso.
-826	Emblema del Sacerdote
-827	El tutor junto a la porera del Regimiento del General fue reemplazado por el sacerdote de la Reina.
-828	Emblema del Osito
-829	El guardián junto a la porera del Regimiento del General es reemplazado por un oso de peluche sanguinario.
-830	Emblema del Rey Pirata
-831	El guardián junto a la porera del Regimiento del General fue reemplazado por el violento rey pirata.
-832	Papel para Votación
-833	Elija las necesidades del Papa y entrégueselas al cyidato en el que más confía.
-834	Bandera del Grande Maestro
-835	Una porera que solo el Papa y él en sus funciones pueden usar para activar las actividades relacionadas con el mismo.
-836	Autorización de Armadura[Plata]
-837	A cambio del certificado obtendras  la armadura sagrada de plata de grado superior.
-838	Sello Sagrado del Silencio
-839	Solo el Papa puede usarlo, prohibió el santuario y caminó las juradas palabras de los siniestros comentarios.
-840	Disfraz de Hermes
-841	Se puede usar para cambiar entre diferentes ocupaciones.
-842	Cambio de Género
-843	Puede cambiar de género después de su uso.
-844	Disfraz de Hermes
-845	Se puede usar para cambiar entre diferentes ocupaciones.
-846	Cambio de Género
-847	Puede cambiar de género después de su uso.
-848	Espíritu de Batalla de Leo
-849	Actualiza las monturas de leones de alta gama a las imprescindibles para las monturas de alta gama.
-850	Flor de Loto
-851	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
-852	Flor de Loto
-853	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
-854	Persona Misteriosa
-855	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
-856	Persona Misteriosa
-857	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
-858	Persona Misteriosa
-859	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+804	Ben.Diosa☆Leo
+805	...
+806	Ben.Diosa☆Virgo
+807	...
+808	Ben.Diosa☆Libra
+809	...
+810	Ben.Diosa☆Aries(II)
+811	...
+812	Paquete de regalo de devolución de los puntos de Géminis
+813	...
+814	Regalo de Géminis (Excelente)
+815	...
+816	Regalo de Géminis (Supremo)
+817	...
+818	Paquete de regalo de devolución de los puntos de Géminis
+819	
+820	Regalo de Géminis (Excelente)
+821	...
+822	Regalo de Géminis (Supremo)
+823	...
+824	Memento de Anima*1
+825	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+826	Memento de Anima*20
+827	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+828	Meteorito Condensado*1
+829	Busca los consumibles necesarios para las estrellas.
+830	Autorización de Armadura[Bronce]
+831	A cambio del certificado obtendras  la armadura sagrada de bronce de grado superior.
+832	Meteorito Condensado*20
+833	Busca los consumibles necesarios para las estrellas.
+834	Susurro de Jápeto
+835	Restablece el valor del despertar astral después de su uso.
+836	Memento de Anima*1
+837	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+838	Memento de Anima*20
+839	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+840	Meteorito Condensado*1
+841	Busca los consumibles necesarios para las estrellas.
+842	Meteorito Condensado*20
+843	Busca los consumibles necesarios para las estrellas.
+844	Susurro de Jápeto
+845	Restablece el valor del despertar astral después de su uso.
+846	Emblema del Sacerdote
+847	El tutor junto a la porera del Regimiento del General fue reemplazado por el sacerdote de la Reina.
+848	Emblema del Osito
+849	El guardián junto a la porera del Regimiento del General es reemplazado por un oso de peluche sanguinario.
+850	Emblema del Rey Pirata
+851	El guardián junto a la porera del Regimiento del General fue reemplazado por el violento rey pirata.
+852	Papel para Votación
+853	Elija las necesidades del Papa y entrégueselas al cyidato en el que más confía.
+854	Bandera del Grande Maestro
+855	Una porera que solo el Papa y él en sus funciones pueden usar para activar las actividades relacionadas con el mismo.
+856	Autorización de Armadura[Plata]
+857	A cambio del certificado obtendras  la armadura sagrada de plata de grado superior.
+858	Sello Sagrado del Silencio
+859	Solo el Papa puede usarlo, prohibió el santuario y caminó las juradas palabras de los siniestros comentarios.
+860	Disfraz de Hermes
+861	Se puede usar para cambiar entre diferentes ocupaciones.
+862	Cambio de Género
+863	Puede cambiar de género después de su uso.
+864	Disfraz de Hermes
+865	Se puede usar para cambiar entre diferentes ocupaciones.
+866	Cambio de Género
+867	Puede cambiar de género después de su uso.
+868	Espíritu de Batalla de Leo
+869	Actualiza las monturas de leones de alta gama a las imprescindibles para las monturas de alta gama.
+870	Flor de Loto
+871	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
+872	Flor de Loto
+873	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
+874	Persona Misteriosa
+875	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+876	Persona Misteriosa
+877	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+878	Persona Misteriosa
+879	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.

@@ -176,7 +176,7 @@
 175	收集一定数量可以兑换守护星装备。
 176	Light of Metis
 177	聪慧女神的意志使你能重新学习战斗技能。
-178	Aries GiftII（TOP）
+178	Gemini Gift (Top)
 179	每人限制使用一次的超值大礼包。
 180	Justice Shirt
 181	เสื้อยืดลำลอง แบบใหม่ทันสมัย ประณีตงดงาม
@@ -634,7 +634,7 @@
 633	魔幻乐园主题服饰。
 634	American Boots[F]
 635	魔幻乐园主题服饰。
-636	Aries GiftII（TOP）
+636	Gemini Gift (Top)
 637	每人限制使用一次的超值大礼包。
 638	Spirit Artifact
 639	在增强神器灵力值可选择使用。
@@ -786,75 +786,95 @@
 785	聪慧女神的意志使你能重新学习战斗技能。
 786	Light of Metis
 787	聪慧女神的意志使你能重新学习战斗技能。
-788	God Gift•Aquarius
+788	God Gift•Aries
 789	...
-790	God Gift•Aquarius II
+790	God Gift•Scorpio
 791	...
-792	Aquarius Pack II
+792	God Gift•Sagittarius
 793	...
-794	Aquarius GiftII（TOP）
+794	God Gift•Aquarius
 795	...
-796	Aquarius GiftII（EX）
+796	God Gift•Pisces
 797	...
-798	Aquarius Pack II
-799	
-800	Aquarius GiftII（TOP）
+798	God Gift•Taurus
+799	...
+800	God Gift•Gemini
 801	...
-802	Aquarius GiftII（EX）
+802	God Gift•Cancer
 803	...
-804	Protoss keepsake*1
-805	星灵强化时使用，可提升强化经验倍率。
-806	Protoss keepsake*20
-807	星灵强化时使用，可提升强化经验倍率。
-808	Starstone Element*1
-809	搜寻星元所需要的消耗品。
-810	ใบมอบบรอนซ์คลอธ
-811	换取更高阶青铜圣衣的凭证。
-812	Starstone Element*20
-813	搜寻星元所需要的消耗品。
-814	Whisper of Iapetus
-815	使用后重置星灵觉醒值。
-816	Protoss keepsake*1
-817	星灵强化时使用，可提升强化经验倍率。
-818	Protoss keepsake*20
-819	星灵强化时使用，可提升强化经验倍率。
-820	Starstone Element*1
-821	搜寻星元所需要的消耗品。
-822	Starstone Element*20
-823	搜寻星元所需要的消耗品。
-824	Whisper of Iapetus
-825	使用后重置星灵觉醒值。
-826	ตราของข้าหลวง
-827	将军团旌旗旁边的守卫者替换成女王神官。
-828	ตราของเท็ดดี้แบร์
-829	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
-830	ตราของราชาโจรสลัด
-831	将军团旌旗旁边的守卫者替换成暴躁海盗王。
-832	บัตรเลือกตั้ง
-833	选举教皇的必需品，将其投给你最信任的那个候选人。
-834	ธงเคียวโก
-835	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
-836	ใบมอบซิลเวอร์คลอธ
-837	换取更高阶白银圣衣的凭证。
-838	Silent Seal
-839	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
-840	Switch Stance
-841	使用后可切换不同职业的站姿。
-842	海蛟的珍珠
-843	使用后可切换性别。
-844	Switch Stance
-845	使用后可切换不同职业的站姿。
-846	海蛟的珍珠
-847	使用后可切换性别。
-848	Battle Leo Soul
-849	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
-850	Switch Fashion Sex
-851	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
-852	Switch Fashion Sex
-853	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
-854	Mystery man
-855	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
-856	Mystery man
-857	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
-858	Mystery man
-859	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+804	God Gift•Leo
+805	...
+806	God Gift•Virgo
+807	...
+808	God Gift•Libra
+809	...
+810	女神的恩赐☆白羊版(Ⅱ)
+811	...
+812	Gemini Ticket Box II
+813	...
+814	Gemini Gift (Top)
+815	...
+816	Gemini Gift (EX)
+817	...
+818	Gemini Ticket Box II
+819	
+820	Gemini Gift (Top)
+821	...
+822	Gemini Gift (EX)
+823	...
+824	Protoss keepsake*1
+825	星灵强化时使用，可提升强化经验倍率。
+826	Protoss keepsake*20
+827	星灵强化时使用，可提升强化经验倍率。
+828	Starstone Element*1
+829	搜寻星元所需要的消耗品。
+830	ใบมอบบรอนซ์คลอธ
+831	换取更高阶青铜圣衣的凭证。
+832	Starstone Element*20
+833	搜寻星元所需要的消耗品。
+834	Whisper of Iapetus
+835	使用后重置星灵觉醒值。
+836	Protoss keepsake*1
+837	星灵强化时使用，可提升强化经验倍率。
+838	Protoss keepsake*20
+839	星灵强化时使用，可提升强化经验倍率。
+840	Starstone Element*1
+841	搜寻星元所需要的消耗品。
+842	Starstone Element*20
+843	搜寻星元所需要的消耗品。
+844	Whisper of Iapetus
+845	使用后重置星灵觉醒值。
+846	ตราของข้าหลวง
+847	将军团旌旗旁边的守卫者替换成女王神官。
+848	ตราของเท็ดดี้แบร์
+849	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
+850	ตราของราชาโจรสลัด
+851	将军团旌旗旁边的守卫者替换成暴躁海盗王。
+852	บัตรเลือกตั้ง
+853	选举教皇的必需品，将其投给你最信任的那个候选人。
+854	ธงเคียวโก
+855	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
+856	ใบมอบซิลเวอร์คลอธ
+857	换取更高阶白银圣衣的凭证。
+858	Silent Seal
+859	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
+860	Switch Stance
+861	使用后可切换不同职业的站姿。
+862	海蛟的珍珠
+863	使用后可切换性别。
+864	Switch Stance
+865	使用后可切换不同职业的站姿。
+866	海蛟的珍珠
+867	使用后可切换性别。
+868	Battle Leo Soul
+869	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
+870	Switch Fashion Sex
+871	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+872	Switch Fashion Sex
+873	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+874	Mystery man
+875	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+876	Mystery man
+877	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+878	Mystery man
+879	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。

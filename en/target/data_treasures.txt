@@ -176,7 +176,7 @@
 175	Collect a certain amount to redeem the ruler equipment.
 176	Metis Determination Light
 177	The will of the intelligent goddess allows you to relearn combat skills.
-178	Gift of Aries II (Excellent)
+178	Gemini Gift (Excellent)
 179	A value-for-money spree that is limited to one use per person.
 180	Fist of Justice
 181	Casual t-shirt, modern design, fine finish
@@ -436,7 +436,7 @@
 435	Used for Gold Armor.\rDrops frequency in instances above level 70.
 436	Star Brightness [Water]*5
 437	Used for Gold Armor.\rDrops frequency in instances above level 70.
-438	Star Bright [Wind]*5
+438	Star Brightness [Wind]*5
 439	Used for Gold Armor.\rDrops frequency in instances above level 70.
 440	Spiritual Light*10
 441	Used to equip the energy.\rDrops frequency in instances above level 30.
@@ -634,7 +634,7 @@
 633	Magic Paradise theme costumes.
 634	meters Chinese Orchestra short boots
 635	Magic Paradise theme costumes.
-636	Gift of Aries II (Excellent)
+636	Gemini Gift (Excellent)
 637	A value-for-money spree that is limited to one use per person.
 638	Soul of the Relic
 639	You can choose to use the enhanced artifact power value.
@@ -786,75 +786,95 @@
 785	The will of the intelligent goddess allows you to relearn combat skills.
 786	Metis Determination Light
 787	The will of the intelligent goddess allows you to relearn combat skills.
-788	Goddess' Gift ☆ Aquarius
+788	Goddess' Gift ☆ Aries
 789	...
-790	Goddess' Gift ☆ Aquarius (II)
+790	Goddess' Gift ☆ Scorpio
 791	...
-792	Aquarius Gift Pack
+792	Goddess' Gift ☆ Sagittarius
 793	...
-794	Gift of Aquarius II (Excellent)
+794	Goddess' Gift ☆ Aquarius
 795	...
-796	Gift of Aquarius II (Supreme)
+796	Goddess' Gift ☆ Pisces
 797	...
-798	Aquarius Gift Pack
-799	
-800	Gift of Aquarius II (Excellent)
+798	Goddess' Gift ☆ Taurus
+799	...
+800	Goddess' Gift ☆ Gemini
 801	...
-802	Gift of Aquarius II (Supreme)
+802	Goddess' Gift ☆ Cancer
 803	...
-804	Memento of Anima*1
-805	When used in Anima, it enhances the intensified experience.
-806	Memento of Anima*20
-807	When used in Anima, it enhances the intensified experience.
-808	Condensed Meteorite*1
-809	Search for consumables needed for stars.
-810	Armor Authorization [Bronze]
-811	In exchange for the certificate of the higher-grade Bronze Holy Armor.
-812	Condensed Meteorite*20
-813	Search for consumables needed for stars.
-814	Whisper of Iapetus
-815	Resets the astral awakening value after use.
-816	Memento of Anima*1
-817	When used in Anima, it enhances the intensified experience.
-818	Memento of Anima*20
-819	When used in Anima, it enhances the intensified experience.
-820	Condensed Meteorite*1
-821	Search for consumables needed for stars.
-822	Condensed Meteorite*20
-823	Search for consumables needed for stars.
-824	Whisper of Iapetus
-825	Resets the astral awakening value after use.
-826	Emblem of the Priest
-827	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
-828	Bear Emblem
-829	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
-830	Emblem of the Pirate King
-831	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
-832	Voting Paper
-833	Elect the Pope's necessities and cast it to the candidate you trust the most.
-834	Flag of the Great Teacher
-835	A flag that can only be used by the Pope and the Acting Pope to activate the Pope-related activities.
-836	Armor Authorization [Silver]
-837	In exchange for the certificate of the higher-grade Silver Holy Armor.
-838	Sacred Seal of Silence
-839	Only the Pope can use it, banned the sanctuary, and walked the swearing words of the sinister remarks.
-840	Hermes costume
-841	can be used to switch between different occupations.
-842	Gender Change
-843	Switch between genders after use.
-844	Hermes costume
-845	can be used to switch between different occupations.
-846	Gender Change
-847	Switch between genders after use.
-848	Spirit of Battle of Leo
-849	Upgrades high-end lion mounts to the must-have for higher-end mounts.
-850	Lotus Flower
-851	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-852	Lotus Flower
-853	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-854	Mysterious Person
-855	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-856	Mysterious Person
-857	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-858	Mysterious Person
-859	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+804	Goddess' Gift ☆ Leo
+805	...
+806	Goddess' Gift ☆ Virgo
+807	...
+808	Goddess' Gift ☆ Libra
+809	...
+810	Goddess' Gift ☆ Aries (II)
+811	...
+812	Gemini Gift Pack
+813	...
+814	Gemini Gift (Excellent)
+815	...
+816	Gemini Gift (Supreme)
+817	...
+818	Gemini Gift Pack
+819	
+820	Gemini Gift (Excellent)
+821	...
+822	Gemini Gift (Supreme)
+823	...
+824	Memento of Anima*1
+825	When used in Anima, it enhances the intensified experience.
+826	Memento of Anima*20
+827	When used in Anima, it enhances the intensified experience.
+828	Condensed Meteorite*1
+829	Search for consumables needed for stars.
+830	Armor Authorization [Bronze]
+831	In exchange for the certificate of the higher-grade Bronze Holy Armor.
+832	Condensed Meteorite*20
+833	Search for consumables needed for stars.
+834	Whisper of Iapetus
+835	Resets the astral awakening value after use.
+836	Memento of Anima*1
+837	When used in Anima, it enhances the intensified experience.
+838	Memento of Anima*20
+839	When used in Anima, it enhances the intensified experience.
+840	Condensed Meteorite*1
+841	Search for consumables needed for stars.
+842	Condensed Meteorite*20
+843	Search for consumables needed for stars.
+844	Whisper of Iapetus
+845	Resets the astral awakening value after use.
+846	Emblem of the Priest
+847	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
+848	Bear Emblem
+849	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
+850	Emblem of the Pirate King
+851	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
+852	Voting Paper
+853	Elect the Pope's necessities and cast it to the candidate you trust the most.
+854	Flag of the Great Teacher
+855	A flag that can only be used by the Pope and the Acting Pope to activate the Pope-related activities.
+856	Armor Authorization [Silver]
+857	In exchange for the certificate of the higher-grade Silver Holy Armor.
+858	Sacred Seal of Silence
+859	Only the Pope can use it, banned the sanctuary, and walked the swearing words of the sinister remarks.
+860	Hermes costume
+861	can be used to switch between different occupations.
+862	Gender Change
+863	Switch between genders after use.
+864	Hermes costume
+865	can be used to switch between different occupations.
+866	Gender Change
+867	Switch between genders after use.
+868	Spirit of Battle of Leo
+869	Upgrades high-end lion mounts to the must-have for higher-end mounts.
+870	Lotus Flower
+871	With this and fashion tops, you can redeem a set of corresponding gender fashions.
+872	Lotus Flower
+873	With this and fashion tops, you can redeem a set of corresponding gender fashions.
+874	Mysterious Person
+875	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+876	Mysterious Person
+877	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+878	Mysterious Person
+879	Get 30 minutes of mysterious man effect after use, you will not know who it is.

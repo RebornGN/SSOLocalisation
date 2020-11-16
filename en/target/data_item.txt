@@ -12087,7 +12087,7 @@
 12086	Divine Artifact Fragment
 12087	Crystallization of the Magical Power
 12088	Glory of victory
-12089	Stone of the Spirits of Blood
+12089	Blood Stone
 12090	Crystal Stone of the Blood
 12091	Fragment of Stole
 12092	Classic Mount Badge
@@ -12296,7 +12296,7 @@
 12295	Starlight Fragment
 12296	Corrupted Crystal
 12297	Underworld Starlight
-12298	exchange note 4 coins
+12298	Exchange Note
 12299	Starlight of Pegasus
 12300	Cygnus Starlight
 12301	Dragon Starlight
@@ -12330,7 +12330,7 @@
 12329	Star Brightness [Earth]
 12330	Star Brightness [Fire]
 12331	Star Brightness [Water]
-12332	Star Bright [Wind]
+12332	Star Brightness [Wind]
 12333	Golden Star Shine
 12334	Star Splendor (Gemini)
 12335	Star Splendor (Pisces)

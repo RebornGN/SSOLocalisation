@@ -176,7 +176,7 @@
 175	Colete uma certa quantia para resgatar o equipamento da régua.
 176	Luz da Determinação de Métis
 177	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-178	Presente de Áries II (Sublime)
+178	Presente de Gêmeos (Sublime)
 179	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
 180	Punho da Justiça
 181	Camiseta casual, design moderno, acabamento fino
@@ -634,7 +634,7 @@
 633	Trajes temáticos Magic Paradise.
 634	Botas Americanas (F)
 635	Trajes temáticos Magic Paradise.
-636	Presente de Áries II (Sublime)
+636	Presente de Gêmeos (Sublime)
 637	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
 638	Alma da Relíquia
 639	pode ser usado para aprimorar o valor da energia do artefato.
@@ -786,75 +786,95 @@
 785	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
 786	Luz da Determinação de Métis
 787	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-788	Bênção da Deusa☆Aquário
+788	Bênção da Deusa☆Áries
 789	...
-790	Bênção da Deusa☆Aquário(II)
+790	Bênção da Deusa☆Escorpião
 791	...
-792	Pacote de presente de devolução dos pontos de Aquário
+792	Bênção da Deusa☆Sagitário
 793	...
-794	Presente de Aquár. II (Sublime)
+794	Bênção da Deusa☆Aquário
 795	...
-796	Presente de Aquár. II (Supremo)
+796	Bênção da Deusa☆Peixes
 797	...
-798	Pacote de presente de devolução dos pontos de Aquário
-799	
-800	Presente de Aquár. II (Sublime)
+798	Bênção da Deusa☆Touro
+799	...
+800	Bênção da Deusa☆Gêmeos
 801	...
-802	Presente de Aquár. II (Supremo)
+802	Bênção da Deusa☆Câncer
 803	...
-804	Memento de Anima*1
-805	Quando usado no  Protoss, aprimora a experiência intensificada.
-806	Memento de Anima*20
-807	Quando usado no  Protoss, aprimora a experiência intensificada.
-808	Meteorito Condensado*1
-809	Procure consumíveis necessários para estrelas.
-810	Autorização de Armadura[Bronze]
-811	Em troca do certificado do colete de bronze de ordem superior.
-812	Meteorito Condensado*20
-813	Procure consumíveis necessários para estrelas.
-814	Sussurro de Jápeto
-815	Redefine o valor do despertar astral após o uso.
-816	Memento de Anima*1
-817	Quando usado no  Protoss, aprimora a experiência intensificada.
-818	Memento de Anima*20
-819	Quando usado no  Protoss, aprimora a experiência intensificada.
-820	Meteorito Condensado*1
-821	Procure consumíveis necessários para estrelas.
-822	Meteorito Condensado*20
-823	Procure consumíveis necessários para estrelas.
-824	Sussurro de Jápeto
-825	Redefine o valor do despertar astral após o uso.
-826	Emblema do Sacerdote
-827	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
-828	Emblema do Ursinho
-829	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
-830	Emblema do Rei Pirata
-831	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
-832	Papel para Votação
-833	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
-834	Bandeira do Grande Mestre
-835	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
-836	Autorização de Armadura[Prata]
-837	Em troca do vale de um colete de prata de ordem superior.
-838	Selo Sagrado do Silêncio
-839	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
-840	Disfarce de Hermes
-841	pode ser usado para alternar entre diferentes ocupações.
-842	Troca de Gênero
-843	Alterne entre os sexos após o uso.
-844	Disfarce de Hermes
-845	pode ser usado para alternar entre diferentes ocupações.
-846	Troca de Gênero
-847	Alterne entre os sexos após o uso.
-848	Espírito de Batalha de Leão
-849	O  atualiza os suportes high-end para o must-have para os high-end.
-850	Flor de Lótus
-851	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-852	Flor de Lótus
-853	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-854	Pessoa Misteriosa
-855	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-856	Pessoa Misteriosa
-857	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-858	Pessoa Misteriosa
-859	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+804	Bênção da Deusa☆Leão
+805	...
+806	Bênção da Deusa☆Virgem
+807	...
+808	Bênção da Deusa☆Libra
+809	...
+810	Bênção da Deusa☆Áries(II)
+811	...
+812	Pacote de presente de devolução dos pontos de Gêmeos
+813	...
+814	Presente de Gêmeos (Sublime)
+815	...
+816	Presente de Gêmeos (Supremo)
+817	...
+818	Pacote de presente de devolução dos pontos de Gêmeos
+819	
+820	Presente de Gêmeos (Sublime)
+821	...
+822	Presente de Gêmeos (Supremo)
+823	...
+824	Memento de Anima*1
+825	Quando usado no  Protoss, aprimora a experiência intensificada.
+826	Memento de Anima*20
+827	Quando usado no  Protoss, aprimora a experiência intensificada.
+828	Meteorito Condensado*1
+829	Procure consumíveis necessários para estrelas.
+830	Autorização de Armadura[Bronze]
+831	Em troca do certificado do colete de bronze de ordem superior.
+832	Meteorito Condensado*20
+833	Procure consumíveis necessários para estrelas.
+834	Sussurro de Jápeto
+835	Redefine o valor do despertar astral após o uso.
+836	Memento de Anima*1
+837	Quando usado no  Protoss, aprimora a experiência intensificada.
+838	Memento de Anima*20
+839	Quando usado no  Protoss, aprimora a experiência intensificada.
+840	Meteorito Condensado*1
+841	Procure consumíveis necessários para estrelas.
+842	Meteorito Condensado*20
+843	Procure consumíveis necessários para estrelas.
+844	Sussurro de Jápeto
+845	Redefine o valor do despertar astral após o uso.
+846	Emblema do Sacerdote
+847	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
+848	Emblema do Ursinho
+849	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
+850	Emblema do Rei Pirata
+851	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
+852	Papel para Votação
+853	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
+854	Bandeira do Grande Mestre
+855	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
+856	Autorização de Armadura[Prata]
+857	Em troca do vale de um colete de prata de ordem superior.
+858	Selo Sagrado do Silêncio
+859	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
+860	Disfarce de Hermes
+861	pode ser usado para alternar entre diferentes ocupações.
+862	Troca de Gênero
+863	Alterne entre os sexos após o uso.
+864	Disfarce de Hermes
+865	pode ser usado para alternar entre diferentes ocupações.
+866	Troca de Gênero
+867	Alterne entre os sexos após o uso.
+868	Espírito de Batalha de Leão
+869	O  atualiza os suportes high-end para o must-have para os high-end.
+870	Flor de Lótus
+871	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
+872	Flor de Lótus
+873	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
+874	Pessoa Misteriosa
+875	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+876	Pessoa Misteriosa
+877	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+878	Pessoa Misteriosa
+879	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
