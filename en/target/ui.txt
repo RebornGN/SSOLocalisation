@@ -8540,7 +8540,7 @@
 8539	Tianma Xingyu
 8540	blessing value
 8541	Lv1 Tianma Broom Star Boxing
-8542	Lv1 天马彗星拳
+8542	Lv1 Pegasus Comet Punch
 8543	Lv1 Tianma Meteor Fist
 8544	Continue to bless until the star jade is not enough.
 8545	Auto Refine
