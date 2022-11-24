@@ -42,7 +42,7 @@
 41	List of Competitors
 42	Full Surplices
 43	Bloodless Grass
-44	Scattered Pearls
+44	Scattered Pearl
 45	Journal of Eide
 46	Flower of the Sacrifice
 47	Shining Emblem
@@ -12294,7 +12294,7 @@
 12293	Star Crystal Fragment
 12294	Fragment 星 Frag
 12295	Starlight Fragment
-12296	Corrupted Crystal
+12296	Magic Crystal of Hades
 12297	Underworld Starlight
 12298	Exchange Note
 12299	Starlight of Pegasus
@@ -12308,13 +12308,13 @@
 12307	Andromeda Star Jade
 12308	Star Jade of Phoenix
 12309	Specter Blood
-12310	Quintessence of the Sea
+12310	Essence of Poseidon
 12311	Star Crystal
 12312	Star Jade
 12313	Star Light
 12314	Star Splendor
 12315	Silver Star Dust
-12316	Goddess of God
+12316	God Sphere of Athena
 12317	Bronze Star Dust
 12318	Star Splendor (Pegasus)
 12319	Star Splendor (Andromeda)

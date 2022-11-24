@@ -28,8 +28,8 @@
 27	Please select or call first the Pet that needs to be fed.
 28	Food required by this Pet not found
 29	There is no animal selected or the Pet's food does not correspond.
-30	Strengthening %s in progress \rThe strengthening continues by %dmin e %ds
-31	Strengthening %s in progress \rRemaining time %dh %dmin
+30	Strengthening %s in progress \rThe strengthening continues by %d and %ds
+31	Strengthening %s in progress \rRemaining time %dh %dm
 32	Strengthening the substitute Master Pet trainer requires 12 hours to progress, but if the hosting is offline, the effects of strengthening the substitute and its own strengthening will be the same.
 33	%s successful strengthening
 34	Can not be separated
@@ -322,7 +322,7 @@
 321	Gold: %d
 322	Total Gold
 323	LEvel %d
-324	%dh %dmin %ds
+324	%dh %dm %ds
 325	High efficiency time
 326	Common time
 327	Total time

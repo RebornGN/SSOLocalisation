@@ -1475,7 +1475,7 @@
 1474	Are you arriving now? How slow!
 1475	It seems that you need to train a little more
 1476	Courage! Go through the fire test of Leo
-1477	^ ff0000 (attract the Leo test examiner for the flames can make him be defeated faster)
+1477	^ff0000(attract the Leo test examiner for the flames can make him be defeated faster)
 1478	Protects the way to the Sanctuary
 1479	Do not let any enemy pass! If not, the result will be disastrous!
 1480	Forward! For Mr. Hades! Destroy the temple!

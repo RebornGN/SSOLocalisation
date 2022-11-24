@@ -602,11 +602,11 @@
 601	%s behind
 602	%dd
 603	%dh
-604	%dmin
-605	%dmin
+604	%dm
+605	%dm
 606	%ds
-607	%dmin %ds
-608	%dh %dmin
+607	%dm %ds
+608	%dh %dm
 609	%dd %dh
 610	Remaining time:
 611	Time:

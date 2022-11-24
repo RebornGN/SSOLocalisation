@@ -1199,7 +1199,7 @@
 1198	Time remaining:
 1199	%dd
 1200	%dh
-1201	%dmin
+1201	%dm
 1202	%ds
 1203	Duration:
 1204	Cooldown:
@@ -1337,7 +1337,7 @@
 1336	■ Runes\r
 1337	Time remaining: %ds
 1338	Remaining equipment: %d minutes
-1339	Time remaining: %dh %dmin
+1339	Time remaining: %dh %dm
 1340	Time remaining: %dd %dh
 1341	★ Permanent
 1342	Expired
@@ -8384,7 +8384,7 @@
 8383	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184fffly Stinger level 1 (damage)\r^0184ffGlory stab level 1 (damage + repel)\r^0184ff蝎 poison burst 1 level (group attack + invincible)\r^0184ffblood color spread level 1 (blessing)
 8384	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^ff0000The mount is a multi-person mount, up to invitation 1 other player sharing\rRight-clicking the target avatar to select multiple rides to send an invitation\rIf the invited player is a heterosexual, the couple can automatically play the kiss after the ride.\rThe multi-player ride state cannot be used.\rPartial functions such as the Guild\rPassengers who are not teamed should pay attention to the PK protection status to avoid accidental injury\r^fff600Additional flight combat skills:\r^0184ffLove Rose Level 1 (Deceleration)\r^0184ffLove Gift Level 1 (Group Attack + Curse)\r^0184ffBlessing of Love Level 1 (Blessing)\r^0184ffHappy Valentine's Day Level 1 (Blessing)
 8385	^fff600Under the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^ff6fb3Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00New Year gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rCosmic Key X10\rspiritual source x10\rgoddess gift ☆ New Year edition x2\r^0184ffNew Year gift will only get once\r^ff6fb3 After use, it is possible to get the blessing value of the goddess blessing
-8386	^7fffff Open the holy war luxury preparation package to get 1 orange soul shard and other gifts\r^fff600set 5 orange soul fragments, to the NPC magic bell, redeem a 9-level star soul.
+8386	^7fffff Open the holy war luxury preparation package to get 1 orange soul shard and other gifts\r^fff600set 5 orange soul fragments, to the NPC Marin, redeem a 9-level star soul.
 8387	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffthrow Firecracker Level 1 (Deceleration)\r^0184ffFireworks Flame Level 1 (group attack + curse)\r^0184ffBeastmaster Pentium Level 1 (group attack + stun)\r^0184ffBlessing of God Beast Level 1 (Blessing)
 8388	^fff600Under the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^ff6fb3Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600When the 10th time is opened, get ^72fe00Aries gift (II)^fff600package\ropen and get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rTime and space key x10\rspiritual source x10\rgoddess gift ☆ white sheep version (II) x2\r^0184ffAries gift (II) will only get once\r^ff6fb3 after use, it is possible to get goddess blessing匣Blessing value in
 8389	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffLei Penalty level 1 (deceleration + coma)\r^0184ffAntler impact level 1 (group attack + curse)\r^0184ffStar shines 1 level (group attack + fixed body)\r^0184ffStarry blessing level 1 (blessing)")

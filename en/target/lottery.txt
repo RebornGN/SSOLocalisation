@@ -248,7 +248,7 @@
 247	Star Element Level 3
 248	Star Element Level 2
 249	^a800ffMini Isaac x1 (Practice max 4500)
-250	^e5872f Magic Bell Siren x1
+250	^e5872f Marin Siren x1
 251	^a800ffBenediction of the Goddess ☆ Twins (II) x999
 252	^a800ffOther random big prizes: Includes Flying Montage: Taurus of Power x1, Flying Monarchy: Golden Taurus x1, Flying Monarchy: Taurus of Destruction x1 \ x Silver Bloodshot x100, Demon Blood x1, X1, Burning Soul x100, Soul Ferocious x100 \rInsignia of Classic Costume x1, Insignia of Warrior x1, Fuser of Energy x1, Fuser of Energy x100 \rInsignia of Relic (universal Relic exchange) x1, Divine Stone of Storm Classic Climber x1, Classic Squire Insignia x1, etc.
 253	Buffalo Lottery Lottery Ticket 2

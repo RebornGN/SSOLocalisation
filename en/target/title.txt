@@ -1157,16 +1157,16 @@
 1156	^a800ff Cubs No. 6 · Tianma Wu Zhang Ke Xing Team
 1157	^a800ff Cubs No. 7 · Yan Qing Team
 1158	^a800ff Cubs No. 8 · Moss
-1159	^a800ff Fairy Island 1 Tuarus Yang
-1160	^a800ff Fairy Island 2 · 98 ° C Lafite
-1161	^a800ff Fairy Island 3
-1162	^a800ff Fairy Island 4 · Deer Hunting Team
-1163	^a800ff Fairy Island 5 · Blast HH
-1164	^a800ff Fairy Island 6 · Co Pure Black Team
-1165	^a800ff Fairy Island No. 7
-1166	^a800ff Fairy Island 8 · Illusion of Sadness
-1167	^a800ff Fairy Island 9 · ◆ Ali Luya
-1168	^a800ff Fairy Island 10 · Sleeping Sleeper
+1159	^a800ff Andromeda Island 1 Tuarus Yang
+1160	^a800ff Andromeda Island 2 · 98 ° C Lafite
+1161	^a800ff Andromeda Island 3
+1162	^a800ff Andromeda Island 4 · Deer Hunting Team
+1163	^a800ff Andromeda Island 5 · Blast HH
+1164	^a800ff Andromeda Island 6 · Co Pure Black Team
+1165	^a800ff Andromeda Island No. 7
+1166	^a800ff Andromeda Island 8 · Illusion of Sadness
+1167	^a800ff Andromeda Island 9 · ◆ Ali Luya
+1168	^a800ff Andromeda Island 10 · Sleeping Sleeper
 1169	^a800ff Ice Continental 1 · Dino Team
 1170	^a800ff Ice Continental 2 · ┦ ┢ ┢
 1171	^a800ff Iceland 3, Barca

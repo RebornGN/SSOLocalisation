@@ -8869,14 +8869,14 @@
 8868	01 Sanctuary 1 words_terminal_terminal administrator
 8869	02 Sanctuary 1 words_training camp_Udola
 8870	03 Sanctuary 1 words_Acropolis_Udola
-8871	04 Sanctuary 1 words _ Acropolis _ magic bell
+8871	04 Sanctuary 1 words _ Acropolis _ Marin
 8872	05Sanctuary 1 words_Acropolis_President of Silver Star Association
 8873	06 Sanctuary 1 words _ Acropolis _ Pope
 8874	07 Sanctuary 1 words _ Acropolis _ Alex
 8875	08 Sanctuary 1 words _ lost forest _ Pandora
 8876	09 Sanctuary 1 words_Lost Forest_Udola
 8877	10 Sanctuary 1 words_Lost Forest_Ulysses
-8878	11 Sanctuary 1 words _ training camp _ Sarna
+8878	11 Sanctuary 1 words _ training camp _ Shina
 8879	12Sanctuary 1 words_金穗花田_Ulysses
 8880	13Sanctuary 1 words_金穗花田_尤多拉
 8881	14Sanctuary 1 words_金穗花田_Olufi
