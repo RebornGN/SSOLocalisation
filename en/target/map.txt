@@ -97,7 +97,7 @@
 96	Hall of Dorome
 97	Hall of Judah
 98	Wall of Torment
-99	Lost paradise
+99	Lost Paradise
 100	Field of Sleeping Flowers
 101	Temple of Hades
 102	Temple of Hypnos

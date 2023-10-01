@@ -224,11 +224,11 @@
 223	Reach Reputation of the Champs Elysées Level Dedication to obtain the title
 224	^009933 Seiya Friend
 225	He became Seiya's friend over the long time they fought together.
-226	^ffff00Air Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+226	^ffff00Wind Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 227	Reach Friend Level Reputation with Seiya to get the title
 228	^0099ccCompany of Seiya
 229	He gained Seiya's trust over the long time they fought together.
-230	^ffff00Air Damage +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+230	^ffff00Wind Damage +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 231	Reach Level Reputation Estimated with Seiya to obtain the title
 232	^009933 Friend of Hyoga
 233	He became Hyoga's friend throughout the time they fought together.
@@ -376,7 +376,7 @@
 375	Reach Level Reputation Estimated with Aphrodite to obtain the title
 376	^009933 I'm Flying Trapeze
 377	You will fly higher and farther!
-378	^ffff00Air Damage +20 \rVasion +10 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+378	^ffff00Wind Damage +20 \rVasion +10 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 379	Conclude one of the Quests "Highest teacher-work", "Highest Divine Fact" or "Highest Fact", in the Shrine to obtain the title
 380	^009933 Master of the Twelve Houses
 381	You are the Master of the games of the Twelve Houses!
@@ -770,7 +770,7 @@
 769	Conclude the Quest "Era of Hyoga" in the Eastern Sibéria to obtain the title
 770	^009933 From the Hands of the Own Master
 771	Obtained the knowledge of Armor repair with Aries own Mu!
-772	^ffff00Air Damage +100 \rPress +60 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+772	^ffff00Wind Damage +100 \rPress +60 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 773	Conclude the Quest "Avenue of the Stars" at Atlantis to get the title
 774	^009933War Banner War
 775	You have spread Flags of Athena Struggle at Atlantis, ending with the determination of the Marines.

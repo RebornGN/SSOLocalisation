@@ -4,7 +4,7 @@
 3	^e5872fma: Oranges or Roxas
 4	Other random tools
 5	Skill Change [Squire]
-6	Alma Feroz
+6	Soul Feroz
 7	Black Star Jade
 8	Expansion of inventory
 9	Warehouse expansion
@@ -26,11 +26,11 @@
 25	^a800ffOther random large prizes
 26	Item Voucher [Squire] x60
 27	Burning Soul x8
-28	Alma Feroz x8
+28	Soul Feroz x8
 29	Skill Change [Squire] x3
 30	Item Voucher [Squire] x18
 31	Burning Soul x3
-32	Alma Feroz x3
+32	Soul Feroz x3
 33	Black Star Crystal x125
 34	Stool Fragment x50
 35	Bronze Blood x10
@@ -388,7 +388,7 @@
 387	Blessing of Niobe x1 (Practice Limit: 4500)
 388	^e5872fChifre: Rock Fist x1
 389	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
-390	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffOther Random Awards: Three types of Flying Monasteries: Christmas Sleigh II, Christmas Sleigh III, Christmas Sleigh IV, Three Types of Wings: Innocent Heart, Heart Crystal, Emerald Heart, Costume Fairytales III x1 \ Demon Demonstration (Perfect) x1, Silver Blood x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Soul Burning x100, Alma Feroz x100 \rClassic Fashion Insignia x1, Classic Climber Insignia x1, Classical Squire Insignia x1, etc.
+390	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffOther Random Awards: Three types of Flying Monasteries: Christmas Sleigh II, Christmas Sleigh III, Christmas Sleigh IV, Three Types of Wings: Innocent Heart, Heart Crystal, Emerald Heart, Costume Fairytales III x1 \ Demon Demonstration (Perfect) x1, Silver Blood x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Soul Burning x100, Soul Feroz x100 \rClassic Fashion Insignia x1, Classic Climber Insignia x1, Classical Squire Insignia x1, etc.
 391	Christmas Sleigh II
 392	Sleigh Natalino III
 393	Sleigh Natalino IV

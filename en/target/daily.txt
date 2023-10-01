@@ -339,7 +339,7 @@
 338	[Instance] crusade! World BOSS
 339	[Battlefield] Cloud Hegemony 2v2
 340	[Battlefield] Cloud Hegemony
-341	Neutral - Haughty (Air Boss)
+341	Neutral - Ao (Air Boss)
 342	${npc(51356,12)}
 343	[Battlefield] Cloud Hegemony 3v3
 344	Saints Golden League
@@ -791,7 +791,7 @@
 790	Activity time: From May 22nd to June 5th, players who have an activity of 20 per day can receive 1 piece of "Limited Fashion Fragments", and 7 players + limited edition (limited time) fashion players can be in Q. A version of the Athena exchange for permanent fashion!
 791	Event time: May 22nd - May 28th, every night from 20:00-21:00, starting from the time of the line, automatically send you a mysterious gift every 10 minutes, please don't miss it!
 792	Event time: May 22nd - June 5th, complete the "flag open! Victory new battle" battlefield mission every day, you can get another battlefield reward in the Q version of the Pope.
-793	Haughty is the new world BOSS, but you must fly in the air to attack it, otherwise the black dragon curse around him will crush you! He will appear on the 3rd line of Hades City at certain times of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+793	Ao is the new world BOSS, but you must fly in the air to attack it, otherwise the black dragon curse around him will crush you! He will appear on the Realm 12 of Hades City at certain times of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
 794	Crusade! World BOSS, you can take one mission a day, carry the mission to attack the corresponding world BOSS to complete the task to receive rewards, rich rewards waiting for you! ! !
 795	Saints under the leadership of Athena ended the dream of Hades Hades, is this the end? The increasingly clear future has once again climbed the fog, and the shadow of the sky heralds the advent of more brutal battles... Players above level 90 participate in the activities of the collection of enough Kauss, can be enlightened in the Marin . In addition, when you strive to pursue the truth to defend the sanctuary, Athena and her guardians will reappear at some point, giving you generous rewards!
 796	Activity time: From now until May 24th, you can receive an “active gift” with a daily activity of more than 120, and have a chance to win a surprise prize.

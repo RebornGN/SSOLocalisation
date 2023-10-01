@@ -1,5 +1,5 @@
 0	Test Recipe
-1	Elixir of the King
+1	Medication of the King
 2	Potion
 3	Super Potion II
 4	Potion
@@ -13,69 +13,69 @@
 12	Potion
 13	Super Potion VII
 14	Potion
-15	Elixir of Steadiness
+15	Pharmacy resistant
 16	Potion
-17	Elixir of Pulsation Elements
+17	Medication of pulsating elements
 18	Potion
-19	Elixir of Battle
+19	Battle Medication
 20	Potion
 21	Magic Potion of Immortality
 22	Potion
-23	Gradual Potion I
+23	Energy Potion
 24	Potion
-25	Gradual Potion III
+25	Strong Magic Potion
 26	Potion
 27	Gradual Potion II
 28	Potion
 29	Purification of Elixir basic level
 30	Potion
-31	Super Magic Energy Potion
+31	Super Energy Potion
 32	Potion
-33	Magic Potion of Charm
+33	Potion Magic of Charme
 34	Potion
-35	Magic Potion of Nothing
+35	Magic Potion of the Nothingness
 36	Potion
-37	Magical Cold Potion of Sepsia
+37	Sepsia Ice Magic Potion
 38	Potion
-39	Magic Potion of Rays of Light
+39	Lightning Magic Potion
 40	Potion
-41	Renaissance mixture
+41	Mixture of the Renaissance
 42	Mix
-43	Blend of Deterioration
+43	Deterioration Mix
 44	Mix
-45	Mixture of Pure Mind
+45	Mixture of the Pure Mind
 46	Mix
-47	Blend of Blood Stagnation
+47	Blood Stagnation Mixture
 48	Mix
 49	Master Elixir Belt
 50	Mix
 51	Weak Mix
 52	Mix
-53	Siren Soul Mix
+53	Compound Requiem
 54	Mix
-55	Soft Mix
+55	Soft blend
 56	Mix
-57	Blend of Pure Mind advanced level
+57	Mixing the Pure Mind Level Advance
 58	Mix
-59	Distortion Mix
+59	Skew Potion
 60	Mix
 61	Move Heaven and Earth
 62	Refining
 63	Abrasive Stardust
 64	Refining
-65	Fell of Judgment
+65	Staff of the Verdict
 66	Refining
 67	Extraction Glass
 68	Refining
 69	Star Transformation
 70	Refining
-71	Starfish Granule
+71	Silver Star Dust Granule
 72	Refining
-73	Promise Jade Bracelet
+73	Bracelet of the Promise
 74	Refining
 75	Purify Space
 76	Refining
-77	Pink of the Night
+77	Rose of the Night
 78	Refining
 79	Molten Star
 80	Refining
@@ -83,122 +83,122 @@
 82	Treasures
 83	Alchemist Lord of the Rings
 84	Treasures
-85	Precision Treasure Crafting Pendant
+85	Accuracy Scroll
 86	Treasures
 87	Spiritual Light
 88	Treasures
-89	Treasure Pendant Precision
+89	Sensitivity Beam
 90	Treasures
-91	Star Element level 1
+91	Star Element LV 1
 92	Treasures
 93	Soul Light
 94	Treasures
 95	Spiritual Light +
 96	Treasures
-97	Star Element level 2
+97	Star Element LV 2
 98	Treasures
 99	Soul Light +
 100	Treasures
-101	Discipline of Starlight
+101	Starlight Discipline
 102	Refine
 103	Star Blessing I
 104	Refine
 105	Hammer of Jamir
 106	Refine
-107	Stardust
+107	Bronze Star Dust
 108	Refine
-109	Starry Arena
+109	Silver Star Dust
 110	Refine
 111	Star Blessing II
 112	Refine
-113	Shining Star Crystal
+113	Crystal Star Shining
 114	Refine
-115	Fragment of Starlight
+115	Starlight Fragment
 116	Refine
 117	Blur in the Starlight
 118	Refine
 119	Star Blessing III
 120	Refine
-121	Divine Amulet
+121	Divine Amulet of the Almighty
 122	Amulet
-123	Amulet of Vigor
+123	Amulet of vigor
 124	Amulet
 125	Resistant Amulet
 126	Amulet
-127	Battle Amulet
+127	battle amulet
 128	Amulet
-129	Advanced Amulet of Vigor
+129	Advanced strength amulet
 130	Amulet
-131	Advanced Amulet Resistant
+131	Stunning Advanced Amulet
 132	Amulet
-133	Amulet Advanced Batalha
+133	Advanced battle amulet
 134	Amulet
 135	Mysterious Amulet of Vigor
 136	Amulet
 137	Amulet M.
 138	Amulet
-139	Mysterious Amulet of Batalha
+139	mysterious battle amulet
 140	Amulet
 141	Letter of Recommendation for Intermediate Level Apprentices
 142	Guardian Spirit
 143	Reincarnation Method
 144	Guardian Spirit
-145	Letter of Recommendation for entry level learners
+145	Letter of recommendation for entry level learners
 146	Guardian Spirit
-147	Magic whistle of the Phantom's sharp whistle
+147	Ghost whistling whistle
 148	Guardian Spirit
-149	Fell of Judgment
+149	Staff of Judgment
 150	Guardian Spirit
-151	Reincarnation method advanced level
+151	Advanced Level Reincarnation Method
 152	Guardian Spirit
-153	Magic whistle of acute whistle of the Evil Spirit
+153	Magic whistle whistle of the evil spirit
 154	Guardian Spirit
-155	Double-Sided Force
+155	Two-sided force
 156	Guardian Spirit
 157	Mysterious method of reincarnation
 158	Guardian Spirit
-159	Magic whistle of acute whistle of the crazy spirit
+159	Magical whistling whistle of crazy spirit
 160	Guardian Spirit
 161	Divine Engraving
 162	Engraving
-163	Engraving of Vigor
+163	Painting of vigor
 164	Engraving
-165	Heavy Duty Engraving
+165	Heavy Duty Paint
 166	Engraving
-167	Battle Etching
+167	Battle painting
 168	Engraving
-169	Advanced Vigorous Engraving
+169	Advanced vigor painting
 170	Engraving
-171	Engraving Advanced Resistant
+171	Sturdy advanced paint
 172	Engraving
-173	Advanced Battle Engraving
+173	Advanced battle painting
 174	Engraving
-175	Mysterious Engraving of Vigor
+175	Mysterious painting of vigor
 176	Engraving
-177	Mysterious Resistant Engraving
+177	Tough mysterious painting
 178	Engraving
-179	Mysterious Battle Engraving
+179	Mysterious battle painting
 180	Engraving
 181	Book of the Emperor
-182	Tactic - Magic Transformation
+182	Tactics - Enlightenment
 183	Learner's Teaching Book
-184	Tactic - Magic Transformation
+184	Tactics - Enlightenment
 185	Specialist Teaching Book
-186	Tactic - Magic Transformation
+186	Tactics - Enlightenment
 187	Teacher's Teaching Book
-188	Tactic - Magic Transformation
+188	Tactics - Enlightenment
 189	Book of Critical Hits
-190	Tactic - Magic Transformation
+190	Tactics - Enlightenment
 191	Book of Heroes
-192	Tactics - Magic Transformation
+192	Tactics - Enlightenment
 193	Book of Teaching of the Sage
-194	Tactic - Magic Transformation
+194	Tactics - Enlightenment
 195	Essence Purification Book
-196	Tactic - Magic Transformation
+196	Tactics - Enlightenment
 197	Book of the Wise
-198	Tactics - Magic Transformation
+198	Tactics - Enlightenment
 199	Epic Book
-200	Tactic - Magic Transformation
+200	Tactics - Enlightenment
 201	Talisman of the Mad Warrior
 202	Tactics - Commander
 203	Obedience Talisman
@@ -219,17 +219,17 @@
 218	Tactics - Commander
 219	Talisman of Principle
 220	Tactics - Commander
-221	Sacred Flag
+221	Sanctuary Flag
 222	Tactics - Special Teachings
 223	Apprentice Front Line Trumpet
 224	Tactics - Special Teachings
-225	Union of Forces Flag
+225	Flag of the Union of Forces
 226	Tactics - Special Teachings
 227	Special Front Line Trumpet
 228	Tactics - Special Teachings
 229	Recruitment Flag
 230	Tactics - Special Teachings
-231	Flag of Enthusiasm
+231	Banner of Zeal
 232	Tactics - Special Teachings
 233	Wanderer of the Master's Front Line
 234	Tactics - Special Teachings
@@ -243,9 +243,9 @@
 242	Bread
 243	Delicious Danish Bread
 244	Bread
-245	Delicious Honey Bread
+245	Delicious honey bread
 246	Bread
-247	Dry and Delicious Hard Bread
+247	Delicious Dry and Hard Bread
 248	Bread
 249	Delicious Rye Bread
 250	Bread

@@ -368,7 +368,7 @@
 367	&%s& joined the Guild %s Congratulations!
 368	The invitation to join the Guild has been sent, please wait for the response.
 369	Guild created Id = %I64
-370	To increase the scale, it is necessary that the Degree of Activity this week is reached %d
+370	To increase the level, it is necessary that the Degree of Activity this week: %d is reached
 371	It is not possible to increase, this week, the scale of the Guild has already been increased (from level 10, it is only possible to increase the scale once a week)
 372	The scale of the Guild has already been increased to the maximum
 373	You do not have permission for %s
@@ -406,7 +406,7 @@
 405	Enter the base of the Guild
 406	Leave Guild base
 407	Ready to obtain the base of the Guild
-408	1 The applicant needs to be the Chief of the Guild2 Currently, he does not have an Guild base3 The application period must be from Tuesday to Sunday4 Necessary Gold Consumption: %d
+408	1. The applicant needs to be the Chief of the Guild.\r2. Currently, he does not have an Guild base\r3. The application period must be from Tuesday to Sunday\r4. Necessary Gold Consumption: %d
 409	You still do not have an Guild
 410	The Guild already has a Base, it is not necessary to request again
 411	The level of your Guild has not yet reached level 1, it is not possible to request a base

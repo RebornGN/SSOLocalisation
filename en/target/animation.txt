@@ -237,7 +237,7 @@
 236	Chapter I: Legends of a New Era!
 237	Chapter I: Weapons Deadly Combat!
 238	Quick, click on the button to burn your Cosmo!
-239	Chapter II: Burn Explosion of the Cosmo!
+239	Chapter II: Cosmo Explosion!
 240	Seiya
 241	I hope you find your sister
 242	Unfortunately, I still can not leave the sanctuary
@@ -249,7 +249,7 @@
 248	Start the fight for the Armor!
 249	What place is that?
 250	I feel as if time has stopped ...
-251	Chapter III: Fugue Another Dimension!
+251	Chapter III: Another Dimension!
 252	Quick, Reach the battle tank and protect it to the sand!
 253	Team attention! The mission will fail if they move too far from the Combat Car.
 254	Fast, with the tanks, you will be safe at the Wailing Wall !!!
@@ -324,8 +324,8 @@
 323	Seiya of Pegasus VS Geki of Bear
 324	The winner is
 325	Seiya of Pegasus!
-326	The next fight, Hyoga of Cygnus VS Ichi of Sea Dragon!
-327	Hyoga of Cygnus VS Ichi of Sea Dragon
+326	The next fight, Hyoga of Cygnus VS Hydra Ichi!
+327	Hyoga of Cygnus VS Hydra Ichi
 328	Hyoga of Cygnus!
 329	The Galactic Tournament continues!
 330	Seiya of Pegasus VS Shiryu of Dragon
@@ -586,7 +586,7 @@
 585	Pandora died
 586	Loading dissatisfaction and regret
 587	There is ...... Pray!
-588	She prayed ----
+588	She prayed ————
 589	You can reach the Champs Elysees
 590	You can kill the Emperor Hades!
 591	He was pursuing the Cosmo of Lune, advancing to the deepest Underworld of Hades!
@@ -614,7 +614,7 @@
 613	I'm tired of playing with you!
 614	Be ready to die! Knight!
 615	Stupid!
-616	---- Hades
+616	———— Hades
 617	The battle has begun ......
 618	Maintaining love and justice of a Knight! Get together fast!
 619	A thunder came from the temple of Hades
@@ -1430,7 +1430,7 @@
 1429	Ghost Arrows!
 1430	Hehehehe
 1431	They can not save this woman
-1432	To the young people who came here! I entrust them to you Athena ---- Aioros
+1432	To the young people who came here! I entrust them to you Athena ———— Aioros
 1433	Cassios
 1434	He will only wake up in this way
 1435	Hurry up!

@@ -60,7 +60,7 @@
 59	Fusion of Souls of Pet made successfully!
 60	The status of the two Pets ^ff0000 are not the same, you can not proceed with the fusion of Souls
 61	The initial growth rate of the auxiliary Pet ^ff0000 is relatively lower than that of the main Pet, it is not possible to continue with the fusion of Souls
-62	Alma del Pet moved successfully 1
+62	Soul del Pet moved successfully 1
 63	The discrepancy between the statuses of the two Pets ^ff0000 can only reach 1, at the maximum
 64	Auxiliary Pet ^ff0000 has no help for the growth of the Pet Pet
 65	Siamese
@@ -335,13 +335,13 @@
 334	It is necessary that the previous bar of favorites is complete to be able to activate the next bar
 335	Auxiliary Squire is linked, after the absorption, the Squire will remain in linked status, do you want to absorb?
 336	After consumption of the linked Magic Power futa, the Squire will change to a linked status. Do you want to continue growing?
-337	^ff0000 Full%s practice
-338	★ Power%d
+337	^ff0000 Full %s practice
+338	★Power %d
 339	^ffff00 ★ Power%d ^ff0000 (%.f %%)
 340	Power collection:%d ^ff0000 (1 %%)
-341	Próx. LV
+341	LevelUp
 342	Exhaust
-343	Elevate
+343	Upgrade
 344	^ff0000%s reached maximum level
 345	^ff0000 Level of the Squire can not exceed the level of the character
 346	^ff0000Please increase the character level

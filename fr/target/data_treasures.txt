@@ -1,1024 +1,717 @@
 0	
-1	Emeralds
-2	Star Coins
-3	VIP
-4	Hot
-5	Fashion
-6	Makeup
-7	Mount
-8	Aid
-9	Remedies
-10	Function
-11	Squire
-12	Hot
-13	Fashion
-14	Makeup
-15	Mount
-16	Aid
-17	Remedies
-18	Function
-19	Squire
-20	Holy Armour
-21	Equipment
-22	Hot
-23	Male
-24	Female
-25	Faces (M)
-26	Faces (F)
-27	Mount
-28	Upgrade
-29	Star Casting
-30	Astrology
-31	Elixir
-32	Energy
-33	Slots
-34	Megaphones
-35	Double EXP
-36	Dice
-37	Slots
-38	Equipment
-39	Male
-40	Female
-41	Faces (M)
-42	Faces (F)
-43	Mount
-44	Upgrade
-45	Star Casting
-46	Astrology
-47	Elixir
-48	Energy
-49	Slots
-50	Megaphones
-51	Double EXP
-52	Dice
-53	Reputation
-54	Roses
-55	Event
-56	Slots
-57	Materials
-58	Equipment
-59	Fragments
-60	Authorization
-61	Refining
-62	Upgrading
-63	Faces (M)
-64	Hairs (M)
-65	Faces (F)
-66	Hairs (F)
-67	Change
-68	Faces (M)
-69	Hairs (M)
-70	Faces (F)
-71	Hairs (F)
-72	Change
-73	Astrology
-74	Astrology
-75	Stargazing
-76	Astrology
-77	Pets
-78	Eggs
-79	Remodeling
-80	Remodeling
-81	Treasures
-82	Packs
-83	Souls
-84	Souls
-85	Artifacts
-86	Relic
-87	Marriage
-88	Marriage
-89	Rings
-90	Rings
-91	Item Spirit
-92	Item Spirit
-93	Crystals
-94	Armor Gems
-95	Armor Gems
-96	Gift Packs
-97	Aid
-98	Armor Gems
-99	Skill
-100	Skill
-101	Anima
-102	Anima
-103	Guild Flag
-104	Grand Master
-105	Hot
-106	Energy Center EXP Double
-107	Augmente double EXP duration by 60 minutes.
-108	Hyper Potion IV
-109	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
-110	Hyper Potion III
-111	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-112	Sang de Poseidon*20
-113	It can improve the effect when the star casts the Scales.
-114	Sang d'Athena*20
-115	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-116	Sang de Bronze*20
-117	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-118	Sang d'Argent*20
-119	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-120	Sang d'Hades*20
-121	It can improve the effect when the star casts the Holy Armour.
-122	Sang d'enchant*20
-123	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
-124	Sang d'enchant
-125	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
-126	Super Or Blood
-127	
-128	Sang d'Athena Divin
-129	
-130	Sang d'Athena Divin
-131	
-132	Sang d'Enchant (Parfait)
-133	
-134	Sang d'enchant*20
-135	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
-136	Sang d'enchant
-137	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
-138	Sang de Bronze*20
-139	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-140	Sang de Bronze
-141	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-142	Sang d'Athena*20
-143	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-144	Sang d'Athena
-145	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-146	Livre d'Athena
-147	Open the highest-order Cosmo astrology, the high-grade star soul is no longer a dream.
-148	Livre d'Athena
-149	Open the highest-order Cosmo astrology, the high-grade star soul is no longer a dream.
-150	Hyper Potion IV
-151	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
-152	Hyper Potion III
-153	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-154	Hyper Potion I
-155	Restores a small amount of HP.
-156	Energetic I*20
-157	Après utilisation, you receive 500 magic box energy.
-158	Energetic I
-159	Après utilisation, you receive 500 magic box energy.
-160	Enhancer*20
-161	Après utilisation, you receive 400 magic box energy.
-162	Enhancer
-163	Après utilisation, you receive 400 magic box energy.
-164	Extension Inventaire
-165	Expands bag space by 6 slots.
-166	Extension de Banque
-167	Expands warehouse space by 6 slots.
-168	Megaphone x100
-169	Required to use World chat channel.\rLevel 40 or above only.
-170	Megaphone x10
-171	Required to use World chat channel.\rLevel 40 or above only.
-172	Energy Center EXP Double
-173	Augmente double EXP duration by 60 minutes.
-174	Destination Data*20
-175	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-176	Destination Data
-177	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-178	Ecliptic Heart I
-179	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-180	Ecliptic Heart II
-181	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-182	Ecliptic Heart III
-183	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-184	Ecliptic Heart IV
-185	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-186	Ecliptic Heart V
-187	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-188	Parchemin Armure [Eleve]
-189	Collect a certain amount to redeem the ruler equipment.
-190	Metis Determination Light
-191	The will of the intelligent goddess allows you to relearn combat skills.
-192	Fist of Justice
-193	Casual t-shirt, modern design, fine finish
-194	GAME OVER
-195	Casual t-shirt, modern design, fine finish
-196	Red Cross
-197	Casual t-shirt, modern design, fine finish
-198	Gray Pants
-199	Casual pants, goes with everything
-200	Navy Blue Trousers
-201	Casual pants, goes with everything
-202	Blue Pants
-203	Casual pants, goes with everything
-204	Blue Tennis
-205	Casual shoe, more loved by men, practical and comfortable.
-206	Purple Tennis
-207	Casual shoe, more loved by men, practical and comfortable.
-208	Green Tennis
-209	Casual shoe, more loved by men, practical and comfortable.
-210	Black Skull Costume
-211	It's possible to fall in love during Halloween, right?
-212	Black Skull Glove
-213	It's possible to fall in love during Halloween, right?
-214	Black Skull Boots
-215	It's possible to fall in love during Halloween, right?
-216	Black Skull Helmet
-217	It's possible to fall in love during Halloween, right?
-218	Colorful jacket
-219	Comfortable and elegant sports fashion 
-220	Simple Jacket
-221	Comfortable and elegant sports fashion 
-222	Extravagant Jacket
-223	Comfortable and elegant sports fashion 
-224	Colorful Bermuda
-225	Comfortable and elegant sports fashion 
-226	Bermuda Simple
-227	Comfortable and elegant sports fashion 
-228	Extravagant sports shorts
-229	Comfortable and elegant sports fashion 
-230	Colorful Tennis
-231	Comfortable and elegant sports fashion 
-232	Simple Tennis
-233	Comfortable and elegant sports fashion 
-234	Extravagant Tennis
-235	Comfortable and elegant sports fashion 
-236	Kitten Costume
-237	Part of the kitten fantasy
-238	Leopard Costume
-239	Part of the leopard fantasy
-240	Doraemiau Costume (M)
-241	Part of Doraemiau's fantasy
-242	Kitty Glove
-243	Part of the kitten fantasy
-244	Leopard Glove
-245	Part of the leopard fantasy
-246	Doraemiau Glove (M)
-247	Part of Doraemiau's fantasy
-248	Kitten Boots
-249	Cute dark blue cat claw fashion shoes, dedicated to boys.
-250	Leopard Boots
-251	Cute leopard cat claw fashion shoes, dedicated to boys.
-252	Doraemiau Boots (M)
-253	Cute sky blue cat claw fashion shoes, dedicated to boys.
-254	Kitty Hat
-255	Cute dark blue cat claw fashion headdress, dedicated to boys.
-256	Leopard Hat
-257	Cute leopard cat claw fashion headwear for boys.
-258	Doraemiau Hat (M)
-259	Cute sky blue cat claw fashion headdress, dedicated to boys.
-260	Sexy Bikini
-261	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-262	Sexy Sandals
-263	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-264	Breeze of the Sea Bikini
-265	With the sea breeze hitting the face, the freshness leaves people in a good mood.
-266	Brisa del Mar Sandals
-267	With the sea breeze hitting the face, the freshness leaves people in a good mood.
-268	Charming Bikini
-269	Mysterious charm, a different style.\r
-270	Lovely Sandals
-271	Mysterious charm, a different style.\r
-272	Tender Bikini
-273	Tenderness heats the hearts of people 
-274	Tender Sandals
-275	Tenderness heats the hearts of people 
-276	Bikini Genial
-277	Sunshine, beach, beauty! Warm and warm, like a spring breeze~
-278	Genuine Sandals
-279	Sunshine, beach, beauty! Warm and warm, like a spring breeze~
-280	Rainbow Bikini
-281	Sky after the rain, beach rainbow! Beautiful scenery is beautiful ~
-282	Rainbow Sandals
-283	Sky after the rain, beach rainbow! Beautiful scenery is beautiful ~
-284	Pink Skull Costume
-285	It's possible to fall in love during Halloween, right?
-286	Pink Skull Glove
-287	It's possible to fall in love during Halloween, right?
-288	Pink Skull Boots
-289	It's possible to fall in love during Halloween, right?
-290	Pink Skull helmet
-291	It's possible to fall in love during Halloween, right?
-292	Colorful jacket
-293	Comfortable and elegant sports fashion 
-294	Simple Jacket
-295	Comfortable and elegant sports fashion 
-296	Extravagant Jacket
-297	Comfortable and elegant sports fashion 
-298	Black Mini Skirt
-299	Comfortable and elegant sports fashion 
-300	Clarete Mini Skirt
-301	Comfortable and elegant sports fashion 
-302	Printed Mini Skirt
-303	Comfortable and elegant sports fashion 
-304	Colorful Tennis
-305	Comfortable and elegant sports fashion 
-306	Simple Tennis
-307	Comfortable and elegant sports fashion 
-308	Extravagant Tennis
-309	Comfortable and elegant sports fashion 
-310	Little Mouse Costume
-311	Part of the fantasy of ratita
-312	Jaguar costume
-313	Part of the cheetah fantasy
-314	Doraemiau Costume (F)
-315	Part of Doraemiau's fantasy
-316	Ratoncita Medium
-317	Part of the fantasy of ratita
-318	Jaguar Mean
-319	Cute leopard cat claw fashion stockings for girls.
-320	Media Doraemiau
-321	Cute sky blue cat claw fashion stockings, dedicated to girls.
-322	Little Mouse Glove
-323	Part of the fantasy of ratita
-324	Jaguar Glove
-325	Cute leopard cat claw fashion gloves, dedicated to girls.
-326	Doraemiau Glove (F)
-327	Cute sky blue cat claw fashion gloves, dedicated to girls.
-328	Little Mouse Boots
-329	Part of the fantasy of ratita
-330	Jaguar boots
-331	Cute leopard cat claw fashion shoes, dedicated to girls.
-332	Doraemiau Boots (F)
-333	Cute sky blue cat claw fashion shoes, dedicated to girls.
-334	Little Mouse Hat
-335	Part of the fantasy of ratita
-336	Jaguar Hat
-337	Cute leopard cat claw fashion headwear, dedicated to girls.
-338	Doraemiau Hat (F)
-339	Cute sky blue cat claw fashion headdress, dedicated to girls.
-340	Bandage
-341	It leaves you with a scary appearance
-342	Lovely Lenses
-343	Mysterious charm, a different style! 
-344	Lovely Lenses
-345	Lovely and unforgettable! 
-346	Elegant Lenses
-347	What elegance! 
-348	Attractive Lenses
-349	Red is the color of love! 
-350	Insignia of the Clouds
-351	In exchange for the necessary items in the Pegase and Wings.
-352	Storm
-353	
-354	Flying fish · Flying armor
-355	
-356	Pegase · Wing Clothing
-357	
-358	Phoenix
-359	
-360	Phoenix Noir
-361	
-362	Spirit of Phoenix
-363	
-364	Phoenix Spectrum
-365	
-366	Mighty Lightning Attack
-367	
-368	Ryusei
-369	
-370	Sovereign Dragon of the Night
-371	
-372	Jade · Dragon's Wing
-373	
-374	Tiamat
-375	
-376	Spectral Tap
-377	
-378	Hyper Potion IV
-379	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
-380	Hyper Potion III
-381	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-382	Energetic I*20
-383	Après utilisation, you receive 500 magic box energy.
-384	Energetic I
-385	Après utilisation, you receive 500 magic box energy.
-386	Enhancer*20
-387	Après utilisation, you receive 400 magic box energy.
-388	Enhancer
-389	Après utilisation, you receive 400 magic box energy.
-390	Extension Inventaire
-391	Expands bag space by 6 slots.
-392	Extension de Banque
-393	Expands warehouse space by 6 slots.
-394	Megaphone*200
-395	Consumed when speaking on the world channel.
-396	Megaphone*10
-397	Consumed when speaking on the world channel.
-398	Ad Megaphone*200
-399	Consumed when speaking on a broadcast channel.
-400	Ad Megaphone*10
-401	Consumed when speaking on a broadcast channel.
-402	Ad Megaphone
-403	Consumed when speaking on a broadcast channel.
-404	Energy Center EXP Double
-405	Augmente double EXP duration by 60 minutes.
-406	Destination Data*20
-407	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-408	Destination Data
-409	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-410	Sweetheart
-411	
-412	Besistir
-413	
-414	Kiss
-415	
-416	Card of Invasion
-417	A magical item that can directly sweep a copy of the activity.
-418	Ecliptic Heart I
-419	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-420	Ecliptic Heart II
-421	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-422	Ecliptic Heart III
-423	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-424	Ecliptic Heart IV
-425	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-426	Ecliptic Heart V
-427	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-428	Cristal d'Eleve*5
-429	Material used in exchange for the related items of the ruler.
-430	Fragment de Bronze*5
-431	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
-432	Fragment d'Argent*5
-433	After collecting a certain amount, you can exchange for Argent Holy Armor.\rDrops in activities above level 60.
-434	Minerais de Bronze Noir*5
-435	Dark Saints 1-10 stars cast.\rCan be redeemed.
-436	Minerais d'Argent Noir*5
-437	Dark Saints 11-16 stars cast.\rCan be redeemed.
-438	Minerais d'Or Noir*5
-439	Dark Saints 17-32 stars cast.\rCan be redeemed.
-440	Minerais de Bronze*5
-441	Pegase Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
-442	Minerais d'Argent*5
-443	Pegase Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
-444	Minerais d'Or*5
-445	Pegase Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
-446	Poussière de Bronze*5
-447	Used in ordinary bronze Sacrée clothing.\rDrops frequency in instances above level 30.
-448	Poussière d'Argent*5
-449	Used for ordinary Argent Sacrée clothing.\rDrops frequency in instances above level 50.
-450	Minerais d'Etoile [Terre]*5
-451	Used for Armure Or.\rDrops frequency in instances above level 70.
-452	Minerais d'Etoile [Feu]*5
-453	Used for Armure Or.\rDrops frequency in instances above level 70.
-454	Minerais d'Etoile [Eau]*5
-455	Used for Armure Or.\rDrops frequency in instances above level 70.
-456	Minerais d'Etoile [Vent]*5
-457	Used for Armure Or.\rDrops frequency in instances above level 70.
-458	Spiritual Light*10
-459	Used to equip the energy.\rDrops frequency in instances above level 30.
-460	Spiritual Light +*10
-461	Used to equip the energy.\rDrops frequency in instances above level 50.
-462	Soul Light*10
-463	Used to equip the energy.\rDrops frequency in instances above level 30.
-464	Soul Light +*10
-465	Used to equip the energy.\rDrops frequency in instances above level 50.
-466	Fragment d'Echarpe
-467	Once collected in a certain amount, it can be used to exchange items for the sling.
-468	Young Passionate
-469	Advance bravely and burn! Cosmo!
-470	Immature
-471	Young and childish, good times.
-472	Beautiful and elegant
-473	Young, beautiful elegant and natural.
-474	Golden Light
-475	SunLumiere surrounds you
-476	Young Knight
-477	Tenderness is justice.
-478	Maduro
-479	Time gives you maturity
-480	Jamir (M)
-481	Descendant of the village of Jamir.
-482	Zen Spirit
-483	The man closest to God.
-484	Lunar under the eye
-485	Its beauty can compete with the sun and the moon
-486	Terror and justice
-487	Justice can be terrible
-488	Young Passionate
-489	Young man with a burning heart 
-490	Pegase
-491	Hairstyle of Seiya de Pegase.\r
-492	Dragon
-493	Dragon Shiryu hairstyle.
-494	Cygne
-495	Cygne Hyoga Hairstyle
-496	Andromede
-497	Andromede Shun Hairstyle.\r
-498	Phoenix
-499	Ikki de Phoenix hairstyle.\r
-500	Belier
-501	Belier Mu hairstyle.\r
-502	Vierge
-503	Shaka's Vierge Hairstyle.\r
-504	Poisson
-505	Hairstyle of the Aphrodite of Poisson.\r
-506	Cancer
-507	Hairstyle of the Cancer Death Masque.\r
-508	Tender Girl
-509	I and my little Companion got so fond of us!
-510	Innocent Girl
-511	For those who have a pure heart
-512	Queen
-513	You have to call me Empress!
-514	Lovely Girl
-515	With a smile the city curves, with another the country too.
-516	Brave and Brilliant
-517	Full of heroic spirit, what a peculiar woman!
-518	Lily Girl
-519	Independent and self-sufficient girl, seems a calm and content lily.
-520	Jamir (F)
-521	Descendant of the village of Jamir.
-522	Snow Girl
-523	Elegant and noble, who but me?
-524	Delicate Girl
-525	Delicate as a rose
-526	Last mystery
-527	I said it is mysterious, so you guessed it~~
-528	Impeccable purity
-529	Impeccable hairstyle 
-530	Colitas
-531	For those who have a pure heart
-532	Mysterious Charm
-533	The mystery is the charm of a woman! 
-534	Wild Flower
-535	Wildflowers on the roadside, you are going to pick it up~
-536	Tender Fritters
-537	Two bows are better than one! 
-538	Jovial Bun
-539	Jovial and genial hairstyle 
-540	Natural charm
-541	Natural beauty like that of a hibiscus 
-542	Intelligent and Delicate
-543	She knows which books contain treasures 
-544	Pretty and Classical
-545	Beautiful, unique and independent 
-546	Graceful Elegance
-547	Tenderness heats the hearts of people
-548	Fragment d'Echarpe
-549	Once collected in a certain amount, it can be used to exchange items for the sling.
-550	Energie Cosmique
-551	The use of this item during particle evolution greatly Augmentes the success rate.
-552	Chaotic Spirit of Lion
-553	The low-end lion mount can be upgraded to a must-have for high-end mounts.
-554	Energie Cosmique
-555	The use of this item during particle evolution greatly Augmentes the success rate.
-556	Sang d'Argent
-557	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-558	Sang d'Argent*20
-559	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-560	Sang d'Hades
-561	It can improve the effect when the star casts the Holy Armour.
-562	Sang d'Hades*20
-563	It can improve the effect when the star casts the Holy Armour.
-564	Minerais Divin*5
-565	The Pegase Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
-566	Minerais des Enfers*5
-567	Used for the necessities of the Sacrée clothing.
-568	Cube Cosmique
-569	Essentials for stargazing.\rActivities above level 65 have fallen.
-570	Venus Superior Suit
-571	Latest fashion on Venus 
-572	Venus Time Shorts
-573	Latest fashion on Venus 
-574	Venus Boots (M)
-575	Latest fashion on Venus 
-576	Glove Venus (M)
-577	Latest fashion on Venus 
-578	Breeze of the Sea T-Shirt
-579	The sea breeze makes people happier! 
-580	Bermuda Breeze of the Sea
-581	The sea breeze makes people happier! 
-582	Brisa del Mar Flip Flops
-583	The sea breeze makes people happier! 
-584	Venus Shorts
-585	Latest fashion on Venus 
-586	Venus Gravitation Shorts
-587	Latest fashion on Venus 
-588	Venus boots (F)
-589	Latest fashion on Venus 
-590	Venus Glove (F)
-591	Latest fashion on Venus 
-592	Sunflower Bikini
-593	Shining like a sunflower.
-594	Sunflower Sandals
-595	Shining like a sunflower.
-596	Basic Sunglasses
-597	Beautiful and basic 
-598	Sang de Bronze*20
-599	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-600	Sang de Bronze
-601	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-602	Sang d'Argent*20
-603	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-604	Sang d'Argent
-605	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-606	Red Lenses
-607	Hot goggles, trendy.
-608	Coral Sunglasses
-609	Mysterious phantom, unpredictable.
-610	Purple Sunglasses
-611	Mysterious phantom, unpredictable.
-612	Cherry Heart
-613	Exchange for the essentials of the Sakura and Knight.
-614	Argent Star
-615	Redemption of the Argent wing killer and storm.
-616	Tender Bunny's Egg
-617	Opened to get a small partner - Meng Bunny.
-618	Pièce Ancienne
-619	Used in conjunction with the Oren Saints Coupon, redeem the Or Saint Cloth at the NPC Lumierebringer
-620	Potion of Aphrodite
-621	can reshape the shape of your character after use.
-622	Metis Determination Light
-623	The will of the intelligent goddess allows you to relearn combat skills.
-624	Night Mask (M)
-625	Magic Paradise theme costumes.
-626	Night Mask (F)
-627	Magic Paradise theme costumes.
-628	Warlock Hat
-629	Magic Paradise theme costumes.
-630	Top of Country Suit
-631	Magic Paradise theme costumes.
-632	Fierce Dragon River Crossing Fashion Pack
-633	。
-634	fashion banquet of Jesus
-635	。
-636	Country Pants
-637	Magic Paradise theme costumes.
-638	Country Glove
-639	Magic Paradise theme costumes.
-640	Country Boots
-641	Magic Paradise theme costumes.
-642	Top of the American Costume
-643	Magic Paradise theme costumes.
-644	Pants of the beautiful impetuous team
-645	Magic Paradise theme costumes.
-646	American Glove
-647	Magic Paradise theme costumes.
-648	American Boots (M)
-649	Magic Paradise theme costumes.
-650	Witch Hat
-651	Magic Paradise theme costumes.
-652	Fashion Costume
-653	Magic Paradise theme costumes.
-654	Fashion Boots
-655	Magic Paradise theme costumes.
-656	American Costume
-657	Magic Paradise theme costumes.
-658	American Boots (F)
-659	Magic Paradise theme costumes.
-660	Gift of Scorpio II (Excellent)
-661	A value-for-money spree that is limited to one use per person.
-662	Esprit d'Artefact
-663	You can choose to use the enhanced artifact power value.
-664	Esprit d'Artefact
-665	You can choose to use the enhanced artifact power value.
-666	Source Spirituelle
-667	Augmente the aura of the character.
-668	Sacrée Splendor
-669	Used for Surpliss.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
-670	Holy Splendor +
-671	Used for Surpliss.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
-672	Sweetheart at First Sight
-673	The two are married and the boys must have props.
-674	Love at First Sight
-675	The two are married and the girls must have props.
-676	Sang de Poseidon
-677	It can improve the effect when the star casts the Scales.
-678	Sang de Poseidon*20
-679	It can improve the effect when the star casts the Scales.
-680	Reformulation Axis
-681	It is possible to recast the spirit of some equipment.
-682	Axis of Preservation*10
-683	It is possible to retain the previous equipment spirit when recasting the spirit.
-684	Preservation Axis +
-685	It is possible to retain the previous equipment spirit when recasting the spirit.
-686	Axis Transition
-687	Items that must be consumed when the spirits are transferred.
-688	Marriage Alliances
-689	The two became a must-have couple ring for the couple.
-690	Luxury Wedding Kit
-691	A wedding package for a dream wedding.
-692	Stack Invitations
-693	There are a lot of invitations that can be used to give gifts to relatives and friends.
-694	Bookmark
-695	The blessings of the message on the luxury inscription message board, the blessing is seen by everyone.
-696	Sang de Poseidon
-697	It can improve the effect when the star casts the Scales.
-698	Sang de Poseidon*20
-699	It can improve the effect when the star casts the Scales.
-700	Sang d'Hades
-701	It can improve the effect when the star casts the Holy Armor.
-702	Sang d'Hades*20
-703	It can improve the effect when the star casts the Holy Armor.
-704	Sang d'Athena
-705	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-706	Sang d'Athena*20
-707	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-708	Marriage veil of love to the snow season
-709	
-710	Love wedding dress to the snow season
-711	
-712	Women's shoe of Love to the snow season
-713	
-714	Male hair of love to the snow season
-715	
-716	Suit of love to the snow season
-717	
-718	Social pants of love to the snow season
-719	
-720	Reformulation Axis
-721	It is possible to recast the spirit of some equipment.
-722	Axis of Preservation*10
-723	It is possible to retain the previous equipment spirit when recasting the spirit.
-724	Preservation Axis +
-725	It is possible to retain the previous equipment spirit when recasting the spirit.
-726	Axis Transition
-727	Items that must be consumed when the spirits are transferred.
-728	Minerais des Océans*5
-729	Usable for Scales.
-730	Baby Panda Egg
-731	Cute New Year Panda Baby, holding red koi for you to celebrate!
-732	Specter Blood
-733	It can improve the effect when the star casts the Holy Armor.
-734	Specter Blood*20
-735	It can improve the effect when the star casts the Holy Armor.
-736	Crystal of Degeneration
-737	Can be used to upgrade badge.
-738	Crystal of the Abyss
-739	Can be used to upgrade stone.
-740	Drilling Glass
-741	Can be used to upgrade bracelet.
-742	Crystal of Hades
-743	Can be used to upgrade better bracelets.
-744	Crystal of Poseidon
-745	Can be used to upgrade better Rosaire.
-746	Crystal of Zeus
-747	Can be used to upgrade better bracelets.
-748	LV10 Frenzy Pack
-749	Special rewards.\rOne time.
-750	LV59 Frenzy Pack
-751	Special rewards.\rOne time.
-752	LV79 Frenzy Pack
-753	Special rewards.\rOne time.
-754	LV10 Frenzy Pack
-755	Special rewards.\rOne time.
-756	LV59 Frenzy Pack
-757	Special rewards.\rOne time.
-758	LV79 Frenzy Pack
-759	Special rewards.\rOne time.
-760	Gem - Vie
-761	Can be inlaid and enhance the attributes of the soul of the armor.
-762	Gem - Def
-763	Can be inlaid and enhance the attributes of the soul of the armor.
-764	Gem - Eau
-765	Can be inlaid and enhance the attributes of the soul of the armor.
-766	Gem - Elec
-767	Can be inlaid and enhance the attributes of the soul of the armor.
-768	Gem - Feu
-769	Can be inlaid and enhance the attributes of the soul of the armor.
-770	Gem - Vent
-771	Can be inlaid and enhance the attributes of the soul of the armor.
-772	Gem - Terre
-773	Can be inlaid and enhance the attributes of the soul of the armor.
-774	Gem - Precis
-775	Can be inlaid and enhance the attributes of the soul of the armor.
-776	Gem - Esquive
-777	Can be inlaid and enhance the attributes of the soul of the armor.
-778	Gem - Dégât
-779	Can be inlaid and enhance the attributes of the soul of the armor.
-780	Spirit of Gem
-781	Additional upgrade experience can be added when the soul gem is upgraded.
-782	Gem - Vie
-783	Can be inlaid and enhance the attributes of the soul of the armor.
-784	Gem - Def
-785	Can be inlaid and enhance the attributes of the soul of the armor.
-786	Gem - Eau
-787	Can be inlaid and enhance the attributes of the soul of the armor.
-788	Gem - Elec
-789	Can be inlaid and enhance the attributes of the soul of the armor.
-790	Gem - Feu
-791	Can be inlaid and enhance the attributes of the soul of the armor.
-792	Gem - Vent
-793	Can be inlaid and enhance the attributes of the soul of the armor.
-794	Gem - Terre
-795	Can be inlaid and enhance the attributes of the soul of the armor.
-796	Gem - Precis
-797	Can be inlaid and enhance the attributes of the soul of the armor.
-798	Gem - Esquive
-799	Can be inlaid and enhance the attributes of the soul of the armor.
-800	Gem - Dégât
-801	Can be inlaid and enhance the attributes of the soul of the armor.
-802	Spirit of Gem
-803	Additional upgrade experience can be added when the soul gem is upgraded.
-804	Cristal Spirituel
-805	The necessary props to upgrade the soul of the armor.
-806	Fragment de Gemme
-807	The necessary materials to upgrade the soul gem.
-808	Fragment de Gemme
-809	The necessary materials to upgrade the soul gem.
-810	Metis Determination Light
-811	The will of the intelligent goddess allows you to relearn combat skills.
-812	Metis Determination Light
-813	The will of the intelligent goddess allows you to relearn combat skills.
-814	Goddess' Gift ☆ Aries
-815	...
-816	Goddess' Gift ☆ Scorpio
-817	...
-818	Goddess' Gift ☆ Capricorn (II)
-819	...
-820	Goddess' Gift ☆ Sagittarius
-821	...
-822	Goddess' Gift ☆ Aquarius
-823	...
-824	Goddess' Gift ☆ Pisces
-825	...
-826	Goddess' Gift ☆ Taurus
-827	...
-828	Goddess' Gift ☆ Gemini
-829	...
-830	Goddess' Gift ☆ Cancer
-831	...
-832	Goddess' Gift ☆ Leo
-833	...
-834	Goddess' Gift ☆ Virgo
-835	...
-836	Goddess' Gift ☆ Libra
-837	...
-838	Goddess' Gift ☆ Aries (II)
-839	...
-840	Scorpion Gift Pack
-841	...
-842	Gift of Scorpio II (Excellent)
-843	...
-844	Gift of Scorpio II (Supreme)
-845	...
-846	Memento de Anima*1
-847	When used in Anima, it enhances the intensified experience.
-848	Memento de Anima*20
-849	When used in Anima, it enhances the intensified experience.
-850	Condensed Meteorite*1
-851	Search for consumables needed for stars.
-852	Autorisation Armure [Bronze]
-853	In exchange for the certificate of the higher-grade Bronze Holy Armor.
-854	Condensed Meteorite*20
-855	Search for consumables needed for stars.
-856	Whisper of Iapetus
-857	Resets the astral awakening value after use.
-858	Memento de Anima*1
-859	When used in Anima, it enhances the intensified experience.
-860	Memento de Anima*20
-861	When used in Anima, it enhances the intensified experience.
-862	Condensed Meteorite*1
-863	Search for consumables needed for stars.
-864	Condensed Meteorite*20
-865	Search for consumables needed for stars.
-866	Whisper of Iapetus
-867	Resets the astral awakening value after use.
-868	Emblem of the Priest
-869	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
-870	Bear Emblem
-871	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
-872	Emblem of the Pirate King
-873	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
-874	Voting Paper
-875	Elect the Pope's necessities and cast it to the candidate you trust the most.
-876	Flag of the Great Teacher
-877	A flag that can only be used by the Pope and the Acting Pope to activate the Pope-related activities.
-878	Autorisation Armure [Argent]
-879	In exchange for the certificate of the higher-grade Argent Holy Armor.
-880	Sacrée Seal of Silence
-881	Only the Pope can use it, banned the Sanctuaire, and walked the swearing words of the sinister remarks.
-882	Hermes costume
-883	can be used to switch between different occupations.
-884	Gender Change
-885	Switch between genders after use.
-886	Hermes costume
-887	can be used to switch between different occupations.
-888	Gender Change
-889	Switch between genders after use.
-890	Spirit of Battle of Lion
-891	Upgrades high-end lion mounts to the must-have for higher-end mounts.
-892	Lotus Flower
-893	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-894	Lotus Flower
-895	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-896	Mysterious Person
-897	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-898	Mysterious Person
-899	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-900	Lightning Storm Fashion Pack
-901	
-902	Vampire Knight Kit
-903	
-904	Chinese New Year fashion gift package
-905	
-906	Shadow Knight Kit
-907	
-908	Gorgeous Dance Fashion Pack
-909	
-910	Vampire Knight Pack
-911	
-912	Birthday Party Fashion Pack
-913	
-914	Ninja Fashion Pack
-915	
-916	Samurai Fashion Pack
-917	
-918	Blue Sky Army Fashion Pack
-919	
-920	Crimson Punk Fashion Pack
-921	
-922	Sanctuaire School Fashion Pack
-923	
-924	Merry Christmas Fashion Package
-925	
-926	Degenerate Angel Fashion Pack
-927	
-928	Mysterious Person
-929	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-930	Fairy tale fantasy costume
-931	Casual t-shirt, modern design, fine finish
-932	Panda's clothing out of control
-933	熊猫时间！
-934	Malignant tattoo
-935	Casual t-shirt, modern design, fine finish
-936	Intense love tattoo
-937	Casual t-shirt, modern design, fine finish
-938	Pink Apron
-939	Casual t-shirt, modern design, fine finish
-940	Blue apron
-941	Casual t-shirt, modern design, fine finish
-942	Green Apron
-943	Casual t-shirt, modern design, fine finish
-944	Purple Apron
-945	Casual t-shirt, modern design, fine finish
-946	Vanity man of cerecero
-947	Casual t-shirt, modern design, fine finish
-948	Angel tattoo out of control
-949	Casual t-shirt, modern design, fine finish
-950	Tatuajo de ángel caeido
-951	Casual t-shirt, modern design, fine finish
-952	Corset for the night
-953	Casual t-shirt, modern design, fine finish
-954	Long dress of the Knight of the Night
-955	Casual t-shirt, modern design, fine finish
-956	Long dress of the Vampire Knight
-957	Casual t-shirt, modern design, fine finish
-958	Long Dress of the Knight of the Shadows
-959	Casual t-shirt, modern design, fine finish
-960	Smart Candy
-961	Casual t-shirt, modern design, fine finish
-962	Long employee dress
-963	Casual t-shirt, modern design, fine finish
-964	Red armband formal clothes
-965	Casual t-shirt, modern design, fine finish
-966	Leather costume of the Explosion Spirit
-967	Casual t-shirt, modern design, fine finish
-968	Crimson male punk costume
-969	Casual t-shirt, modern design, fine finish
-970	Rock'n'Roll men's suit
-971	Casual t-shirt, modern design, fine finish
-972	Summer brave jacket
-973	Casual t-shirt, modern design, fine finish
-974	Explosion Tattoo
-975	
-976	Upper part of explosion tattoo wings
-977	
-978	Explosive Clogs
-979	
-980	Top of love wings of the snow season
-981	
-982	Fancy wedding dress from the fairy tale
-983	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-984	Temptation of Eva
-985	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-986	White dress of the beloved
-987	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-988	Mechanical panda costume
-989	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-990	Clothing of the Empress of the Golden Peach
-991	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-992	Clothing of the Queen of the Blue Heart
-993	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-994	Clothing of the Red Heart Queen
-995	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-996	Clothing of the Queen Rosa
-997	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-998	Call me Great Queen
-999	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1000	Bikinie Romano
-1001	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1002	Margarete · bloody
-1003	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1004	Gothic dress
-1005	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1006	Princess long pink dress
-1007	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1008	Long peach princess dress
-1009	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1010	Long dress of serene princess charm
-1011	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1012	Sweet Love
-1013	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1014	Uniform of subject
-1015	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1016	Captive of the Girl
-1017	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1018	Leather clothing of the spirit hunter
-1019	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1020	Female Crimson Punk Costume
-1021	The charm with a Vent of maturity brings chills to the gut in this hot summer 
-1022	Rock'nRoll female outfit
-1023	The charm with a Vent of maturity brings chills to the gut in this hot summer 
+1	商城
+2	VIP
+3	时装商城
+4	成长道具
+5	Remedies
+6	Function
+7	Aid
+8	圣衣
+9	Equipment
+10	Astrology
+11	神器
+12	Armor Gems
+13	Equipment
+14	星铸
+15	Squire
+16	神器
+17	占星
+18	Armor Gems
+19	星灵
+20	Astrology
+21	Change
+22	Elixir
+23	Energy
+24	Slots
+25	Megaphones
+26	Dice
+27	Reputation
+28	Roses
+29	Event
+30	Skill
+31	Guild Flag
+32	Grand Master
+33	Rings
+34	Mount
+35	宠物
+36	礼包
+37	其他
+38	Fragments
+39	Authorization
+40	Refining
+41	Upgrading
+42	Astrology
+43	Relic
+44	Armor Gems
+45	Remodeling
+46	黄金意志
+47	Potion of Aphrodite
+48	can reshape the shape of your character after use.
+49	Hermes costume
+50	can be used to switch between different occupations.
+51	Gender Change
+52	Switch between genders after use.
+53	Fist of Justice
+54	Casual t-shirt, modern design, fine finish
+55	GAME OVER
+56	Casual t-shirt, modern design, fine finish
+57	Red Cross
+58	Casual t-shirt, modern design, fine finish
+59	Gray Pants
+60	Casual pants, goes with everything
+61	Navy Blue Trousers
+62	Casual pants, goes with everything
+63	Blue Pants
+64	Casual pants, goes with everything
+65	Blue Tennis
+66	Casual shoe, more loved by men, practical and comfortable.
+67	Purple Tennis
+68	Casual shoe, more loved by men, practical and comfortable.
+69	Green Tennis
+70	Casual shoe, more loved by men, practical and comfortable.
+71	Black Skull Costume
+72	It's possible to fall in love during Halloween, right?
+73	Black Skull Glove
+74	It's possible to fall in love during Halloween, right?
+75	Black Skull Boots
+76	It's possible to fall in love during Halloween, right?
+77	Black Skull Helmet
+78	It's possible to fall in love during Halloween, right?
+79	Colorful jacket
+80	Comfortable and elegant sports fashion 
+81	Simple Jacket
+82	Comfortable and elegant sports fashion 
+83	Extravagant Jacket
+84	Comfortable and elegant sports fashion 
+85	Colorful Bermuda
+86	Comfortable and elegant sports fashion 
+87	Bermuda Simple
+88	Comfortable and elegant sports fashion 
+89	Extravagant sports shorts
+90	Comfortable and elegant sports fashion 
+91	Colorful Tennis
+92	Comfortable and elegant sports fashion 
+93	Simple Tennis
+94	Comfortable and elegant sports fashion 
+95	Extravagant Tennis
+96	Comfortable and elegant sports fashion 
+97	Kitten Costume
+98	Part of the kitten fantasy
+99	Leopard Costume
+100	Part of the leopard fantasy
+101	Doraemiau Costume (M)
+102	Part of Doraemiau's fantasy
+103	Kitty Glove
+104	Part of the kitten fantasy
+105	Leopard Glove
+106	Part of the leopard fantasy
+107	Doraemiau Glove (M)
+108	Part of Doraemiau's fantasy
+109	Kitten Boots
+110	Cute dark blue cat claw fashion shoes, dedicated to boys.
+111	Leopard Boots
+112	Cute leopard cat claw fashion shoes, dedicated to boys.
+113	Doraemiau Boots (M)
+114	Cute sky blue cat claw fashion shoes, dedicated to boys.
+115	Kitty Hat
+116	Cute dark blue cat claw fashion headdress, dedicated to boys.
+117	Leopard Hat
+118	Cute leopard cat claw fashion headwear for boys.
+119	Doraemiau Hat (M)
+120	Cute sky blue cat claw fashion headdress, dedicated to boys.
+121	Sexy Bikini
+122	The charm with a Vent of maturity brings chills to the gut in this hot summer 
+123	Sexy Sandals
+124	The charm with a Vent of maturity brings chills to the gut in this hot summer 
+125	Breeze of the Sea Bikini
+126	With the sea breeze hitting the face, the freshness leaves people in a good mood.
+127	Brisa del Mar Sandals
+128	With the sea breeze hitting the face, the freshness leaves people in a good mood.
+129	Charming Bikini
+130	Mysterious charm, a different style.\r
+131	Lovely Sandals
+132	Mysterious charm, a different style.\r
+133	Tender Bikini
+134	Tenderness heats the hearts of people 
+135	Tender Sandals
+136	Tenderness heats the hearts of people 
+137	Bikini Genial
+138	Sunshine, beach, beauty! Warm and warm, like a spring breeze~
+139	Genuine Sandals
+140	Sunshine, beach, beauty! Warm and warm, like a spring breeze~
+141	Rainbow Bikini
+142	Sky after the rain, beach rainbow! Beautiful scenery is beautiful ~
+143	Rainbow Sandals
+144	Sky after the rain, beach rainbow! Beautiful scenery is beautiful ~
+145	Pink Skull Costume
+146	It's possible to fall in love during Halloween, right?
+147	Pink Skull Glove
+148	It's possible to fall in love during Halloween, right?
+149	Pink Skull Boots
+150	It's possible to fall in love during Halloween, right?
+151	Pink Skull helmet
+152	It's possible to fall in love during Halloween, right?
+153	Colorful jacket
+154	Comfortable and elegant sports fashion 
+155	Simple Jacket
+156	Comfortable and elegant sports fashion 
+157	Extravagant Jacket
+158	Comfortable and elegant sports fashion 
+159	Black Mini Skirt
+160	Comfortable and elegant sports fashion 
+161	Clarete Mini Skirt
+162	Comfortable and elegant sports fashion 
+163	Printed Mini Skirt
+164	Comfortable and elegant sports fashion 
+165	Colorful Tennis
+166	Comfortable and elegant sports fashion 
+167	Simple Tennis
+168	Comfortable and elegant sports fashion 
+169	Extravagant Tennis
+170	Comfortable and elegant sports fashion 
+171	Little Mouse Costume
+172	Part of the fantasy of ratita
+173	Jaguar costume
+174	Part of the cheetah fantasy
+175	Doraemiau Costume (F)
+176	Part of Doraemiau's fantasy
+177	Ratoncita Medium
+178	Part of the fantasy of ratita
+179	Jaguar Mean
+180	Cute leopard cat claw fashion stockings for girls.
+181	Media Doraemiau
+182	Cute sky blue cat claw fashion stockings, dedicated to girls.
+183	Little Mouse Glove
+184	Part of the fantasy of ratita
+185	Jaguar Glove
+186	Cute leopard cat claw fashion gloves, dedicated to girls.
+187	Doraemiau Glove (F)
+188	Cute sky blue cat claw fashion gloves, dedicated to girls.
+189	Little Mouse Boots
+190	Part of the fantasy of ratita
+191	Jaguar boots
+192	Cute leopard cat claw fashion shoes, dedicated to girls.
+193	Doraemiau Boots (F)
+194	Cute sky blue cat claw fashion shoes, dedicated to girls.
+195	Little Mouse Hat
+196	Part of the fantasy of ratita
+197	Jaguar Hat
+198	Cute leopard cat claw fashion headwear, dedicated to girls.
+199	Doraemiau Hat (F)
+200	Cute sky blue cat claw fashion headdress, dedicated to girls.
+201	Bandage
+202	It leaves you with a scary appearance
+203	Lovely Lenses
+204	Mysterious charm, a different style! 
+205	Lovely Lenses
+206	Lovely and unforgettable! 
+207	Elegant Lenses
+208	What elegance! 
+209	Attractive Lenses
+210	Red is the color of love! 
+211	Young Passionate
+212	Advance bravely and burn! Cosmo!
+213	Immature
+214	Young and childish, good times.
+215	Beautiful and elegant
+216	Young, beautiful elegant and natural.
+217	Golden Light
+218	SunLumiere surrounds you
+219	Young Knight
+220	Tenderness is justice.
+221	Maduro
+222	Time gives you maturity
+223	Jamir (M)
+224	Descendant of the village of Jamir.
+225	Zen Spirit
+226	The man closest to God.
+227	Lunar under the eye
+228	Its beauty can compete with the sun and the moon
+229	Terror and justice
+230	Justice can be terrible
+231	Young Passionate
+232	Young man with a burning heart 
+233	Pegase
+234	Hairstyle of Seiya de Pegase.\r
+235	Dragon
+236	Dragon Shiryu hairstyle.
+237	Cygne
+238	Cygne Hyoga Hairstyle
+239	Andromede
+240	Andromede Shun Hairstyle.\r
+241	Phoenix
+242	Ikki de Phoenix hairstyle.\r
+243	Belier
+244	Belier Mu hairstyle.\r
+245	Vierge
+246	Shaka's Vierge Hairstyle.\r
+247	Poisson
+248	Hairstyle of the Aphrodite of Poisson.\r
+249	Cancer
+250	Hairstyle of the Cancer Death Masque.\r
+251	Tender Girl
+252	I and my little Companion got so fond of us!
+253	Innocent Girl
+254	For those who have a pure heart
+255	Queen
+256	You have to call me Empress!
+257	Lovely Girl
+258	With a smile the city curves, with another the country too.
+259	Brave and Brilliant
+260	Full of heroic spirit, what a peculiar woman!
+261	Lily Girl
+262	Independent and self-sufficient girl, seems a calm and content lily.
+263	Jamir (F)
+264	Descendant of the village of Jamir.
+265	Snow Girl
+266	Elegant and noble, who but me?
+267	Delicate Girl
+268	Delicate as a rose
+269	Last mystery
+270	I said it is mysterious, so you guessed it~~
+271	Impeccable purity
+272	Impeccable hairstyle 
+273	Colitas
+274	For those who have a pure heart
+275	Mysterious Charm
+276	The mystery is the charm of a woman! 
+277	Wild Flower
+278	Wildflowers on the roadside, you are going to pick it up~
+279	Tender Fritters
+280	Two bows are better than one! 
+281	Jovial Bun
+282	Jovial and genial hairstyle 
+283	Natural charm
+284	Natural beauty like that of a hibiscus 
+285	Intelligent and Delicate
+286	She knows which books contain treasures 
+287	Pretty and Classical
+288	Beautiful, unique and independent 
+289	Graceful Elegance
+290	Tenderness heats the hearts of people
+291	Venus Superior Suit
+292	Latest fashion on Venus 
+293	Venus Time Shorts
+294	Latest fashion on Venus 
+295	Venus Boots (M)
+296	Latest fashion on Venus 
+297	Glove Venus (M)
+298	Latest fashion on Venus 
+299	Breeze of the Sea T-Shirt
+300	The sea breeze makes people happier! 
+301	Bermuda Breeze of the Sea
+302	The sea breeze makes people happier! 
+303	Brisa del Mar Flip Flops
+304	The sea breeze makes people happier! 
+305	Venus Shorts
+306	Latest fashion on Venus 
+307	Venus Gravitation Shorts
+308	Latest fashion on Venus 
+309	Venus boots (F)
+310	Latest fashion on Venus 
+311	Venus Glove (F)
+312	Latest fashion on Venus 
+313	Sunflower Bikini
+314	Shining like a sunflower.
+315	Sunflower Sandals
+316	Shining like a sunflower.
+317	Basic Sunglasses
+318	Beautiful and basic 
+319	Red Lenses
+320	Hot goggles, trendy.
+321	Coral Sunglasses
+322	Mysterious phantom, unpredictable.
+323	Purple Sunglasses
+324	Mysterious phantom, unpredictable.
+325	Night Mask (M)
+326	Magic Paradise theme costumes.
+327	Men's suit top sea black wind
+328	
+329	Top of the female costume of the grace of the capital
+330	
+331	Male shoes sea wind black
+332	
+333	Feminine shoes of the grace of the capital
+334	
+335	Upper male part of the Mountain of the Flames of the legend of the confused echo
+336	
+337	Male Shoe of the Mountain of the Flames of the Eco Confused legend
+338	
+339	Glove of the mountain of ace flames of the echo legend confused
+340	
+341	Confused Female Shamrock Upper Part
+342	
+343	Feminine Shoe of the Confused Eco Clover
+344	
+345	Female eco clover glove confused
+346	
+347	Upper male part of the Hashima gift
+348	
+349	Female upper part of the blessing of Hashima
+350	
+351	Hashima Male Gift Shoe
+352	
+353	Hashima Women's Blessing Shoe
+354	
+355	Night Mask (F)
+356	Magic Paradise theme costumes.
+357	Warlock Hat
+358	Magic Paradise theme costumes.
+359	Top of Country Suit
+360	Magic Paradise theme costumes.
+361	Country Pants
+362	Magic Paradise theme costumes.
+363	Country Glove
+364	Magic Paradise theme costumes.
+365	Country Boots
+366	Magic Paradise theme costumes.
+367	Top of the American Costume
+368	Magic Paradise theme costumes.
+369	Pants of the beautiful impetuous team
+370	Magic Paradise theme costumes.
+371	American Glove
+372	Magic Paradise theme costumes.
+373	American Boots (M)
+374	Magic Paradise theme costumes.
+375	Witch Hat
+376	Magic Paradise theme costumes.
+377	Fashion Costume
+378	Magic Paradise theme costumes.
+379	Fashion Boots
+380	Magic Paradise theme costumes.
+381	American Costume
+382	Magic Paradise theme costumes.
+383	American Boots (F)
+384	Magic Paradise theme costumes.
+385	Fragment de Bronze*5
+386	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
+387	Fragment d'Argent*5
+388	After collecting a certain amount, you can exchange for Argent Holy Armor.\rDrops in activities above level 60.
+389	Autorisation Armure [Bronze]
+390	In exchange for the certificate of the higher-grade Bronze Holy Armor.
+391	Autorisation Armure [Argent]
+392	In exchange for the certificate of the higher-grade Argent Holy Armor.
+393	Minerais de Bronze Noir*5
+394	Dark Saints 1-10 stars cast.\rCan be redeemed.
+395	Minerais d'Argent Noir*5
+396	Dark Saints 11-16 stars cast.\rCan be redeemed.
+397	Minerais d'Or Noir*5
+398	Dark Saints 17-32 stars cast.\rCan be redeemed.
+399	Minerais de Bronze*5
+400	Pegase Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
+401	Minerais d'Argent*5
+402	Pegase Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
+403	Minerais d'Or*5
+404	Pegase Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
+405	Poussière de Bronze*5
+406	Used in ordinary bronze Sacrée clothing.\rDrops frequency in instances above level 30.
+407	Poussière d'Argent*5
+408	Used for ordinary Argent Sacrée clothing.\rDrops frequency in instances above level 50.
+409	Minerais d'Etoile [Terre]*5
+410	Used for Armure Or.\rDrops frequency in instances above level 70.
+411	Minerais d'Etoile [Feu]*5
+412	Used for Armure Or.\rDrops frequency in instances above level 70.
+413	Minerais d'Etoile [Eau]*5
+414	Used for Armure Or.\rDrops frequency in instances above level 70.
+415	Minerais d'Etoile [Vent]*5
+416	Used for Armure Or.\rDrops frequency in instances above level 70.
+417	Minerais Divin*5
+418	The Pegase Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
+419	Minerais des Enfers*5
+420	Used for the necessities of the Sacrée clothing.
+421	Minerais des Océans*5
+422	Usable for Scales.
+423	Spiritual Light*10
+424	Used to equip the energy.\rDrops frequency in instances above level 30.
+425	Spiritual Light +*10
+426	Used to equip the energy.\rDrops frequency in instances above level 50.
+427	Sacrée Splendor
+428	Used for Surpliss.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
+429	Holy Splendor +
+430	Used for Surpliss.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
+431	Cube Cosmique
+432	Essentials for stargazing.\rActivities above level 65 have fallen.
+433	Source Spirituelle
+434	Augmente the aura of the character.
+435	Cristal Spirituel
+436	The necessary props to upgrade the soul of the armor.
+437	Sang d'enchant*20
+438	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
+439	Sang d'enchant
+440	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
+441	Reformulation Axis
+442	It is possible to recast the spirit of some equipment.
+443	Axis of Preservation*10
+444	It is possible to retain the previous equipment spirit when recasting the spirit.
+445	Preservation Axis +
+446	It is possible to retain the previous equipment spirit when recasting the spirit.
+447	Axis Transition
+448	Items that must be consumed when the spirits are transferred.
+449	Fragment d'Echarpe
+450	Once collected in a certain amount, it can be used to exchange items for the sling.
+451	Pièce Ancienne
+452	Used in conjunction with the Oren Saints Coupon, redeem the Or Saint Cloth at the NPC Lumierebringer
+453	Sang de Bronze*20
+454	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
+455	Sang de Bronze
+456	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
+457	Sang d'Athena*20
+458	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
+459	Sang d'Athena
+460	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
+461	Sang d'Argent
+462	It can be enhanced when the stars cast all Argent and Armure Bronzes.
+463	Sang d'Argent*20
+464	It can be enhanced when the stars cast all Argent and Armure Bronzes.
+465	Sang d'Hades
+466	It can improve the effect when the star casts the Holy Armour.
+467	Sang d'Hades*20
+468	It can improve the effect when the star casts the Holy Armour.
+469	Sang de Poseidon
+470	It can improve the effect when the star casts the Scales.
+471	Sang de Poseidon*20
+472	It can improve the effect when the star casts the Scales.
+473	Specter Blood
+474	It can improve the effect when the star casts the Holy Armor.
+475	Specter Blood*20
+476	It can improve the effect when the star casts the Holy Armor.
+477	Ecliptic Heart I
+478	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+479	Ecliptic Heart II
+480	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+481	Ecliptic Heart III
+482	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+483	Ecliptic Heart IV
+484	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+485	Ecliptic Heart V
+486	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+487	Cristal d'Eleve*5
+488	Material used in exchange for the related items of the ruler.
+489	Parchemin Armure [Eleve]
+490	Collect a certain amount to redeem the ruler equipment.
+491	Fruit Magic*10
+492	可用于给守护星提升等级。
+493	Esprit d'Artefact
+494	You can choose to use the enhanced artifact power value.
+495	Livre d'Athena
+496	Open the highest-order Cosmo astrology, the high-grade star soul is no longer a dream.
+497	Energie Cosmique
+498	The use of this item during particle evolution greatly Augmentes the success rate.
+499	Memento de Anima*1
+500	When used in Anima, it enhances the intensified experience.
+501	Memento de Anima*20
+502	When used in Anima, it enhances the intensified experience.
+503	Condensed Meteorite*1
+504	Search for consumables needed for stars.
+505	Condensed Meteorite*20
+506	Search for consumables needed for stars.
+507	Whisper of Iapetus
+508	Resets the astral awakening value after use.
+509	Gem - Vie
+510	Can be inlaid and enhance the attributes of the soul of the armor.
+511	Gem - Def
+512	Can be inlaid and enhance the attributes of the soul of the armor.
+513	Gem - Eau
+514	Can be inlaid and enhance the attributes of the soul of the armor.
+515	Gem - Elec
+516	Can be inlaid and enhance the attributes of the soul of the armor.
+517	Gem - Feu
+518	Can be inlaid and enhance the attributes of the soul of the armor.
+519	Gem - Vent
+520	Can be inlaid and enhance the attributes of the soul of the armor.
+521	Gem - Terre
+522	Can be inlaid and enhance the attributes of the soul of the armor.
+523	Gem - Precis
+524	Can be inlaid and enhance the attributes of the soul of the armor.
+525	Gem - Esquive
+526	Can be inlaid and enhance the attributes of the soul of the armor.
+527	Gem - Dégât
+528	Can be inlaid and enhance the attributes of the soul of the armor.
+529	Gem - Benetnasch
+530	Can be inlaid and enhance the attributes of the soul of the armor.
+531	Gem - Polaris
+532	Can be inlaid and enhance the attributes of the soul of the armor.
+533	Spirit of Gem
+534	Additional upgrade experience can be added when the soul gem is upgraded.
+535	Fragment de Gemme
+536	The necessary materials to upgrade the soul gem.
+537	Hyper Potion IV
+538	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
+539	Hyper Potion III
+540	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
+541	Hyper Potion I
+542	Restores a small amount of HP.
+543	Energetic I*20
+544	Après utilisation, you receive 500 magic box energy.
+545	Energetic I
+546	Après utilisation, you receive 500 magic box energy.
+547	Enhancer*20
+548	Après utilisation, you receive 400 magic box energy.
+549	Enhancer
+550	Après utilisation, you receive 400 magic box energy.
+551	Extension Inventaire
+552	Expands bag space by 6 slots.
+553	Extension de Banque
+554	Expands warehouse space by 6 slots.
+555	Megaphone*200
+556	Consumed when speaking on the world channel.
+557	Megaphone*10
+558	Consumed when speaking on the world channel.
+559	Ad Megaphone*200
+560	Consumed when speaking on a broadcast channel.
+561	Ad Megaphone*10
+562	Consumed when speaking on a broadcast channel.
+563	Ad Megaphone
+564	Consumed when speaking on a broadcast channel.
+565	Destination Data*20
+566	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
+567	Destination Data
+568	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
+569	Goddess' Gift ☆ Sagittarius (III)
+570	
+571	Goddess' Gift ☆ Scorpio (III)
+572	
+573	Goddess' Gift ☆ Libra (II)
+574	
+575	Goddess' Gift ☆ Virgo (II)
+576	
+577	Goddess' Gift ☆ Capricorn (II)
+578	
+579	Goddess' Gift ☆ Sagittarius (II)
+580	
+581	Goddess Blessing ☆ Scorpio (II)
+582	
+583	Goddess' Gift ☆ Leo (II)
+584	
+585	Goddess' Gift ☆ Cancer (II)
+586	
+587	Goddess' Gift ☆ Gemini (II)
+588	
+589	Goddess' Gift ☆ Taurus (II)
+590	
+591	女神的恩赐☆白羊版(II)
+592	
+593	Goddess' Gift ☆ Aquarius (II)
+594	
+595	Goddess' Gift ☆ Capricorn (II)
+596	
+597	Roses
+598	A valuable flower that can be used to give a friend.\rActivities above level 60.
+599	Aldebaran Challenge Coupon
+600	交给试炼幻境中的幻境使者可立刻完成当日锄花任务。
+601	Card of Invasion
+602	A magical item that can directly sweep a copy of the activity.
+603	Metis Determination Light
+604	The will of the intelligent goddess allows you to relearn combat skills.
+605	Emblem of the Priest
+606	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
+607	Bear Emblem
+608	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
+609	Emblem of the Pirate King
+610	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
+611	Sacrée Seal of Silence
+612	Only the Pope can use it, banned the Sanctuaire, and walked the swearing words of the sinister remarks.
+613	Chaotic Spirit of Lion
+614	The low-end lion mount can be upgraded to a must-have for high-end mounts.
+615	Spirit of Battle of Lion
+616	Upgrades high-end lion mounts to the must-have for higher-end mounts.
+617	Cherry Heart
+618	Exchange for the essentials of the Sakura and Knight.
+619	Argent Star
+620	Redemption of the Argent wing killer and storm.
+621	Insignia of the Clouds
+622	In exchange for the necessary items in the Pegase and Wings.
+623	Baby Panda Egg
+624	Cute New Year Panda Baby, holding red koi for you to celebrate!
+625	Tender Bunny's Egg
+626	Opened to get a small partner - Meng Bunny.
+627	Sweetheart at First Sight
+628	The two are married and the boys must have props.
+629	Love at First Sight
+630	The two are married and the girls must have props.
+631	Marriage Alliances
+632	The two became a must-have couple ring for the couple.
+633	Luxury Wedding Kit
+634	A wedding package for a dream wedding.
+635	Stack Invitations
+636	There are a lot of invitations that can be used to give gifts to relatives and friends.
+637	Bookmark
+638	The blessings of the message on the luxury inscription message board, the blessing is seen by everyone.
+639	Orpheus Package
+640	It contains 18 times worth of value-added items, and each character can only be opened once.
+641	LV40 Frenzy Pack
+642	Special rewards.\rOne time.
+643	LV59 Frenzy Pack
+644	Special rewards.\rOne time.
+645	LV79 Frenzy Pack
+646	Special rewards.\rOne time.
+647	Gift of Sagittarius III (Excellent)
+648	A value-for-money spree that is limited to one use per person.
+649	Gift of Sagittarius III (Supreme)
+650	A value-for-money spree that is limited to one use per person.
+651	Mysterious Person
+652	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+653	Lotus Flower
+654	With this and fashion tops, you can redeem a set of corresponding gender fashions.
+655	Bloody Shadow
+656	
+657	Scarlet Flames
+658	
+659	Presence Card
+660	补签所需物品，补签卡的消耗数量会根据补签次数增长，每天会重置补签卡的消耗数量。
+661	Sang d'Athena Divin
+662	在星铸神·黄金圣衣时可提升效果。
+663	Sang d'Athena Divin*20
+664	在星铸神·黄金圣衣时可提升效果。
+665	Light of Venus
+666	用于拥有属性的时装的属性重置。
+667	Light of Venus*20
+668	用于拥有属性的时装的属性重置。
+669	Light of Venus*50
+670	用于拥有属性的时装的属性重置。
+671	Blessing of Venus
+672	用于激活时装的拥有属性。
+673	Sealed Stones Bag
+674	每日限开启1次，内有封印的魂石10个。
+675	Sealed Stones Bag G.
+676	每日限开启1次，内有封印的魂石25个。
+677	Sealed Spiritual Stone
+678	开启后获得1～2阶魂石或魂之玉，每日限75次。
+679	Stone Esp. Holy Sealed
+680	开启后可获得1～3阶魂石，高几率获得2～3阶魂石，每日限开启75次。
+681	Stone Esp. Holy Sealed*15
+682	开启后可获得1～3阶魂石，高几率获得2～3阶魂石，每日限开启75次。
+683	Spiritual Jade
+684	可用于2阶魂石兑换或英魂之玉的兑换。
+685	Jade Spiritual Heroic
+686	可用于3阶魂石兑换。
+687	Sacrée Spiritual Jade
+688	可用于4阶魂石兑换。
+689	Spiritual Jade*20
+690	可用于2阶魂石兑换或英魂之玉的兑换。
+691	Jade Spiritual Heroic*20
+692	可用于3阶魂石兑换。
+693	Sacrée Spiritual Jade*20
+694	可用于4阶魂石兑换。
+695	Favor of the Goddess ☆ Refined Halloween Fashion
+696	万圣节特别版彩票！10月27日-10月31日限时上架！10连抽可获万圣时装秀一个，打开必获得时装一套。
+697	For life
+698	一生一世鲜花大礼包！11月10日-11月30日限时上架！给你最爱的人！
+699	I love you
+700	我爱你鲜花大礼包！11月10日-11月30日限时上架！给你最爱的人！
+701	Forever and forever
+702	天长地久鲜花大礼包！11月10日-11月30日限时上架！给你最爱的人！
+703	Meaning of the Roses
+704	11月10日-11月30日限时上架！击杀所召唤的BOSS可以获得大量鲜花！
+705	Goddess Favor ☆ Singles Day Gift
+706	双十一特别版彩票！11月10日-11月30日限时上架！10连抽可获随机金色星魂包一个，打开必获得属性金魂一枚。
+707	In true friendship, two hearts beat as one
+708	11月10日-11月30日限时上架！高端特别定制版！特别的爱给特别的你！购买后会有专人为您发放奖励！
+709	Big gift package of Mutual Affection
+710	11月10日-11月30日限时上架！特别定制版！秀恩爱大礼包！
+711	Large Gift Pack of the Devout Knight
+712	
+713	Large Gift Package of Mutual Devotion
+714	
+715	Renaming Card
+716	使用后可改变当前角色姓名。

@@ -795,7 +795,7 @@
 794	Senal of calamity
 795	Charms:
 796	Effect:
-797	P. Divino:
+797	Divine P.:
 798	Special
 799	Attributes
 800	x2.5
@@ -1766,9 +1766,9 @@
 1765	Astromancy
 1766	Astromancy
 1767	Close
-1768	NV100
-1769	LV MAX Alma:
-1770	EXP Alma:
+1768	LV100
+1769	MAX Soul LV:
+1770	EXP Soul:
 1771	Power of Cosmo:
 1772	Star force: Knight's territory
 1773	Level 99
@@ -1805,9 +1805,9 @@
 1804	Astromancy
 1805	Astromancy
 1806	Potential:
-1807	EXP Alma:
+1807	EXP Soul:
 1808	LV100
-1809	LV MAX Alma:
+1809	MAX Soul LV:
 1810	Stellar strength level: Level XXX
 1811	8th sense
 1812	Power +9999
@@ -1949,8 +1949,8 @@
 1948	LV1
 1949	LV1
 1950	LV1
-1951	Alma Store
-1952	Alma Store
+1951	Soul Store
+1952	Soul Store
 1953	Ah this star, this star is awesome. It not only allows you to make a wish come true, but it also enlightens you. Have you seen war flares in movies? In that thing, in the darkness of the night while you wander along the road, it did not cause to just cook it, I really run away from home to travel. What are you waiting for? Play quickly!
 1954	For a Knight, vision is very importPRV Practice your vision counting birds!
 1955	Training completed, rewards:
@@ -2337,7 +2337,7 @@
 2336	LV100:
 2337	Additional attributes:
 2338	Attribute
-2339	Power extra:
+2339	Extra Power:
 2340	Rooms
 2341	Quanos characters has the name of the Squire
 2342	Star Rating:
@@ -2765,15 +2765,15 @@
 2764	Permanent
 2765	Permanent
 2766	Permanent
-2767	Moving for a Tornado pose
-2768	Trocar for Lira pose
-2769	Change to the position of Wyrm
-2770	Change to the position of the Sea Dragon
-2771	Change to the position of the Phoenix
+2767	Change to the position of Tornado
+2768	Change to the position of Lyre
+2769	Change to the position of Wyvern
+2770	Change to the position of Sea Dragon
+2771	Change to the position of Phoenix
 2772	Change to the position of Andromeda
-2773	Change to the position of the Dragon
-2774	Change to the position of the Cygnus
-2775	Switch to the position of Pegasus
+2773	Change to the position of Dragon
+2774	Change to the position of Cygnus
+2775	Change to the position of Pegasus
 2776	Wardrobe
 2777	Change to Female Sex
 2778	Change to Male Sex
@@ -3386,8 +3386,8 @@
 3385	Use 360 ​​account
 3386	Use QQ Weibo account
 3387	Use Sina Weibo account
-3388	Reject the dirty game and pirate games, take good care of your personal data, be careful not to be deceived, appreciate the game with moderation, the vice does bad to health, live in a healthy way!
-3389	Reject dirty games and pirated games, take good care of your personal data, be careful not to be deceived, appreciate the game with moderation, vice does bad for your health, live healthy!
+3388	Enjoy the game and stay healthy!
+3389	Enjoy the game and stay healthy!
 3390	Exit the game
 3391	Play
 3392	LV99 Shuke Shuke Beta Beta
@@ -3664,8 +3664,8 @@
 3663	^ffcb4a requirement ^ffffff to release the data to decide the ownership of the item
 3664	^ffcb4a requirement ^ffffff to release the data to decide the ownership of the item
 3665	Charity of Athena
-3666	The use of Goddess' Gift ☆ accumulates the Blessing Value, \rdando the opportunity to receive a \rBendition that will be obtained directly.
-3667	By acquiring all the Blessings, you will gain \r ^ff0000 at least 50000pts. of Blessing Value. \r ^NAl acquire that Blessing Value, the same amount of Emerald will be received.
+3666	Goddess' Gift☆ accumulates Blessing Value.\rThere is also a chance to add\rBlessing Value directly.
+3667	By acquiring all the Blessings, you will gain\r ^ff0000 at least 50000 Blessing Value. \r^N
 3668	Use
 3669	10 consecutive times
 3670	History
@@ -4206,7 +4206,7 @@
 4205	For the player named with 8 characters:
 4206	Send
 4207	Cancel
-4208	Alma Smelting Service
+4208	Soul Smelting Service
 4209	Add Primary Pet
 4210	Add Secondary Pet
 4211	Main Pet
@@ -4929,7 +4929,7 @@
 4928	Checked
 4929	Offline
 4930	Instance area of ​​the current goal:
-4931	Protect Athena! 1111111111111111111111111111111111111111111111111111111111111111111wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww1111111
+4931	Protect Athena!
 4932	(Name of the instance zone)
 4933	Summary of the instance zone:
 4934	Level:
@@ -5008,11 +5008,11 @@
 5007	Underwear
 5008	shirt
 5009	Handkerchief
-5010	See Mantle, This option has short cooldown.
-5011	Mos. Mantle
-5012	Hide Wings, This option has short cooldown.
-5013	Ocul. Wings
-5014	Show clothes, This option has short cooldown.
+5010	Show Cloak. This option has short cooldown.
+5011	Cloak
+5012	Hide Wings. This option has short cooldown.
+5013	Hide Wings
+5014	Show fashion. This option has short cooldown.
 5015	Fashion
 5016	Show Helm. This option has short cooldown.
 5017	Helm
@@ -5090,11 +5090,11 @@
 5089	Level 10
 5090	Level 10
 5091	Level 10
-5092	Character Information
+5092	Chara.
 5093	Album
-5094	Achievements
-5095	Reputation
-5096	Title
+5094	Achie.
+5095	Reput.
+5096	Titles
 5097	Char
 5098	Skill Name
 5099	Skill Name
@@ -5340,10 +5340,10 @@
 5339	x 10
 5340	x 10
 5341	x 10
-5342	Attributes when dressing
-5343	Attributes for possession
+5342	Equip Attributes
+5343	Permanent Attributes
 5344	Improved Armor!
-5345	Change
+5345	Exchange
 5346	Requires XX level of Golden Spirit constellation of XX
 5347	Requiee level XX of refining the constellation of XX
 5348	Requirements
@@ -5378,8 +5378,8 @@
 5377	LV100
 5378	Upgrade
 5379	Reached the maximum limit
-5380	Attributes when dressing
-5381	Attributes for possession
+5380	Equip Attributes
+5381	Permanent Attributes
 5382	Change objective
 5383	Change objective
 5384	Change objective
@@ -5860,10 +5860,10 @@
 5859	Cash:
 5860	Next level:
 5861	Character level:
-5862	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases damage resistance by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5863	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases resistance to damage by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5864	Rhythm \rProtection of 1 point per second in battle status and 2 points per second outside battle status \rInstead of 60 points, increases resistance to damage by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5865	Rhythm \rIt is 1 point per second in the battle status and 2 points per second out of the battle status \rInstead of 60 points, the resistance to damage increases by 5 %\rSuperior to 60 points, increases the power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
+5862	Rhythm\rReduction: 1 point per second in combat, 2 points per second while out of combat\rWhen lower than 60, damage reduction is increased by 5%\rWhen higher than 60, increase damage multiplier by 10%\ rWhen reaching 100 points, receives [Final Note] effect that may reset the cooling time of some skills\rIncreases damage multiplier by 10% and keep the Rhythm at 100 points for a period of time, after which the Rhythm value returns to 0
+5863	Rhythm\rReduction: 1 point per second in combat, 2 points per second while out of combat\rWhen lower than 60, damage reduction is increased by 5%\rWhen higher than 60, increase damage multiplier by 10%\ rWhen reaching 100 points, receives [Final Note] effect that may reset the cooling time of some skills\rIncreases damage multiplier by 10% and keep the Rhythm at 100 points for a period of time, after which the Rhythm value returns to 0
+5864	Rhythm\rReduction: 1 point per second in combat, 2 points per second while out of combat\rWhen lower than 60, damage reduction is increased by 5%\rWhen higher than 60, increase damage multiplier by 10%\ rWhen reaching 100 points, receives [Final Note] effect that may reset the cooling time of some skills\rIncreases damage multiplier by 10% and keep the Rhythm at 100 points for a period of time, after which the Rhythm value returns to 0
+5865	Rhythm\rReduction: 1 point per second in combat, 2 points per second while out of combat\rWhen lower than 60, damage reduction is increased by 5%\rWhen higher than 60, increase damage multiplier by 10%\ rWhen reaching 100 points, receives [Final Note] effect that may reset the cooling time of some skills\rIncreases damage multiplier by 10% and keep the Rhythm at 100 points for a period of time, after which the Rhythm value returns to 0
 5866	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
 5867	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
 5868	Personality \rThe pointer to the left indicates Holy Personality and to the right indicates Demon Personality \rThe Holy Personality improves your ability to recover HP and support group companions \rThe Demon Personality can increase your power of cause damage \rFacing the power of the good, the pointer moves to the left side and vice-versa \rThe farther from the center is the pointer, the greater the power of some skills. The use of related skills makes the pointer go back to the middle.
@@ -6245,7 +6245,7 @@
 6244	New
 6245	Horoscope:
 6246	Blessing increases the player's attack power by 7%
-6247	Alma
+6247	Soul
 6248	Warehouse
 6249	Sort
 6250	Back
@@ -6255,7 +6255,7 @@
 6254	Align to the left
 6255	Upgrade
 6256	LV10
-6257	LV MAX Alma:
+6257	MAX Soul LV:
 6258	Current
 6259	After Upgrade
 6260	EXP Required:
@@ -6264,7 +6264,7 @@
 6263	The Soul reached the maximum level, when the character reaches level XX, he can increase the level limit of the Soul.
 6264	Soul in the maximum LV
 6265	Spirit Stone Upgrade
-6266	Stone of Alma
+6266	Stone of Soul
 6267	Items to increase the level
 6268	6 seconds
 6269	All
@@ -6496,27 +6496,27 @@
 6495	PRV
 6496	NXT
 6497	NXT
-6498	Artículos
+6498	Articles
 6499	Level
-6500	Nombre
+6500	Name
 6501	Power
-6502	Precio actual
-6503	Remate
-6504	Tiempo restante
-6505	Subasta Anónima
-6506	Restaurar
-6507	Subasta
-6508	Inicial
-6509	Único
-6510	Tasas
-6511	Cancel venta
-6512	Buscar
-6513	No encontrado.
-6514	Tiempo
-6515	Evaluación:
-6516	Daño causado:
-6517	Cura:
-6518	Daño sufrido:
+6502	Actual Price
+6503	Finish
+6504	Time left
+6505	Anonymous auction
+6506	Reset
+6507	Auction
+6508	Initial
+6509	Single
+6510	Value
+6511	Cancel sale
+6512	Search
+6513	Not found
+6514	Time
+6515	Assessment:
+6516	Damage caused:
+6517	Heal:
+6518	Damage suffered:
 6519	Name of the player with 8 characters.
 6520	Name of the player with 8 characters.
 6521	Name of the player with 8 characters.
@@ -7105,17 +7105,17 @@
 7104	Receive
 7105	Receive
 7106	Remaining Times
-7107	Reception number remaining 999
+7107	Can be claimed 999 times
 7108	Remaining Times
-7109	Reception number remaining 999
+7109	Can be claimed 999 times
 7110	Remaining Times
-7111	Reception number remaining 999
+7111	Can be claimed 999 times
 7112	Remaining Times
-7113	Gifts devo. points
+7113	Great Gift
 7114	Remaining Times
-7115	Bonus Gift
+7115	Medium Gift
 7116	Remaining Times
-7117	Reward gift
+7117	Small Gift
 7118	5000 Star
 7119	1980 Star
 7120	880 Star
@@ -7711,7 +7711,7 @@
 7710	Origin
 7711	Attributes
 7712	Information
-7713	Display
+7713	Use
 7714	Effect
 7715	Beginner titles collection
 7716	Permanent power: HP + 999 Attack + 999
@@ -8461,8 +8461,8 @@
 8460	1232/2000
 8461	extraction
 8462	10 continuous pumping
-8463	even draw rewards
-8464	There is also a chance to get the following items:
+8463	Bonus
+8464	Extra items:
 8465	500
 8466	Decomposed items
 8467	Decompose

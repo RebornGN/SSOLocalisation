@@ -290,7 +290,7 @@
 289	技能点不够
 290	LINK - 成功
 291	LINK - 用户不存在
-292	<p class='left'><span class='yellow'>您输入的密码和帐号名不匹配</span>，原因可能是：<br/></p><p class='left'>1. <span class='yellow'>密码不符合规则</span>，密码由6-16个数字和英文字母组成，区分大小写；<br/>2. <span class='yellow'>帐号名不符合规则</span>，邮箱帐号请输入完整的邮箱地址；<br/>3. <span class='yellow'>帐号名和密码不能为空</span>；<br/></p><p class='left'>提交3次以上均不正确，可能是密码丢失或者遗忘，请访问完美世界客服中心<a href='event:url=http://cs.wanmei.com/self/passemail.shtml'>修改密码</a>。<br/>提示：如果密码泄漏或帐号被盗也会出现密码验证错误，点击这里可以<a href='event:url=http://cs.wanmei.com/selfguided/filost.htm'>申请找回</a>。</p>
+292	LINK - 用户名和密码不匹配
 293	LINK - 超时
 294	LINK - 参数错误
 295	LINK - 好友信息保存到数据库时无法同步

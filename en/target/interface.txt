@@ -119,15 +119,15 @@
 118	Earth Damage:
 119	Water Damage:
 120	Fire Damage:
-121	Air Damage:
+121	Wind Damage:
 122	Thunder Damage:
 123	Light Damage:
-124	Earth RES ign:
-125	Water RES ign:
-126	Fire RES ign:
-127	Air RES ign:
-128	Thunder RES ign:
-129	Light RES ign:
+124	Earth Mastery:
+125	Water Mastery:
+126	Fire Mastery:
+127	Wind Mastery:
+128	Thunder Mastery:
+129	Light Mastery:
 130	Earth RES:
 131	Water RES:
 132	Fire RES:
@@ -135,25 +135,25 @@
 134	Thunder RES:
 135	Light RES:
 136	Lucky Hit:
-137	Block:
+137	Parry:
 138	Penetration:
 139	Damage Bonus:
-140	Damage Reduct.:
-141	PVP damage bonus:
-142	PVP damage red.:
+140	Damage Red.:
+141	PVP Damage:
+142	PVP Damage red.:
 143	Physi. damage red:
-144	Spirt. damage red:
-145	Shielding
+144	Magic damage red:
+145	Block
 146	Control RES:
 147	Silence RES:
 148	Bleed RES:
 149	Daze RES:
 150	Weaken RES:
-151	Control RES ign:
-152	Silence RES ign:
-153	Bleed RES ign:
-154	Daze RES ign:
-155	Weaken RES ign:
+151	Control Mastery:
+152	Silence Mastery:
+153	Bleed Mastery:
+154	Daze Mastery:
+155	Weaken Mastery:
 156	Meditation LVL
 157	EXP
 158	Astro EXP
@@ -166,21 +166,21 @@
 165	The greater the evasion, the greater the chances of dodging attacks.
 166	Probability of a critical attack occurring, the initial critical attack is 1.5 times the damage
 167	Increases Earth damage. Can be reduced by resistance to this element.
-168	Increases Water damage. Can be reduced by resistance to this element.Increases Earth damage. Can be reduced by resistance to this element.
+168	Increases Water damage. Can be reduced by resistance to this element.
 169	Increases Fire damage. Can be reduced by resistance to this element.
-170	Increases Air damage. Can be reduced by resistance to this element.
+170	Increases Wind Damage. Can be reduced by resistance to this element.
 171	Increases Thunder damage. Can be reduced by resistance to this element.
 172	Increases Light damage. Can be reduced by resistance to this element.
 173	Earth Resistance reduction. Ignores part of target resistance.
 174	Water Resistance reduction. Ignores part of target resistance.
 175	Fire Resistance reduction. Ignores part of target resistance.
-176	Air Resistance reduction. Ignores part of target resistance.
+176	Wind Resistance reduction. Ignores part of target resistance.
 177	Thunder Resistance reduction. Ignores part of target resistance.
 178	Light Resistance reduction. Ignores part of target resistance.
 179	Reduce the damage caused by the Earth Element
 180	Reduce the damage caused by the Fire Element
 181	Reduce the damage caused by the Water Element
-182	Reduce the damage caused by the Air Element
+182	Reduce the damage caused by the Wind Element
 183	Reduce the damage caused by the Thunder Element
 184	Reduce the damage caused by the Light Element
 185	The probability of Lucky Strike. Lucky Strike can cause maximum damage.
@@ -206,7 +206,7 @@
 205	Ignore portion of target Bleed RES
 206	Ignore portion of target Daze RES
 207	Ignore portion of target Weaken RES
-208	Do not exhibit Wings
+208	No Wings
 209	Wings [Costume]
 210	Wings [Power]
 211	Wings [Armor]
@@ -500,14 +500,14 @@
 499	Social
 500	System
 501	Player Ranking:
-502	^80FF00new
-503	^80FF00 ↑
-504	^FFFF00 ↓
+502	^80FF00New
+503	^80FF00↑
+504	^FFFF00↓
 505	Individual
-506	Group
+506	Party
 507	World
 508	Guild
-509	Frien
+509	Friends
 510	Glory in battle: %d
 511	%s power
 512	Power:
@@ -558,41 +558,41 @@
 557	Zodiac:
 558	Divinity:
 559	Mosaics:
-560	Increasing the level of the character can raise the Power of Struggle
+560	Increasing level of the character can raise the Fight Power
 561	Learning and honing fighting skills can improve the Consciousness amount
 562	It is not open yet
-563	Practicing Guild skills can raise the Power of Struggle
-564	Increasing the limit of the Cosmo can raise the Power of Struggle
-565	Due to the life points of the Solar Star and the Solar Star Soul, improving the quality and level of the Solar Star Soul can raise the Power of Struggle
-566	Due to the life points of the Lunar Star and the Lunar Star Soul, improving the quality and level of the Lunar Star Soul can raise the Power of Struggle
-567	Due to the points of life of the SP Star and the Star Soul of the Main Sequence, improving the quality and level of the SP Star Soul can raise the Power of Struggle
-568	Refining Bronze Armor, dressed and in pose can raise the Power of Struggle
-569	Refining Armor, dressed and in pose can raise the Power of Struggle
-570	Refine Silver Armor, dressed and in pose can raise the Power of Struggle
-571	Refining Golden Armor, dressed and in pose can raise the Power of Struggle
-572	Refining Divine Armor, dressed and in pose can raise the Power of Struggle
-573	Refining Sapuris, dressed and in pose can raise the Power of Struggle
-574	Refine Scale, dressed and in pose can raise the Power of Struggle
-575	Improving the level of a dressed outfit can raise the Power of Struggle
-576	Using the clothing equipment to continue the improvement can raise the Power of Struggle
-577	Using the clothed equipment to proceed in Rune's spiking can raise the Power of Struggle
-578	By using the full Spiritual Engraving Kit, you can increase the Power of Struggle
-579	Divine Test Equipment Can Increase the Power of Struggle
-580	Increasing the level of dressed treasures (Spiritual Stone, Ring, Emblems, Beads, Girdle) can raise the Power of Struggle
-581	Improving clothing equipment can raise the Power of Struggle
-582	Clave rune in treasure dress can raise the Power of Struggle
-583	Improving the qualification of the main Fighting Squire and the degree of intimacy can increase the Power of Struggle
+563	Practicing Guild skills can raise the Fight Power
+564	Increasing the limit of the Cosmo can raise the Fight Power
+565	Due to the life points of the Solar Star and the Solar Star Soul, improving the quality and level of the Solar Star Soul can raise the Fight Power
+566	Due to the life points of the Lunar Star and the Lunar Star Soul, improving the quality and level of the Lunar Star Soul can raise the Fight Power
+567	Due to the points of life of the SP Star and the Star Soul of the Main Sequence, improving the quality and level of the SP Star Soul can raise the Fight Power
+568	Refining Bronze Armor, dressed and in pose can raise the Fight Power
+569	Refining Armor, dressed and in pose can raise the Fight Power
+570	Refine Silver Armor, dressed and in pose can raise the Fight Power
+571	Refining Golden Armor, dressed and in pose can raise the Fight Power
+572	Refining Divine Armor, dressed and in pose can raise the Fight Power
+573	Refining Sapuris, dressed and in pose can raise the Fight Power
+574	Refine Scale, dressed and in pose can raise the Fight Power
+575	Improving the level of a dressed outfit can raise the Fight Power
+576	Using the clothing equipment to continue the improvement can raise the Fight Power
+577	Using the clothed equipment to proceed in Rune's spiking can raise the Fight Power
+578	By using the full Spiritual Engraving Kit, you can increase the Fight Power
+579	Divine Test Equipment Can Increase the Fight Power
+580	Increasing the level of dressed treasures (Spiritual Stone, Ring, Emblems, Beads, Girdle) can raise the Fight Power
+581	Improving clothing equipment can raise the Fight Power
+582	Clave rune in treasure dress can raise the Fight Power
+583	Improving the qualification of the main Fighting Squire and the degree of intimacy can increase the Fight Power
 584	Improving the qualification of the auxiliary wrestling squire on the squire's team can raise the power of wrestling
-585	Equipping the Squire with fighting equipment can raise the Power of Struggle
-586	Completing the collection related to illustrations can raise the Power of Struggle
-587	Collecting title with attribute bonus can raise the Power of Struggle.
-588	Reaching Achievements of element Bonus Can Raise the Power of Struggle
+585	Equipping the Squire with fighting equipment can raise the Fight Power
+586	Completing the collection related to illustrations can raise the Fight Power
+587	Collecting title with attribute bonus can raise the Fight Power.
+588	Reaching Achievements of element Bonus Can Raise the Fight Power
 589	Advancing to Stargazing and uniting the Constellation can raise the Fighting Power
-590	Collecting divine artifacts and improving the level of limit of these artifacts through perfusion can raise the Power of Struggle
-591	Improving the level of the Spiritual Armor and the Spiritual Jewel can raise the Power of Struggle
-592	Awakening and further strengthening the Heavenly Spirits can raise the Power of Struggle
-593	Improving the level of the Golden Will and strengthening the Celestial Spirits can raise the Power of Struggle
-594	Activating divinity can increase the Power of Struggle
+590	Collecting divine artifacts and improving the level of limit of these artifacts through perfusion can raise the Fight Power
+591	Improving the level of the Spiritual Armor and the Spiritual Jewel can raise the Fight Power
+592	Awakening and further strengthening the Heavenly Spirits can raise the Fight Power
+593	Improving the level of the Golden Will and strengthening the Celestial Spirits can raise the Fight Power
+594	Activating divinity can increase the Fight Power
 595	O Espelho Quebrado can increase its POWER
 596	Currently there is no size amount of Astro EXP
 597	The maximum that can be changed at one time is %I64d of the Astro EXP amount
@@ -633,13 +633,13 @@
 632	Unable to send an empty message.
 633	General
 634	Group
-635	MP
-636	Coleg
+635	Private
+636	Circle
 637	That coordinate is not in this current scenario.
 638	Event
 639	Group
 640	Battle
-641	Transmission
+641	Transm.
 642	Ms
 643	Currently, you do not organize teams
 644	Currently, you are not part of any troop
@@ -673,9 +673,9 @@
 672	Do you want to open a conversation window outside the game window?
 673	You have sent too many voice messages, please wait %d seconds
 674	%s
-675	Facci.
+675	Faction
 676	Guard
-677	Alian.
+677	Alliance
 678	Invalid command: Command with too many characters
 679	Too many events chosen
 680	Shipping list:
@@ -941,32 +941,32 @@
 940	Only after ( %s) is that the created character can use that card.
 941	${npc(39771,'Find the way to Hyoga')}
 942	${npc(39802,'Find the way to Shiryu')}
-943	Fold and lower ^Ffffff
+943	Gold and lower ^Ffffff
 944	Orange and lower ^Ffffff
 945	Purple and lower ^Ffffff
 946	Blue and lower ^Ffffff
 947	Green and lower ^Ffffff
-948	Do you want to dismantle all %s? \rWhen you dismount, you will get %d of Alma EXP
-949	When dismantling, you will obtain %d of Alma Estelar's EXP, ¿Confirm dismount?
+948	Do you want to dismantle all %s? \rWhen you dismount, you will get %d of Soul EXP
+949	When dismantling, you will obtain %d of Soul Estelar's EXP, ¿Confirm dismount?
 950	^ff0000 There is no %s in the inventory
 951	^ff0000 There is no Star Soul in the inventory to be improved.
 952	Virtue of the Soul
-953	Invent. of the Cosmo
+953	Star Soul Inv.
 954	^ff0000The level of the Star Soul is now complete
 955	^ff0000The level of the Star Soul has already reached the maximum limit. Characters that reach level %d can improve the Star Soul at the maximum level
 956	The Star Soul level has already reached the maximum limit. Characters that reach the %d level can improve the Star Soul to the maximum level.
-957	Alma EXP needed is insufficient.
+957	Soul EXP needed is insufficient.
 958	There is no Soul
-959	%s rose to the %d level
-960	When you removed %s LV %d you obtained %d of Alma EXP
-961	Obtained Alma's EXP %d when dismounting
+959	%s upgraded to LV%d 
+960	When you removed %s LV %d you obtained %d of Soul EXP
+961	Obtained Soul's EXP %d when dismounting
 962	Improvement requirements
 963	^ff0000
-964	Weapon. of %s LV %d \r
-965	Zodiac of %s LV %d \r
+964	Armor: %s LV%d \r
+965	Zodiac: %s LV%d \r
 966	Gold Level
 967	Divine Level
-968	By activating the golden explosion, you can get 1 point of divine energy. Out of the fight status, every 1 second will be recovered 1 point of divine energy. The maximum energy limit is 2, after strengthening, it can reach 3
+968	When Golden Explosion is triggered, 1 point of Holy Power can be obtained\rIn the non-combat state, 1 point of Holy Power can be recovered every 30 seconds\rInitial Holy Power limit is 2, and it can reach 3 after upgrade
 969	Remove items purchased in the Item Mall Web
 970	Remove items purchased in the Item Mall Arc
 971	Lost

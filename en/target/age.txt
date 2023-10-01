@@ -157,34 +157,34 @@
 156	Crisis! Shadow, invocation of the Shrine
 157	drastic changes, darkness falls, the nine planets uniting in a straight line. Underworld shadows strike, eight judge captured the sanctuary hell conspiracy in an attempt to kill the goddess Athena. Shion: Underworld minions are about to invade the shrine, we must prepare properly before the underworld judge invasion. Tip: Just beat any eight judge, to end in Shion ^ffff00 [crisis!] Invaded the shadow shrine ^N.
 158	Progress of Donation
-159	${pos(-217,338.43.2,"Shion")}
+159	${pos(-217,338.43,2,"Shion")}
 160	Open all day
 161	Inferno eight judge
 162	Day 20: 20-21: 00
 163	Sniper! Underworld Big Three
 164	In order to go to Hades, where Elysium, the sanctuary will send sacred warriors cast into the elite under the world, open the door to go to the Elysee. Shion: Now Mingdou Shi stronger trio waiting for the wall sigh, alone, can not stop our attack rhythm! Tip: combat power to achieve Wan ^ff000035 sacred warriors ^N after Underworld Three Big open event, which can be accessed on the 20:20 to take Shion ^ffff00 [sniper! Underworld Big Three] ^N sent to underground hell .
 165	Underworld Big three!
-166	Elysium! Death and Hypnos
-167	The death of Dana Meadows and Hades is the dreaming god Hypnos trustworthy man of repair, Elysium is the last line of defense. Shion: This will be the biggest obstacle we face so far, but it does not matter who it is, as long as it threatens peace on earth, even though God must kill him! Tip: the combat power to achieve Wan ^ff000035Warrior soldiers ^N died in battle to open the god of the events of the dream can acess the day 20:20 Shion ^ffff00 [Elysium! Death and the god of sleep!] ^N sent to the Elysée.
-168	Death · Hypnos
+166	Elysium! Thanatos and Hypnos
+167	The death of Dana Meadows and Hades is the dreaming god Hypnos trustworthy man of repair, Elysium is the last line of defense. Shion: This will be the biggest obstacle we face so far, but it does not matter who it is, as long as it threatens peace on earth, even though God must kill him! Tip: the combat power to achieve Wan ^ff000035Warrior soldiers ^N died in battle to open the god of the events of the dream can acess the day 20:20 Shion ^ffff00 [Elysium! Thanatos and Hypnos!] ^N sent to the Elysium.
+168	Thanatos·Hypnos
 169	Life and death! Elysium battle
 170	Decisive moment to come! This is one of human struggle with God, but also hope and decisive battle, Holy place for election. Shion: He even spent many sacrifices and hard work, we have to face the most brutal difficulties on earth, because - it is about holy war! Tip: combat power to achieve Wan ^ff000035Warriors ^N after a battle open event Hades, which can be accessed on the day 20:20 to take Shion ^ffff00 [life and death! Elysium end] ^N and then transferred to the Elysium.
 171	Hell
-172	Victoria! Open universe competition
-173	Finally, Hades and his followers were defeated by the Knights of Athena. In an Era where the strong dominate, the strongest are those who dare to oppose. In the words of the Goddess, "warriors who always improve their abilities are those who will inherit a power beyond imagination." Show your strength for Athena!
+172	Victory! Open universe competition
+173	Finally, Hades and his followers were defeated by the Knights of Athena. In an Era where the strong dominate, the strongest are those who dare to oppose. In the words of the Goddess, 'warriors who always improve their abilities are those who will inherit a power beyond imagination.' Show your strength for Athena!
 174	Phases of competition
 175	Competition of the universe
 176	Scarlet Shadow of Another World
 177	At the beginning of all creation, the Gods of Disorder and Void, Chaos and Lamech, faced each other in a great battle, having as their reward this existential plan. At last, Lamech and his servants lost, though they vowed to return. Chaos prevented Lamech from returning for this plan, since he was not able to permanently eliminate it. For that reason, he left a message for future generations, orienting on how to proceed if Lamech returned. When Hades was defeated, the Champs Elysees - along with the rest of the Underworld - began to crumble, but a sinister force from another plan prevented that from happening. The Goddess of the Future noted that this was a sign of the crisis mentioned by Chaos at the beginning of time. Only the Knights can unveil the mystery of this message, then the Goddess prepares to send brave warriors to the future in search of the relic that keeps the message of the deity, the Scroll of Chaos!
 178	How to participate: continually challenge the dungeon: "Scarlet Shadow of the Other World"
-179	${pos(230,318,254.20, "Goddess of the Future")}
+179	${pos(230,318,254,20,"Goddess of the Future")}
 180	The servants of the God of Nothing, Lamech, are called Warriors of the Shadows and still can not enter this world. The three Demonic Gods of Lamech - God of Force, Naveen, God of Ethics, Mokurius and Element God, Phaedrus, gave their powers to the three dead Specters - Celestial Star of the Prison - Celestial Star Demon and Celestial Star of the Agility - deceiving them, telling them that they could help them revive Hades and rebuild the Champs Elysees. Thus, the three Wraiths dressed in Scarlet Shadow clothes and revived with a much greater power than they had. After numerous arduous battles, the brave young men defeated the enemies and obtained the Scroll of Chaos and witnessed the rebirth of Lira and the 12 Golden Knights. Now, the Knights of this earth are ready to fight against the Warriors of the Shadows, ready to sacrifice their lives for this wonderful world. Evil will be defeated!
 181	"In the morning I was patrolling the Lost Forest, as usual." At first, it seemed like everything was normal, I even started to hum a song from my hometown, everything happened so suddenly! A red mist covered the forest in A matter of seconds! When I was thinking about what that fog would be, a Giant Wolf appeared, the size of a lion! And the most frightening thing was that half of his body was skinless, with the living, red flesh exposed. He exhaled an air of blood from the body, it seemed the Cosmo was rising, another scary thing was that he was devouring the body of the other Giant Wolf, I suspect that this dead wolf was his companion, or even his father. and the Giant Wolf turned his head slowly, I will never forget his look, he seemed soulless, leaving only the body ... " This passage was taken from the Work Diary of the signalman, Lahm. A large number of animals around the Sanctuary suffered some mutation, even some inhabitants were infected by the bloodthirsty atmosphere and became moribund. All the signs pointed to the God of Nothing, Lamech. Maybe the "Shades of another world" event is the beginning of a nightmare. The Sanctuary awoke wrapped in a red mist and nobody knows what else could happen next. But the good news is that the person responsible for the signals, Lahm, used the Mythological Crystal and managed to prevent the spread of the bloodthirsty virus. Even if the virus is not completely cured, collecting a large amount of Mythological Crystal, knocked down during the Holy War, seems to be the best option at this time.
-182	${pos(213,318,191.20, "Herminia")}
+182	${pos(213,318,191,20,"Herminia")}
 183	The red fog event is just the beginning, the guardian of the Shrine received the news that, at 8:00 pm on April 15, 2016, the Shadow Warriors will invade the Sanctuary, it is very important to protect the Sanctuary!
 184	16-58 role gains experience gained
 185	16-78 role gains experience gained
 186	16-88 role gains experience gained
 187	Need %d Saints to reach the Lv9
 188	16-Live repair Lv8 role gained experience gained
-189	${pos(-217,338,43,2,"\Shion"\)}
+189	${pos(-217,338,43,2,"Shion")}

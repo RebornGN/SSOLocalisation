@@ -336,3 +336,5 @@
 335	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
 336	Guardian Constellation 7 Descrição
 337	Guardian Constellation 8 Descrição
+338	Escolha um sinal primeiro
+339	OK

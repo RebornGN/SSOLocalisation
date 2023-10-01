@@ -70,7 +70,7 @@
 69	Specification:
 70	Reput. max .:
 71	Guide:
-72	After gaining the reputation of the battlefield you can go to ${pos (351, 333, 337, 20, 'Sherlock')} change prizes.
+72	After gaining the reputation of the battlefield you can go to ${pos(351,333,337,20,'Sherlock')} change prizes.
 73	Battle Reputation
 74	${name} earned: ${point}
 75	${name} consumed: ${point}
@@ -91,7 +91,7 @@
 90	Aldebaran
 91	Basilisk
 92	Minotaur
-93	★ Sacred
+93	★Sacred
 94	Type 0
 95	Type of Energy
 96	Type of HP
@@ -120,24 +120,24 @@
 119	Block / Unblock chat
 120	Block / Unblock login
 121	Teleport
-122	Regeneration
-123	Toughness
-124	Tough
-125	Holy Blessing
+122	Restore
+123	D. Fortitude
+124	Tenacity
+125	D. Bless
 126	Vibrant
-127	Divine Power
+127	D. Might
 128	Energy
-129	Holy gift
-130	Courage universe
-131	Holy Wings
+129	D. Gift
+130	Brave
+131	D. Wings
 132	Eternal
-133	Divine Power
+133	D. Energy
 134	Impact
-135	Divine Power
-136	Vast universe
-137	Holy Strike
+135	D. Power
+136	Vast
+137	D. Strike
 138	Black Hole
-139	Holy Spirit
+139	D. Spirit
 140	Bronze
 141	Silver
 142	Gold
@@ -237,50 +237,50 @@
 236	How to obtain:
 237	SancTuary
 238	Main quests
-239	When the reputation reaches a certain level, you can buy items with ${pos (-234,351,311.2, 'Vicente')}
+239	When the reputation reaches a certain level, you can buy items at ${pos(-234,351,311,2,'Vicente')}
 240	A construction of the Grand Foundation, one of the largest companies in the world. It was created for the completion of the Galactic Tournament.
 241	Coliseum Grand
-242	When the reputation reaches a certain level, you can buy items with ${pos (443,317,209,20, 'Imai Sokyu')}
+242	When the reputation reaches a certain level, you can buy items at ${pos(443,317,209,20,'Imai Sokyu')}
 243	The place where Shiryu, Shunrei and the Elder Master live together. Place of the Five Ancient Peaks, still retains the characteristics of the houses of Ancient China.
 244	Rozan
-245	When the reputation reaches a certain level, you can buy items with ${pos (-228,319, -116.3, 'Richard')}
+245	When the reputation reaches a certain level, you can buy items at ${pos(-228,319,-116,3,'Richard')}
 246	The place where Aioros was killed by Shura while saving the baby Athena. It is also the only road that leads to the Mansion of the Solo family.
 247	Forgotten Road
-248	When the reputation reaches a certain level, you can buy items with ${pos (0.308, -165.5, 'Glicerio')}
+248	When the reputation reaches a certain level, you can buy items at ${pos(0,308,-165,5,'Glicerio')}
 249	Like its name, this island is a cruel place. Known as "Hell on Earth", it is the base of the Black Knights and where Ikki received his training to become the Phoenix Knight.
 250	Island of the Queen Death
-251	When the reputation reaches a certain level, you can buy items with ${pos (-133,365, -143,6, 'Zigurat')}
+251	When the reputation reaches a certain level, you can buy items at ${pos(-133,365,-143,6,'Zigurat')}
 252	A vast continent covered with layers of ice millennia ago. The Cygnus Armor is buried in the depths of its Eternal Ice Wall. This is where Camus trained Hyoga and Isaak.
 253	Eastern Siberia
-254	When the reputation reaches a certain level, you can buy items with ${pos (-235,297,336.7, 'Alisha')}
+254	When the reputation reaches a certain level, you can buy items at ${pos(-235,297,336,7,'Alisha')}
 255	The underwater fortress of the King of the Seas, Poseidon, supported by the Seven Pillars of the Ocean. It was sunk in the first Holy War by the Knights of Athena.
 256	Atlantis
-257	When the reputation reaches a certain level, you can buy items with ${pos (-316,357, -100,8, 'Gibel')}
+257	When the reputation reaches a certain level, you can buy items at ${pos(-316,357,-100,8,'Gibel')}
 258	The place where Shun trained and, through the Ceremony of Sacrifice, obtained the Andromeda Armor. There vegetation is scarce, the environment is poor and the temperature variation between day and night is very high.
 259	Andromeda Island
-260	When the reputation reaches a certain level, you can buy items with ${pos (-319,316, -144.9, 'Avdol')}
+260	When the reputation reaches a certain level, you can buy items at ${pos(-319,316,-144,9,'Avdol')}
 261	Pandora's native land, originally calm and peaceful. When the soul of Hades was reborn, all life forms around were extinguished. He is currently involved in a Hades enchantment.
 262	Fortín of Heinstein
-263	When the reputation reaches a certain level, you can buy items with ${pos (144,299,329.10, 'Kleindienst')}
+263	When the reputation reaches a certain level, you can buy items at ${pos(144,299,329,10,'Kleindienst')}
 264	Amazona of Aquila and Maestra of Seiya of Pegasus. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and serene personality.
 265	Single Room:
 266	Flash of the Eagle
-267	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
+267	When the reputation reaches a certain level, you can buy items at ${pos(463,317,182,20,'Delilah')}
 268	Amazona of Ophiuco and Cassios teacher. Hide a beautiful and angelic face behind his mask, despite his aggressive and imposing attitude.
 269	​​Thunder Claws
-270	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
+270	When the reputation reaches a certain level, you can buy items at ${pos(-235,350,349,2,'Delilah')}
 271	The Knight of Aries has a very strong telekinesis, and he is also one of the only people capable of repairing Armor. He has abundant justice and wisdom.
 272	Star Extinction
-273	When the reputation reaches a certain level, you can buy items with ${pos (464,318,162.20, 'Horácio')}
+273	When the reputation reaches a certain level, you can buy items at ${pos(464,318,162,20,'Horácio')}
 274	Knight who protects the House of Taurus, known as "Golden Taurus". Despite his giant physical bearing and his very strong defense, his agility is not affected.
 275	Great Horn
-276	When the reputation reaches a certain level, you can buy items with ${pos (464,318,158.20, 'Golias')}
+276	When the reputation reaches a certain level, you can buy items at ${pos(464,318,158,20,'Golias')}
 277	Knight who protects the House of Gemini. He has a double personality, varying between good and evil - which led him to assassinate the Grand Master and act in his place.
 278	Imperial Satan
-279	When the reputation reaches a certain level, you can buy items with ${pos (464,318,154.20, 'Griveous')}
+279	When the reputation reaches a certain level, you can buy items at ${pos(464,318,154,20,'Griveous')}
 280	Knight who protects the House of Cancer. He is extremely sadistic and violent, believes that sacrifices are inevitable for a greater purpose.
 281	Hell Waves
-282	When the reputation reaches a certain level, you can buy items with ${pos (464,318,150.20, 'Agaris')}
+282	When the reputation reaches a certain level, you can buy items at ${pos(464,318,150,20,'Agaris')}
 283	Knight who protects Leo's House, also called "Leo Dorado". He is known for his firmness and bravery, and is extremely fair and courageous.
 284	Lightning Plasma
 285	Knight who protects the House of Virgo. He is the reincarnation of Buddha and is known as "The man closest to God."
@@ -301,41 +301,41 @@
 300	Use:
 301	NPC:
 302	Buy Beads
-303	When the reputation reaches a certain level, you can buy rosaries with ${pos (403,317,179.20, 'Severe')}
+303	When the reputation reaches a certain level, you can buy rosaries at ${pos(403,317,179,20,'Severe')}
 304	After the Light Ray Index of the Sign reaches a certain degree of Luminosity, it can invoke the Altair Squire or Vega Squire to aid in the battles.
 305	Daily Quest:
-306	You can buy with ${pos (310,317,179.20, 'Intendente of Squire')}
+306	You can buy with ${pos(310,317,179,20,'Intendente of Squire')}
 307	Favor Points can be obtained in Disciple Mode for players above level 60 and used to exchange for different items.
 308	Buy favor package
-309	The gift package can be purchased in the ${pos (365,317,172.20, 'Favor Store')}
+309	The gift package can be purchased in the ${pos(365,317,172,20,'Favor Store')}
 310	Weekly the Goddess gives 105 Ares Points to the Knights. Points can be used to participate in some activities and access quests from the battlefield.
 311	Update:
 312	Every Saturday at 06:00
-313	Ares Points can be used with ${pos (222,317,238.20, 'Amanda')}
+313	Ares Points can be used with ${pos(222,317,238,20,'Amanda')}
 314	When you step up in [Dungeon] Seven Pillars of Ocean I, [Dungeon] Seven Pillars of Ocean II and in [Heroic] in the dungeon, in difficult mode, you can get Hero Points.
 315	Releases in:
 316	Level 80
 317	When you reach a certain level, you can participate in the dungeon corresponding to [Heroic]
 318	By using the Blessing of the Goddess, you can get your reputation.
-319	You can change with ${pos (364,317,190.20, 'Cristina')}
+319	You can change with ${pos(364,317,190,20,'Cristina')}
 320	Guardianship Award; When the Apprentice graduates, you can receive your prize with the NPC.
 321	Can be changed with ${npc(34576)}
 322	Romance Points are specific reputation awards for players who are husband and wife. They can be accumulated through daily Quests. If they divorce, the points are deleted, but the titles are not.
 323	The specific title of husband and wife can be changed with ${npc(38333)}
 324	Area governed by Hades where people go to die. In addition to the Wailing Wall, there is the road to the Champs Elysees. To enter the World of the Dead alive, it is necessary to awaken the 8th Sense.
 325	Underworld
-326	When the reputation reaches a certain level, you can buy items with ${pos (-93.74,271.53, -785.2,11, 'Greed')}
+326	When the reputation reaches a certain level, you can buy items at ${pos(-93.74,271.53,-785.2,11,'Greed')}
 327	The paradise of the World of the Dead where only the chosen people can enter. It is a place free from all sufferings and sorrows. The real body of Hades is kept in this place.
 328	Champs Elysees
-329	When the reputation reaches a certain level, you can change titles with ${pos (-172,343,279.2, 'Gilgamesh')}
+329	When the reputation reaches a certain level, you can change titles with ${pos(-172,343,279,2,'Gilgamesh')}
 330	Golden Knight
 331	Silver Knight
 332	Zone
 333	Individual
 334	Reputation of ${name} earned: ${point} points
 335	Reputation of ${name} lost: ${point} points
-336	Earned ${name} ${point / 100} points
-337	Crafting consumed ${name} ${point / 100} points
+336	Earned ${name} ${point/100} points
+337	Crafting consumed ${name} ${point/100} points
 338	Update the narrative <The Knights of the Goddess> consumed ${point} points of the daily update amount
 339	Today you can still receive the Quest <Destiny Challenge> ${total} times
 340	${name} consumed: ${point}
@@ -351,19 +351,19 @@
 350	Earth element damage bonus %d%%
 351	Thunder element damage bonus %d%%
 352	Light element damage bonus %d%%
-353	^ff0000LV5 there is a higher bonus ^f2f3f2
-354	^ff0000LV11 changes to Silver ^f2f3f2
-355	^ff0000LV17 changes to Gold ^f2f3f2
-356	^ff0000LV33 there is a higher bonus ^f2f3f2
-357	^ff0000LV40 changes to Divine ^f2f3f2
-358	^ff0000LV48 reaches the final Divine ^f2f3f2
-359	^ff0000LV11 there is a bigger bonus ^f2f3f2
-360	^ff0000LV17 there is a higher bonus ^f2f3f2
-361	^ff0000LV24 there is a bigger bonus ^f2f3f2
-362	^ff0000LV40 there is a greater bonus ^f2f3f2
-363	^ff0000LV20 receives Divine Wings ^f2f3f2
-364	^ff0000LV34 there is a bigger bonus ^f2f3f2
-365	^ff0000LV48 there is a bigger bonus ^f2f3f2
+353	^ff0000At LV5: Extra bonus ^f2f3f2
+354	^ff0000At LV11: Becomes Silver ^f2f3f2
+355	^ff0000At LV17: Becomes Gold ^f2f3f2
+356	^ff0000At LV33: Extra bonus ^f2f3f2
+357	^ff0000At LV40: Becomes Divine ^f2f3f2
+358	^ff0000At LV48: Becomes Final Divine ^f2f3f2
+359	^ff0000At LV11: Extra bonus ^f2f3f2
+360	^ff0000At LV17: Extra bonus ^f2f3f2
+361	^ff0000At LV24: Extra bonus ^f2f3f2
+362	^ff0000At LV40: Extra bonus ^f2f3f2
+363	^ff0000At LV20: Receives D. Wings ^f2f3f2
+364	^ff0000At LV34: Extra bonus ^f2f3f2
+365	^ff0000At LV48: Extra bonus ^f2f3f2
 366	• King's Mark (Resistance to Earth): \rJupiter + Venus + Sun + Moon + Uranus \rJupiter + Venus + Sun + Neptune + Hades \r • Whale Mark (Water Resistance): \rJupiter + Venus + Sun + Moon + Neptune \rJupiter + Venus + Moon + Uranus + Neptune \r • Phoenix Brand (Resistance to Fire): \rJupiter + Venus + Sun + Moon + Hades \rJupiter + Venus + Moon + Uranus + Hades \r • Brand of Pegasus (Resistance to Wind): \rJupiter + Venus + Sun + Uranus + Neptune \rJupiter + Venus + Moon + Neptune + Hades \r • Mark of the Titan (Thunder Resistance): \rJupiter + Venus + Sun + Uranus + Hades \rJupiter + Venus + Uranus + Neptune + Hades \r • Holy Mark (Resistance to Light): \rJupiter + Venus + Sun + Moon + Polaris \rJupiter + Venus + Sun + Uranus + Polaris
 367	• King's Mark (Resistance to Earth): \rMercury + Jupiter + Sun + Moon + Uranus \rMercury + Jupiter + Sun + Neptune + Hades \r • Whale Mark (Water Resistance): \rMercury + Jupiter + Sun + Moon + Neptune \rMercury + Jupiter + Moon + Uranus + Neptune \r • Phoenix Brand (Resistance to Fire): \rMercury + Jupiter + Sun + Moon + Hades \rMercury + Jupiter + Moon + Uranus + Hades \r • Brand of Pegasus (Resistance to Wind): \rMercury + Jupiter + Sun + Uranus + Neptune \rMercury + Jupiter + Moon + Neptune + Hades \r • Titan Mark (Thunder Resistance): \rMercury + Jupiter + Sun + Uranus + Hades \rMercury + Jupiter + Uranus + Neptune + Hades \r • Holy Mark (Resistance to Light): \rMercury + Jupiter + Sun + Moon + Polaris \rMercury + Jupiter + Sun + Uranus + Polaris
 368	• King's Mark (Earth Resistance): \rSaturn + Mercury + Sun + Moon + Uranus \rSaturn + Mercury + Sun + Neptune + Hades \r • Whale Mark (Water Resistance): \r Saturn + Mercury + Sun + Moon + Neptune \rSaturn + Mercury + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rSatur + Mercury + Sun + Moon + Hades \rSatur + Mercury + Moon + Uranus + Hades \r • Brand of Pegasus (Resistance to Wind): \rSaturn + Mercury + Sun + Uranus + Neptune \rSaturno + Mercury + Moon + Neptune + Hades \r • Titan Mark (Thunder Resistance): \rSaturn + Mercury + Sun + Uranus + Hades Saturn + Mercury + Uranus + Neptune + Hades \r • Holy Mark (Resistance to Light): \ Saturn + Mercury + Sun + Moon + Polaris \ Saturn + Mercury + Sun + Uranus + Polaris
@@ -535,10 +535,10 @@
 534	^66ff00 Asc. %d
 535	^66FF00%d
 536	%d
-537	LV %d (Asc. %d)
-538	LV %d ^66FF00 (Asc. %d)
-539	LV %d ( %d)
-540	LV %d ^66FF00 ( %d)
+537	LV %d(Asc. %d)
+538	LV %d^66FF00 (Asc. %d)
+539	Lv %d(%d)
+540	Lv %d^66FF00(%d)
 541	%d ( %d)
 542	%d ^66FF00 ( %d)
 543	Blood!
@@ -1034,8 +1034,8 @@
 1033	Enchantment failed
 1034	Enchantment successfully removed
 1035	Insufficient inventory space, please try again after freeing space
-1036	%s \ t Power + %d
-1037	Activate %d units of \ t Power: %d
+1036	%s\tPower+%d
+1037	Req: %d\tPower: %d
 1038	%s LV %d
 1039	Define Password
 1040	Modify Password
@@ -1071,10 +1071,10 @@
 1070	Separation of the Soul in Virtue carried out successfully
 1071	Failure in the separation of the Soul in Virtue
 1072	%s rolled the data and the %d fell (0 - 100)
-1073	In case you do not sign a day, you can still sign on. \r ^FFB90FFirmastes presence in %d days in this month. \rThe Prize Presence is renewed monthly.
+1073	You have logged in for %d days accumulatively this month. \r ^FFB90FUse Presence Card in case of broken combo. Sign-in rewards resets each month.
 1074	Signed
 1075	Sign
-1076	Replenish ( %d)
+1076	Restore(%d)
 1077	Not signed
 1078	You do not have a Presence Replacement Card
 1079	Fail to sign presence
@@ -1891,7 +1891,7 @@
 1890	─────────────────────────
 1891	.
 1892	(Empty)
-1893	(Empty) \ t
+1893	(Empty) \t
 1894	Strong features
 1895	Weak characteristics
 1896	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffSearch for Joseph in Silver City \rNecessary items: \rBraze fragment x15
@@ -1942,7 +1942,7 @@
 1941	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to possess the Surplice of Acheron \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
 1942	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to own the Surplice of Aldebaran \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
 1943	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Harpian Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
-1944	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Balrog Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1944	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Balron Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
 1945	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ \ \ You need to have the Basilisk Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
 1946	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Minotaur Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
 1947	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Sphinx Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
@@ -2052,7 +2052,7 @@
 2051	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Acheron^ff0000 Scale\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2052	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Aldebaran^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2053	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Harpy^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
-2054	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Balrog^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2054	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Balron^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2055	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Basilisk^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2056	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Minotaur^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2057	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required Asc. level 7\rRequires ^fff600Sphinx^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
@@ -2080,7 +2080,7 @@
 2079	Once reputation reaches a certain level visit ${pos(-278,343,220,2,'Star Quartermaster')} to purchase items
 2080	Available at ${pos(-264,356,309,2,'Legacy Store')}
 2081	Available at ${pos(-204,337,16,2,'Amanda')} war exchange
-2082	Available at ${pos(-227,337,66,2, 'Cristina')} exchange
+2082	Available at ${pos(-227,337,66,2,'Cristina')} exchange
 2083	1.  Open the portable warehouse service\r2.  Turn on the portable service
 2084	Permanent attribute title: “Full Portfolio”\rPortable mail, runes, warehouse, gathering, VIP privileged mall services
 2085	Permanent attribute title: “Courage Gold Rush”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service

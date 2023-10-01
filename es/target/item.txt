@@ -1548,9 +1548,9 @@
 1547	[%s] activado tras refinar al Nv%d
 1548	Pericia %d (aumenta %dpts al alcanzar Nv%d)
 1549	Pericia %d
-1550	atributos por posesiónSig. Nv.
+1550	atributos por posesiónSig. Nv.
 1551	^00FF00atributos por posesión^N
-1552	atributos al EquipaarSig. Nv.
+1552	atributos al EquipaarSig. Nv.
 1553	^00FF00atributos al Equipaar^N
 1554	%s%s
 1555	^00FFFFCombinación del Anima (atributos con la combinación completa)
@@ -1656,7 +1656,7 @@
 1655	^ffffffCoger el rojo de la naturaleza\r^72fe00 Clique aqui para usar
 1656	^ffffffCoger el amarillo de la naturaleza\r^72fe00 Clique aqui para usar
 1657	^ffffffCoger el azul de la naturaleza\r^72fe00 Clique aqui para usar
-1658	^ff0000vincular la alma\rEste Equipaamiento usado, mejorado, será vinculado permanentemente\r después para transferencia o transformación en grabado divino
+1658	^ff0000Bound to player\rThis item will be bound after the upgrade.
 1659	^ffffff Sangre del cuerpo del aldeano, mezclado con gas negro
 1660	^ffffff El balde ya está lleno de agua
 1661	^ffffff Vesícula rara de cobra, su finalidad es de eficacia sorprendente

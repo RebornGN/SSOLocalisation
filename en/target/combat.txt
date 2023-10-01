@@ -6,7 +6,7 @@
 5	^00FF00Your^N attack ^00FF00%s^N of ^00FF00%s^N hit ^00FF00%s^N and caused ^FFA545%d^N damage
 6	^00FF00Your^N effect ^00FF00%s^N of ^00FF00%s^N caused ^FFA545%d^N damage
 7	^00FF00%s^N hit ^00FF00you^N and caused ^FF0000%d^N damage
-8	^00FF00%s^N of ^00FF00%s^N hit  ^00FF00you^N and caused ^FF0000%d^N damage
+8	^00FF00%s^N's ^00FF00%s^N hit ^00FF00you^N and caused ^FF0000%d^N damage
 9	^00FF00%s^N pet ^00FF00%s^N hit you for ^FF0000%d^N damage
 10	^00FF00%s^N pet ^00FF00%s^N skill ^00FF00%s^N caused ^FF0000%d^N damage
 11	^00FF00%s^N summon ^00FF00%s ^N caused ^FF0000%d^N damage
@@ -24,13 +24,13 @@
 23	^00FF00%s^N yours ^00FF00hit ^N healed ^00FFFF%d^N health points
 24	^00FF00%s^N of ^00FF00%s^N effect ^00FF00hit ^N healed ^00FFFF%d^N health points
 25	^00FF00%s^N Summon ^00FF00%s^N your ^00FF00hit ^N healed ^00FFFF%d^N health points
-26	^00FF00%s^N Summon ^00FF00%s^N of ^00FF00%s^N effect  ^00FF00hit ^N healed ^00FFFF%d^N health points
-27	^00FF00%s^N summon ^00FF00%s^N You^00FF00hit ^N hit  healed ^00FFFF%d^N health points
+26	^00FF00%s^N Summon ^00FF00%s^N of ^00FF00%s^N effect ^00FF00hit ^N healed ^00FFFF%d^N health points
+27	^00FF00%s^N summon ^00FF00%s^N You^00FF00hit^N hit healed ^00FFFF%d^N health points
 28	^00FF00%s^N summon ^00FF00%s^N of ^00FF00%s^N effect ^00FF00hit ^N healed ^00FFFF%d^N health points
 29	^00FF00You^N restored ^00FFFF%d^N health points
 30	^00FF00%s^N effect ^00FF00hit ^N healed^00FFFF%d^N health points
 31	^00FF00You^N restored^00FFFF%d^N health points
-32	^00FF0You ^N used ^00FF00%s^N to restore ^00FFFF%d^N health points
+32	^00FF00You ^N used ^00FF00%s^N to restore ^00FFFF%d^N health points
 33	^00FF00You^N Summon ^00FF00%s^N of ^00FF00yours^N restored ^00FFFF%d^N health points
 34	^00FF00^N Summon ^00FF00%s^N of ^00FF00%s^N effect  ^00FF00hit ^N healed ^00FFFF%d^N health points
 35	^00FF00^N Summon of ^00FF00%s^N You^00FF00^N hit  healed ^00FFFF%d^N health points

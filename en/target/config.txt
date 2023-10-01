@@ -1,324 +1,324 @@
-0	Adjust the fixed value of the fighting power
-1	^ffff00 ★ Power %d ^f2f3f2
-2	Adjust the fixed value of HP
-3	HP + %d
-4	Adjust the fixed value of the physical force
-5	Vigor + %d
-6	Adjust the fixed value of maximum grudge
+0	Affects value of Fighting Power
+1	^ffff00 ★Power %d ^f2f3f2
+2	Affects value of Health
+3	Health + %d
+4	Affects value of Stamina
+5	Stamina + %d
+6	Affects value of Maximum Grudge
 7	Grudge + %d
-8	Adjust the fixed value of maximum rage
-9	Rabies + %d
-10	Adjust the fixed value of HP recovery speed
-11	Recovery of HP + %d
-12	Adjust the fixed value of the recovery speed of the HP status of the battle
-13	Recovery of Battle HP + %d
-14	Setting the MP recovery speed fixed value
-15	Recovery of MP + %d
-16	Adjust the fixed value of the recovery speed of the MP status of the battle
-17	Recovery of battle MP + %d
-18	Setting the fixed value of recovery speed of the Grudge
-19	Spite Recovery + %d
-20	Adjust the fixed value of the recovery speed of the battle Spite status
-21	Recovery from Battle Stub + %d
-22	Setting the fixed value of Rabies recovery speed
-23	Rabies Recovery + %d
-24	Adjust the fixed value of the recovery speed of the Rage status of the battle
-25	Recovery from Battle Rage + %d
-26	Adjust the fixed value of the Earth Damage properties
+8	Affects value of Maximum Rage
+9	Rage + %d
+10	Affects value of Health recovery speed
+11	Health Recovery + %d
+12	Affects value of Health recovery speed during Combat
+13	Combat Health Recovery + %d
+14	Affects value of Stamina recovery speed
+15	Stamina Recovery + %d
+16	Affects value of Stamina recovery speed during Combat
+17	Combat Stamina Recovery + %d
+18	Affects value of Grudge recovery speed
+19	Grudge Recovery + %d
+20	Affects value of Grudge recovery speed during Combat
+21	Combat Grudge Recovery + %d
+22	Affects value of Rage recovery speed
+23	Rage Recovery + %d
+24	Affects value of Rage recovery speed during Combat
+25	Combat Rage Recovery + %d
+26	Affects value of Earth Damage attribute
 27	Earth Damage + %d
-28	Adjust the fixed value of Water Damage properties
+28	Affects value of Water Damage attribute
 29	Water Damage + %d
-30	Adjust the fixed value of the properties of Fire Damages
+30	Affects value of Fire Damage attribute
 31	Fire Damage + %d
-32	Adjust the fixed value of the properties of the air attacks
-33	Air Damage + %d
-34	Adjust the fixed value of the earth resistance properties
-35	Resistance to Earth + %d
-36	Adjust the fixed value of water resistance properties
+32	Affects value of Wind Damage attribute
+33	Wind Damage + %d
+34	Affects value of Earth Resistance attribute
+35	Earth Resistance + %d
+36	Affects value of Water Resistance attribute
 37	Water Resistance + %d
-38	Adjust the fixed value of fire resistance properties
+38	Affects value of Fire Resistance attribute
 39	Fire Resistance + %d
-40	Adjust the fixed value of the air resistance properties
-41	Resistance to Air + %d
-42	Adjust the fixed value of reduction of the property of resistance to earth
-43	Reduction of Earth Resistance + %d
-44	Adjust fixed value of water resistance property reduction
-45	Reduction of Water Resistance + %d
-46	Adjust the fixed value of reduced fire resistance property
-47	Reduction of Fire Resistance + %d
-48	Adjust the fixed value for reduction of the air resistance property
-49	Reduction of Resistance to Air + %d
-50	Adjust damage frequency of ground properties
+40	Affects value of Wind Resistance attribute
+41	Wind Resistance + %d
+42	Affects value of Earth Mastery
+43	Earth Mastery + %d
+44	Affects value of Water Mastery
+45	Water Mastery + %d
+46	Affects value of Fire Mastery
+47	Fire Mastery + %d
+48	Affects value of Water Mastery
+49	Wind Mastery + %d
+50	Affects value of Earth Damage multiplier
 51	Earth Damage + %.0f %%
-52	Adjust frequency of damage of water properties
+52	Affects value of Water Damage multiplier
 53	Water Damage + %.0f %%
-54	Adjust the frequency of fire property damage
-55	Fire Damage damage + %.0f %%
-56	Adjust the frequency of damage of air properties
-57	Air Damage + %.0f %%
-58	Adjust the fixed value of walking speed
-59	Walking Speed ​​+ %0.1fm / s
-60	m / s
-61	Adjust the fixed value of running speed
-62	Running Speed ​​+ %0.1fm / s
-63	Adjust the fixed value of the riding speed
-64	Riding Speed ​​+ %0.1f m / s
-65	Adjust the fixed value of the flight speed
-66	Flight speed + %0.1f m / s
-67	Adjust the fixed value of the swim speed
-68	Swim speed + %0.1f m / s
-69	Adjust the fixed value of the jump height
-70	Jump Height + %0.1f m / s
-71	Adjust the fixed Precision value
+54	Affects value of Fire Damage multiplier
+55	Fire Damage + %.0f %%
+56	Affects value of Wind Damage multiplier
+57	Wind Damage + %.0f %%
+58	Affects walking speed rate
+59	Walking Speed ​​+ %0.1f m/s
+60	m/s
+61	Affects run speed rate
+62	Run Speed ​​+ %0.1f m/s
+63	Affects mount speed rate
+64	Mount Speed ​​+ %0.1f m/s
+65	Affects flying speed rate
+66	Fly Speed + %0.1f m/s
+67	Affects swim speed rate
+68	Swim Speed + %0.1f m/s
+69	Affects height of jumps
+70	Jump Height + %0.1f m/s
+71	Affects value of Accuracy
 72	Accuracy + %d
-73	Adjust the fixed evasion value
+73	Affects value of evasion
 74	Evasion + %d
-75	Adjust fixed value of the small attack
+75	Affects value of Minimum Attack
 76	Minimum Attack + %d
-77	Adjust the fixed value of the big attack
+77	Affects value of Maximum Attack
 78	Maximum Attack + %d
-79	Adjust the fixed defense value
+79	Affects value of Defense
 80	Defense + %d
-81	Adjust the fixed value of additional damage
+81	Affects value of Additional Damage
 82	Additional Damage + %.0f %%
-83	Adjust the fixed value of damage frequency
+83	Affects value of Damage multiplier
 84	Damage + %.0f %%
-85	Adjust the fixed value of the critical attack rate
-86	Crit Chance +%.1f %%
-87	Setting the fixed value of additional critical attack damage
-88	Critical Attack Damage + %d
-89	Setting the fixed value of the critical attack resistance probability
-90	Prob. Res. Critical +%.1f %%
-91	Adjustment of the fixed value of the extra probability of resistance to critical attack
-92	Physical damage reduction + %d
-93	Adjustment of the fixed value of the Lucky Attack rate
-94	Luck Attack Rate + %1f %%
-95	Adjust the fixed value of the direct attack rate
-96	Direct Attack Index + %.0f %%
-97	Adjust the fixed resistance value of physical damage
-98	Resistance of Physical Damage + %.0f %%
-99	Adjust the fixed value of resistance to magic
-100	Resistance to Magic + %.0f %%
-101	Adjust the fixed value of poison resistance
-102	Resistance to Poisoning + %d
-103	Adjust the fixed value of resistance to confusion
-104	Resistance to Confusion + %d
-105	Adjust the fixed value of resistance to weakness
-106	Resistance to Sleep + %d
-107	Adjust the fixed value of silence resistance
-108	Resistance to Silence + %d
-109	Adjust the fixed value of the speed reduction resistance
-110	Resistance to Speed ​​Reduction + %d
-111	Adjust the fixed value to ignore the resistance to poisoning
-112	Ignore Resistance to Poisoning + %d
-113	Adjust the fixed value to ignore resistance to confusion
-114	Ignore Resistance to Confusion + %d
-115	Adjust the fixed value to ignore resistance to weakness
-116	Ignore Resistance to Weakness + %d
-117	Adjust the fixed value to ignore sleep resistance
-118	Ignoring Sleep Resistance + %d
-119	Adjust the fixed value to ignore the resistance to speed reduction
-120	Ignore Resistance to Speed ​​Reduction + %d
-121	Adjust the fixed value of the medicinal treatment effect
-122	Effect of Medicinal Treatment + %.0f %%
-123	Adjust the percentage of the HP value
-124	HP +%.1f %%
-125	Adjust the percentage of the physical force value
-126	Physical strength + %.0f %%
-127	Adjust the maximum percentage of rancor
+85	Affects value of Crit Chance 
+86	CritChance +%.1f %%
+87	Affects value of Critical Damage
+88	CritBonus + %d
+89	Affects value of CritNull
+90	CritNull +%.1f %%
+91	Affects value of CritShield
+92	CritShield + %d
+93	Affects Lucky Attack Chance
+94	Lucky Attack Chance + %1f %%
+95	Affects Direct Attack Chance
+96	Direct Attack Chance + %.0f %%
+97	Affects value of Physical Damage Resistance
+98	Physical Damage Resistance + %.0f %%
+99	Affects value of Magic Damage Resistance
+100	Magic Damage Resistance + %.0f %%
+101	Affects value of Poison Resistance
+102	Poison Resistance + %d
+103	Affects value of Stun Resistance
+104	Stun Resistance + %d
+105	Affects value of Sleep Resistance
+106	Sleep Resistance + %d
+107	Affects value of Silence Resistance
+108	Silence Resistance + %d
+109	Affects value of Slow Resistance
+110	Slow Resistance + %d
+111	Affects value of Poison Mastery
+112	Poison Mastery + %d
+113	Affects value of Stun Mastery
+114	Stun Mastery + %d
+115	Affects value of Sleep Mastery
+116	Sleep Mastery + %d
+117	Affects value of Silence Mastery
+118	Silence Mastery + %d
+119	Affects value of Slow Mastery
+120	Slow Mastery + %d
+121	Affects value of Healing Efficiency
+122	Healing Efficiency + %.0f %%
+123	Affects value of Health multiplier
+124	Health +%.1f %%
+125	Affects value of Stamina multiplier
+126	Stamina + %.0f %%
+127	Affects value of Grudge multiplier
 128	Grudge + %.0f %%
-129	Adjust the maximum percentage of rabies
-130	Rabies + %.0f %%
-131	Adjust the HP recovery rate percentage of value
-132	Recovery of HP + %.0f %%
-133	Adjust the speed percentage of the HP combat status value recovery
-134	Recovery of Battle HP + %.0f %%
-135	Adjust the recovery speed percentage of the physical force value
-136	Recovery of Physical Strength + %.0f %%
-137	Adjust the recovery rate percentage of the status value of the physical combat force
-138	Recovery of Combat Physical Strength + %.0f %%
-139	Adjust the percentage of resentment recovery speed
-140	Spite Recovery + %.0f %%
-141	Adjust the recovery speed percentage of the combat grudge status value
-142	Recovery of Combat Rage + %.0f %%
-143	Adjust rabies recovery rate percentage
-144	Rabies Recovery + %.0f %%
-145	Adjust the recovery speed percentage of the combat rage status value
-146	Recovery from Combat Rage + %.0f %%
-147	Adjust the percentage of properties of Earth Damages
+129	Affects value of Rage multiplier
+130	Rage + %.0f %%
+131	Affects value of Health Recovery multiplier
+132	Health Recovery + %.0f %%
+133	Affects value of Health Recovery multiplier during Combat
+134	Combat Health Recovery + %.0f %%
+135	Affects value of Stamina Recovery multiplier
+136	Stamina Recovery + %.0f %%
+137	Affects value of Stamina Recovery multiplier during Combat
+138	Combat Stamina Recovery + %.0f %%
+139	Affects value of Grudge Recovery multiplier
+140	Grudge Recovery + %.0f %%
+141	Affects value of Grudge Recovery multiplier during Combat
+142	Combat Grudge Recovery + %.0f %%
+143	Affects value of Rage Recovery multiplier
+144	Rage Recovery + %.0f %%
+145	Affects value of Rage Recovery multiplier during Combat
+146	Combat Rage Recovery + %.0f %%
+147	Affects value of Earth Damage multiplier
 148	Earth Damage +%.1f %%
-149	Adjust the percentage of properties of Water Damages
+149	Affects value of Water Damage multiplier
 150	Water Damage +%.1f %%
-151	Adjust the percentage of properties of Fire Damages
+151	Affects value of Fire Damage multiplier
 152	Fire Damage + %.1f %%
-153	Adjust the percentage of properties of air attacks
-154	Air Damage + %.1f %%
-155	Adjust the percentage of the walking speed
+153	Affects value of Wind Damage multiplier
+154	Wind Damage + %.1f %%
+155	Affects value of Walking Speed multiplier
 156	Walking Speed ​​+ %0f %%
-157	Adjust the percentage of the running speed
-158	Running Speed ​​+ %.0f %%
-159	Adjust the percentage of the speed of riding
-160	Riding Speed ​​+ %.0f %%
-161	Adjust the percentage of the flight speed
-162	Flight Speed ​​+ %.0f %%
-163	Adjust the percentage of the swim speed
+157	Affects value of Run Speed multiplier
+158	Run Speed ​​+ %.0f %%
+159	Affects value of Mount Speed multiplier
+160	Mount Speed ​​+ %.0f %%
+161	Affects value of Fly Speed multiplier
+162	Fly Speed ​​+ %.0f %%
+163	Affects value of Swim Speed multiplier
 164	Swim Speed ​​+ %.0f %%
-165	Adjust the percentage of the jump height
+165	Affects value of Jump Height multiplier
 166	Jump Height + %.0f %%
-167	Adjusts Precision percentage
+167	Affects value of Accuracy multiplier
 168	Accuracy + %.0f %%
-169	Adjust the percentage of evasion
+169	Affects value of Evasion multiplier
 170	Evasion + %.0f %%
-171	Adjust the percentage of the small attack
+171	Affects value of Minimum Attack multiplier
 172	Minimum Attack + %.1f %%
-173	Adjust percentage of the big attack
+173	Affects value of Maximum Attack multiplier
 174	Maximum Attack +%.1f %%
-175	Adjust defense percentage
+175	Affects value of Defense multiplier
 176	Defense + %.1f %%
-177	Adjust percentage of additional damage of the critical attack
-178	Critical Attack + %.1f %%
-179	Adjust the percentage of additional damage reduction critical attack
-180	CritBonus Reduction + %.1f %%
-181	Adjust the percentage of resistance to poisoning
-182	Resistance to Poisoning + %.0f %%
-183	Adjust the percentage of resistance to confusion
-184	Resistance to Confusion + %.0f %%
-185	Adjust the percentage of resistance to weakness
-186	Resistance to Sleep + %.0f %%
-187	Adjust the resistance percentage to silence
-188	Resistance to Silence + %.0f %%
-189	Adjust the percentage of resistance to speed reduction
-190	Resistance to speed reduction + %.0f %%
-191	Adjust to ignore the percentage of resistance to poisoning
-192	Ignore Resistance to Poisoning + %.0f %%
-193	Adjust to ignore the percentage of resistance to confusion
-194	Ignore Resistance to Confusion + %.0f %%
-195	Adjust to ignore the percentage of resistance to weakness
-196	Ignore Resistance to Sleep + %.0f %%
-197	Adjust to ignore the percentage of resistance to silence
-198	Ignore Resistance to Silence + %.0f %%
-199	Adjust to ignore the percentage of resistance to speed reduction
-200	Ignore Resistance to Speed ​​Reduction + %.0f %%
-201	Adjust the percentage of the medicinal treatment effect
-202	Effect of Medicinal Treatment + %.1f %%
-203	Adjust the attack percentage
+177	Affects value of CritBonus multiplier
+178	CritBonus + %.1f %%
+179	Affects value of CritShield multiplier
+180	CritShield + %.1f %%
+181	Affects value of Poison Resistance multiplier
+182	Poison Resistance + %.0f %%
+183	Affects value of Stun Resistance multiplier
+184	Stun Resistance + %.0f %%
+185	Affects value of Sleep Resistance multiplier
+186	Sleep Resistance + %.0f %%
+187	Affects value of Silence Resistance multiplier
+188	Silence Resistance + %.0f %%
+189	Affects value of Slow Resistance multiplier
+190	Slow Resistance + %.0f %%
+191	Affects value of Poison Mastery multiplier
+192	Poison Mastery + %.0f %%
+193	Affects value of Stun Mastery multiplier
+194	Stun Mastery + %.0f %%
+195	Affects value of Sleep Mastery multiplier
+196	Sleep Mastery + %.0f %%
+197	Affects value of Silence Mastery multiplier
+198	Silence Mastery + %.0f %%
+199	Affects value of Slow Mastery multiplier
+200	Slow Mastery + %.0f %%
+201	Affects value of Healing Efficiency multiplier
+202	Healing Efficiency + %.1f %%
+203	Affects value of Attack multiplier
 204	Attack +%.1f %%
-205	Add new skills
-206	Reduce the cooldown of specific skills
-207	%s reduce the cooldown %d milliseconds
-208	Add the existing skill level
-209	Additional Skills: %s + %d
-210	Money obtained with percentage increase
-211	Moeda obtained + %.0f %%
-212	Experience obtained with percentage increase
-213	Experience in killing monster obtained + %.0f %%
-214	Adjust fixed attack value
+205	Adds new skills
+206	Reduces cooldown certain skills
+207	Reduces %s cooldown by %d ms
+208	Increases existing skill level
+209	Skill %s Rank + %d
+210	Affects value of Money obtained percentage value
+211	Money + %.0f %%
+212	Affects value of Experience obtained percentage value
+213	Monster EXP + %.0f %%
+214	Affects value of Attack
 215	Attack + %d
-216	Adjust fixed value of damage resistance properties
-217	Resistance to damage + %.0f %%
-218	Adjust fixed value of the Onslaught
-219	Onslaught + %.0f %%
-220	Adjust fixed protection value
-221	Protection + %.2f %%
-222	Adjust fixed value of the Armature
-223	Armor + %.0f %%
-224	Adjust fixed destruction value
-225	Destruction + %.2f %%
-226	Adjust fixed value of properties of electricity attacks
-227	Thunder Damage + %d
-228	Adjust fixed value of electricity resistance properties
+216	Affects value of Damage Reduction multiplier
+217	Damage Reduction + %.0f %%
+218	Affects value of Smash multiplier
+219	Smash + %.0f %%
+220	Affects value of Parry multiplier
+221	Parry + %.2f %%
+222	Affects value of Block multiplier
+223	Block + %.0f %%
+224	Affects value of Penetration multiplier
+225	Penetration + %.2f %%
+226	Affects value of Thunder Attack
+227	Thunder Attack + %d
+228	Affects value of Thunder Resistance
 229	Thunder Resistance + %d
-230	Adjust the fixed value of reduction of properties of resistance to electricity
-231	Penet. resist to Thunder + %d
-232	Adjust damage frequency of electricity properties
-233	Thunder Damage damage + %d
-234	Adjust fixed value of bleeding resistance
-235	Resistance to bleeding + %d
-236	Adjust fixed value of burn resistance properties
-237	Resistance to burn + %d
-238	Adjust fixed value of fall resistance properties
-239	Fall resistance + %d
-240	Adjust fixed value of freeze resistance
-241	Freezing resistance + %d
-242	Adjust fixed value of petrification resistance
-243	Resistance to petrification + %d
-244	Adjust the fixed value for reducing the resistance to bleeding
-245	Penet. resist to bleeding + %d
-246	Adjust the fixed value of burn resistance reduction
-247	Penet. resist to burn + %d
-248	Adjust the fixed value of resistance reduction to fall
-249	Penet. resist to fall + %d
-250	Adjust the fixed value of reduction of freezing resistance
-251	Penet. resist to freezing + %d
-252	Adjust the fixed value of reduction of the petrification resistance
-253	Penet. resist to petrification + %d
-254	Adjust percentage of properties of electricity attacks
+230	Affects value of Thunder Mastery
+231	Thunder Mastery + %d
+232	Affects value of Thunder Damage
+233	Thunder Damage + %d
+234	Affects value of Bleed Resistance
+235	Bleed Resistance + %d
+236	Affects value of Burn Resistance
+237	Burn Resistance + %d
+238	Affects value of Fall Resistance
+239	Fall Resistance + %d
+240	Affects value of Freeze Resistance
+241	Freeze Resistance + %d
+242	Affects value of Paralyze Resistance
+243	Paralyze Resistance + %d
+244	Affects value of Bleed Mastery
+245	Bleed Mastery + %d
+246	Affects value of Burn Mastery
+247	Burn Mastery + %d
+248	Affects value of Fall Mastery
+249	Fall Mastery + %d
+250	Affects value of Freeze Mastery
+251	Freeze Mastery + %d
+252	Affects value of Paralyze Mastery
+253	Paralyze Mastery + %d
+254	Affects value of Thunder Damage multiplier
 255	Thunder Damage +%.1f %%
-256	Adjust percentage of properties of bleeding attacks
-257	Bleeding attacks + %.0f %%
-258	Adjust percentage of properties of burn attacks
-259	Burn Attacks + %.0f %%
-260	Adjust percentage of fall attack properties
-261	Fall attacks + %.0f %%
-262	Adjust percentage of freeze attack properties
-263	Freeze attacks + %.0f %%
-264	Adjust percentage of properties of petrification attacks
-265	Petrification attacks + %.0f %%
-266	Adjust the percentage of reduction in resistance to bleeding
-267	Penet. resist to bleeding +%.0f %%
-268	Adjust the reduction percentage of the burn resistance
-269	​​Penet. resist to burn + %.0f %%
-270	Adjust the reduction percentage of the drop resistance
-271	Penet. resist to fall +%.0f %%
-272	Adjust the percent reduction in freezing resistance
-273	Penet. resist to freezing + %.0f %%
-274	Adjust percentage of reduction of petrification resistance
-275	Penet. resist to petrification + %.0f %%
-276	Adjust the fixed values ​​of attack properties
-277	Atq elementary + %d
-278	Adjust the fixed values ​​of resistance properties
-279	Resistance to all elements +%.1f
-280	Adjust the reduction of the fixed values ​​of resistance properties
-281	Penetration against resistance to all elements +%.1f
-282	Adjusts the fixed damage values ​​of all the elements
-283	Damage of all elements + %.0f %%
-284	Adjusts the attack rate of all the elements
-285	Atq elementary +%.1f %%
-286	Increase the skill level of the corresponding sign
-287	Adjusts the fixed values ​​of resistance against abnormal status
-288	Resistance against abnormal status + %d
-289	Adjusts fixed penetration values ​​against resistance to abnormal status
-290	Penet. resist to abnormal status + %d
-291	Adjusts the fixed value of Realm transforms level
+256	Affects value of Bleed Damage multiplier
+257	Bleed Damage + %.0f %%
+258	Affects value of Burn Damage multiplier
+259	Burn Damage + %.0f %%
+260	Affects value of Fall Damage multiplier
+261	Fall Damage + %.0f %%
+262	Affects value of Freeze Damage multiplier
+263	Freeze Damage + %.0f %%
+264	Affects value of Paralyze Damage multiplier
+265	Paralyze Damage + %.0f %%
+266	Affects value of Bleed Mastery multiplier
+267	Bleed Mastery +%.0f %%
+268	Affects value of Burn Mastery multiplier
+269	​​Burn Mastery + %.0f %%
+270	Affects value of Fall Mastery multiplier
+271	Fall Mastery +%.0f %%
+272	Affects value of Freeze Mastery multiplier
+273	Freeze Mastery + %.0f %%
+274	Affects value of Paralyze Mastery multiplier
+275	Paralyze Mastery + %.0f %%
+276	Affects value of All Elements Damage
+277	All Elements Damage + %d
+278	Affects value of All Elements Resistance multiplier
+279	All Elements Resistance +%.1f
+280	Affects value of All Elements Mastery multiplier
+281	All Elements Mastery +%.1f
+282	Affects value of All Elements Damage multiplier
+283	All Elements Damage + %.0f %%
+284	Affects value of All Elements Damage multiplier
+285	All Elements Damage +%.1f %%
+286	Improve the skill level of the corresponding occupation
+287	Affects value of Negative Effect Resistance
+288	Negative Effect Resistance + %d
+289	Affects value of Negative Effect Mastery
+290	Negative Effect Mastery + %d
+291	Affects value of Darkness
 292	Darkness + %d
-293	Adjust fixed value of Light Damage properties
+293	Affects value of Light Damage
 294	Light Damage + %d
-295	Adjust fixed value of light resistance properties
-296	Resistance to light + %d
-297	Adjust fixed value of properties of reduction of resistance to light
-298	Penet. resis. Light + %d
-299	Adjust light damage frequency properties
-300	Light Damage damage + %.0f %%
-301	Adjust percentage of Light Damage properties
-302	Light Damage +%.1f %%
-303	Adjust the fixed value of main attack properties
-304	Main element attack + %d
-305	Adjust the fixed value of main resistance properties
-306	Resistance to main element + %d
-307	Adjust the fixed value of the main strength reduction properties
-308	Penet. resist to main element + %d
-309	Adjust frequency of damage of main properties
-310	Damage index of main elements + %.0f %%
-311	Adjust percentage of main attack properties
-312	Percentage of main attack properties +%.1f %%
-313	Adjust the fixed immunity value
-314	Shield + %d
-315	Adjust immunity percentage
-316	Shield +%.1f %%
-317	Adjust PVP_increase the damage percentage
-318	PVP damage rate + %1f %%
-319	Adjust PVP_Discrease the damage percentage
-320	Resistance to damage PVP + %.1f %%
+295	Affects value of Light Resistance
+296	Light Resistance + %d
+297	Affects value of Light Mastery
+298	Light Mastery + %d
+299	Affects value of Light Damage multiplier
+300	Light Damage + %.0f %%
+301	Affects value of Light Damage multiplier
+302	Light Damage + %.1f %%
+303	Affects value of Main Element Damage
+304	Main Element Damage + %d
+305	Affects value of Main Element Resistance
+306	Main Element Resistance + %d
+307	Affects value of Main Element Mastery
+308	Main Element Mastery + %d
+309	Affects value of Main Element Damage
+310	Main Element Damage + %.0f %%
+311	Affects value of Main Element Damage
+312	Main Element Damage + %.1f %%
+313	Affects value of Block
+314	Block + %d
+315	Affects value of Block multiplier
+316	Block +%.1f %%
+317	Affects value of PVP Damage
+318	PVP Damage +%.1f%%
+319	Affects value of PVP Damage Reduction
+320	PVP Damage Reduction +%.1f%%
 321	Realm 1
 322	Realm 2
 323	Realm 3
@@ -572,7 +572,7 @@
 571	Too many players on the same map and you can not finish the quest? Switch channels with fewer players
 572	When the number of messages in the chat bar is very large, you can clean all the information
 573	For each different type of mission, there will be a corresponding and different available mission icon above the head of the NPC, please pay attention to differentiate the missions of the main line with those of the secondary line.
-574	In combat status, it is not possible to select "sweet pineapple bread" or other types of recovery, the most you can do is pick up some portions of HP
+574	In combat status, it is not possible to select "sweet pineapple bread" or other types of recovery, the most you can do is pick up some portions of Health
 575	Note that you can only see friends who are on the same line as you
 576	If you are in the water or air, press the Z key since it can help you reduce the height
 577	Press the Shift + Directional keys to deflect an attack, you can also find the «Divert» skill in the Skills Book
@@ -583,7 +583,7 @@
 582	In the Missions Book, you can open / close mission tracking
 583	On the radar map, you will see the nearby NPCs, as well as the missions loaded by them
 584	After reaching a certain level, if you want to continue leveling up you will need to improve the skills to use the value of consciousness to reach the requirements.
-585	Refining an armor can grant even higher properties, in addition to being able to activate many more abilities and be able to modify the appearance of the armor
+585	Refining an armor can grant even higher attribute, in addition to being able to activate many more abilities and be able to modify the appearance of the armor
 586	All the titles obtained load an attributed bonus, go now to open the title interface to see it!
 587	Full backpack, solution 1: discard or sell useless items
 588	Full backpack, solution 2: unused items will be temporarily stored in the warehouse
@@ -592,7 +592,7 @@
 591	Cosmic energy will automatically increase during combat
 592	Learning skills can increase one's level of consciousness, enough awareness is needed to improve them
 593	Can not find a specific NPC? You can open the map interface to find the corresponding NPC
-594	If the EXP value is already complete, but you can not make improvements, click on the character properties interface to make the improvement automatically
+594	If the EXP value is already complete, but you can not make improvements, click on the character attribute interface to make the improvement automatically
 595	When you reach a certain level, all the events you can participate in and the instance zones can be found in the Calendar
 596	Are not you making improvements fast enough? Remember to activate the double EXP in the instance zone
 597	In some congested areas, can not you move? Please, in the options menu, click on "Frozen Character"
@@ -602,7 +602,7 @@
 601	Holding down the SHIFT key, click on the Atlas to add map coordinates to a chat message
 602	Holding down the SHIFT key, click on the avatar and name of the NPC to add it to a chat message
 603	The degree of perfectionism is synthesis of all the force incorporated after perfecting each piece of equipment
-604	Perfecting the equipment is the best way to improve the properties of the equipment
+604	Perfecting the equipment is the best way to improve the attribute of the equipment
 605	Learning a trade can improve your combat efficiency in all aspects
 606	Part of the materials for basic productions can be purchased in the NPC of the Sanctuary
 607	Common recovery tools such as blood bottles, bread, etc. can be purchased from pharmacists in the Realm of bread vendors scattered everywhere
@@ -656,12 +656,12 @@
 655	If you encounter a powerful enemy, other team members can help defeat him.
 656	As the players do not yet reach level 66 and have reached 40000 of fighting power, the armor's wings will appear.
 657	The more friends and close they are, the player helps a lot more!
-658	The wind properties for the Pegasus sign have additional damage 50 %higher than the other constellations
-659	The water properties for the Sign of the Cygnus have an additional 50 %higher damage than the other constellations
-660	The ground properties for the Sign of the Dragon have an additional 50 %higher damage than the other constellations
-661	The electricity properties for the Andromeda sign have an additional 50 %higher damage than the other constellations
-662	The fire properties for the Phoenix sign have an additional 50 %higher damage than the other constellations
-663	After getting the mount, please equip it and in the properties interface look for "saddle" and click.
+658	The wind attribute for the Pegasus sign have additional damage 50 %higher than the other constellations
+659	The water attribute for the Sign of the Cygnus have an additional 50 %higher damage than the other constellations
+660	The ground attribute for the Sign of the Dragon have an additional 50 %higher damage than the other constellations
+661	The electricity attribute for the Andromeda sign have an additional 50 %higher damage than the other constellations
+662	The fire attribute for the Phoenix sign have an additional 50 %higher damage than the other constellations
+663	After getting the mount, please equip it and in the attribute interface look for "saddle" and click.
 664	The moment you're strong enough, you can change the sign
 665	At the moment that the players are surpassing level 66 but they have not yet reached 86 and have a fighting power of 100000 the wings of the armor will appear
 666	The moment the players surpass level 86 and reach 180000 wrestling power, the wings of the armor will appear
@@ -691,12 +691,12 @@
 690	^fff600 The first Galaxy competition, when the time of entry is over, you can enter the corresponding field with the ticket of the game. When you hold the ticket for the game, you can enter the stadium to watch the game. The ticket is in the 6W world BOSS treasure chest. Randomly dropped \r each party up to 18 people to participate in the battle, each game can accommodate up to 80 people to watch the battle, after full staff can not enter
 691	CritRate +%.0f%%
 692	CritNull +%.0f%%
-693	Lucky Hit rate +%.0f%%
+693	Lucky Hit chance +%.0f%%
 694	Health +%.0f%%
-695	Earth attack +%.0f%%
-696	Water attack +%.0f%%
-697	Fire attack +%.0f%%
-698	Air attack +%.0f%%
+695	Earth Damage +%.0f%%
+696	Water Damage +%.0f%%
+697	Fire Damage +%.0f%%
+698	Wind Damage +%.0f%%
 699	Min Attack Power +%.0f%%
 700	Max Attack Power +%.0f%%
 701	Defense +%.0f%%
@@ -704,8 +704,8 @@
 703	CritShield +%.0f%%
 704	Attack Power +%.0f%%
 705	Block +%.0f%%
-706	Armor Breaker +%.0f%%
-707	Thunder attack +%.0f%%
-708	All RESistances +%d
-709	All RESistances reduction +%d
-710	All elements attack +%.0f%%
+706	Penetration +%.0f%%
+707	Thunder Damage +%.0f%%
+708	All Resistances +%d
+709	All Masteries +%d
+710	All Elements Damage +%.0f%%

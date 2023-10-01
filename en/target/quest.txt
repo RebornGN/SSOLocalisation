@@ -3285,7 +3285,7 @@
 3284	Damn, she must have found some danger!
 3285	Orpheus!
 3286	Who came to disturb the peace of this place?
-3287	Alma Antigua
+3287	Soul Antigua
 3288	Damn, I have inadvertently disturbed the souls here ...
 3289	I can feel your Cosmo full of goodness and honesty.
 3290	Pegasus [1st Generation]
@@ -3460,7 +3460,7 @@
 3459	I will not be defeated easily by you!
 3460	The enemy is crazy !!!
 3461	Aiolia, justice in your heart also made us come to protect!
-3462	Guerrero Protector
+3462	Warrior Protector
 3463	Ice Warrior
 3464	The invocation of spirits will reach the companion who has the least HP, Andromeda needs to help eliminate control of him!
 3465	Eliminate the hungry ghosts quickly, otherwise the Power of the Circle will defeat us!
@@ -3632,7 +3632,7 @@
 3631	All guards hit ${solo_challenge.score} / ${solo_challenge.score_need}
 3632	Shina win
 3633	Beat elite saves ${solo_challenge.score} / ${solo_challenge.score_need}
-3634	Defeat Alma of Pegasus
+3634	Defeat Soul of Pegasus
 3635	Defeat Misty
 3636	Defeat Gemini Illusion
 3637	Defeat Theodore
@@ -3781,7 +3781,7 @@
 3780	Insert Warning Plate here
 3781	Special smoke bomb that eliminates costumes!
 3782	Use ^fff000Chapter of the Goddess ^N to conclude the oath
-3783	Those flowers express mourning for the Knights
+3783	Those flowers express mourning
 3784	Try to wear the Armor
 3785	Use ^fff000 ^N Gold to take the oath
 3786	Read the ^fff000Ikki ChallengeCourt

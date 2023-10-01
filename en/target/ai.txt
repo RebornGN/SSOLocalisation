@@ -91,7 +91,7 @@
 90	$nobubble${lev(30-200)}$noname$UImid ${npc(%d)} appeared in ${line (4, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
 91	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 92	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
-93	Alma of Ley-hu
+93	Soul of Ley-hu
 94	$nobubble${lev(35-200)}$noname$UImid ${npc(%d)} appeared in ${line (3, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
 95	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 96	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!

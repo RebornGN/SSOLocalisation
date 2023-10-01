@@ -207,7 +207,7 @@
 206	Reach the Lv. twenty
 207	Wrestler's Certificate
 208	Reach the Lv. 30
-209	Guerrero Certificate
+209	Warrior Certificate
 210	Reach the Lv. 40
 211	Elite Certificate
 212	Reach the Lv. 50
@@ -371,7 +371,7 @@
 370	Complete "Episode Crusade of the Underworld", Chap.3
 371	Portal that leads to the Underworld!
 372	Complete "Episode Crusade of the Underworld," Chap.4
-373	Fugue Another Dimension!
+373	Break! Another Dimension!
 374	Complete this Tangle Quest
 375	Suffocating Melody!
 376	Complete this Tangle Quest

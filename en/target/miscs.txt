@@ -358,7 +358,7 @@
 357	Liberate Protective Constellation [Libra]
 358	Liberate Protective Constellation [Scorpio]
 359	Liberate Protective Constellation [Sagittarius]
-360	Release Protective Constellation [Capricorn]
+360	Liberate Protective Constellation [Capricorn]
 361	Liberate Protective Constellation [Aquarius]
 362	Liberate Protective Constellation [Pisces]
 363	Insufficient level, can not be changed.
